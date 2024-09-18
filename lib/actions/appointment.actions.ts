@@ -162,3 +162,21 @@ export const getAppointment = async (appointmentId: string) => {
     );
   }
 };
+
+// getappointment by userId
+export const getAppointmentByUserId = async (userId: string) => {
+  try {
+    const appointments = await databases.listDocuments(
+      DATABASE_ID!,
+      APPOINTMENT_COLLECTION_ID!,
+      [Query.equal("userId", userId)]
+    );
+
+    return parseStringify(appointments.documents);
+  } catch (error) {
+    console.error(
+      "An error occurred while retrieving the existing patient:",
+      error
+    );
+  }
+};
