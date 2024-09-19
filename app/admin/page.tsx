@@ -21,7 +21,9 @@ const AdminPage = async () => {
             className="h-8 w-fit"
           />
         </Link>
-
+        <a href="admin/patients" className="mr-4">
+                patients
+              </a>
         <p className="text-16-semibold">Admin Dashboard</p>
       </header>
 

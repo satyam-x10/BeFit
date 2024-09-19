@@ -34,6 +34,27 @@ export default function RootLayout({
         )}
       >
         <ThemeProvider attribute="class" defaultTheme="dark">
+          {/* make a navbar */}
+          <nav className="flex justify-between items-center p-4 bg-dark-400 text-white">
+            <div>
+              <a href="/" className="text-lg font-bold">
+                CarePulse
+              </a>
+            </div>
+            <div>
+              <a href="/" className="mr-4">
+                login
+              </a>
+
+              <a href="/bot" className="mr-4">
+                chatbot
+              </a>
+              <a href="/sdk" className="mr-4">
+                sdk
+              </a>
+            </div>
+          </nav>
+
           {children}
         </ThemeProvider>
       </body>
