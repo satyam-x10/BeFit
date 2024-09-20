@@ -23,7 +23,7 @@ const Home = ({ searchParams }: SearchParamProps) => {
   useEffect(() => {
     const getimg = async () => {
       const image = await fetchUnsplashImage(
-        "health, fitness, doctor, patient, happy"
+        "health, fitness, doctor, patient, happy",
       );
       setBackgroundImage(image);
     };

@@ -42,7 +42,7 @@ const RegisterForm = ({ user }: { user: User }) => {
     },
   });
   const [avatarUrl, setAvatarUrl] = useState(
-    "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/00/00b33e226554d2204aebb31cfa36079a855fdd82.jpg"
+    "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/00/00b33e226554d2204aebb31cfa36079a855fdd82.jpg",
   );
 
   useEffect(() => {

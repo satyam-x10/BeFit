@@ -145,7 +145,7 @@ const LocationSearch = () => {
                       <span className="mx-2">|</span>
                       <a
                         href={`https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(
-                          result.address
+                          result.address,
                         )}`}
                         target="_blank"
                         rel="noopener noreferrer"

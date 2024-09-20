@@ -38,7 +38,7 @@ const SymptomChecker = () => {
 
     // Call askGemini with the symptoms
     const geminiResponse = await askGemini(
-      `I am having these symptoms: ${symptoms}. Help me.`
+      `I am having these symptoms: ${symptoms}. Help me.`,
     );
     setGeminiResult(geminiResponse);
 
