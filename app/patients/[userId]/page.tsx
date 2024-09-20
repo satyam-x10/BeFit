@@ -123,16 +123,27 @@ const UserProfile = () => {
   if (!user || !patient) {
     return <div>Loading...</div>;
   }
+  console.log(user);
 
   return (
     <div className="min-h-screen bg-black p-8">
       <div className="max-w-6xl mx-auto">
-        <div className="bg-white rounded-2xl shadow-lg overflow-hidden mb-8">
-          <div className="md:flex">
-            <div className="md:w-1/3 bg-black p-8 text-white">
+        <div className="bg-white rounded-tr-2xl rounded-br-2xl shadow-lg overflow-hidden mb-8">
+          <div className="md:flex bg-black rounded-2xl">
+            <div className="md:w-1/3  bg-black p-8 text-white">
               <div className="text-center">
-                <div className="w-32 h-32 rounded-full bg-white text-blue-600 flex items-center justify-center text-4xl font-bold mx-auto mb-4">
-                  {user.name.charAt(0)}
+                <div className="w-32 h-32 rounded-full bg-white flex items-center justify-center mx-auto mb-4">
+                  {user.profilephoto ? (
+                    <img
+                      src={user.profilephoto}
+                      alt="User Profile"
+                      className="w-full h-full rounded-full object-cover"
+                    />
+                  ) : (
+                    <span className="text-blue-600 text-4xl font-bold">
+                      {user.name.charAt(0)}
+                    </span>
+                  )}
                 </div>
                 <h2 className="text-2xl font-bold mb-2">{user.name}</h2>
                 <div className="mb-2">✉️ {user.email}</div>
@@ -168,7 +179,7 @@ const UserProfile = () => {
                 </div>
               </div>
             </div>
-            <div className="md:w-2/3 p-8 bg-[#24ae7c] ">
+            <div className="md:w-2/3 rounded-2xl p-8 bg-[#24ae7c] ">
               <div className="mb-6">
                 <div className="flex space-x-2 w-full">
                   <TabButton

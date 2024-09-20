@@ -2,10 +2,10 @@
 import { zodResolver } from "@hookform/resolvers/zod";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { useForm } from "react-hook-form";
 import { z } from "zod";
-
+import axios from "axios";
 import { Form, FormControl } from "@/components/ui/form";
 import { Label } from "@/components/ui/label";
 import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group";
@@ -38,6 +38,23 @@ const RegisterForm = ({ user }: { user: User }) => {
       phone: user.phone,
     },
   });
+  const [avatarUrl, setAvatarUrl] = useState(
+    "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/avatars/00/00b33e226554d2204aebb31cfa36079a855fdd82.jpg"
+  );
+
+  useEffect(() => {
+    // Generate a random avatar using DiceBear API with a random seed
+    const randomSeed = Math.random().toString(36).substring(7);
+    const url = `https://avatars.dicebear.com/api/bottts/${randomSeed}.svg`; // You can change the avatar style
+
+    // Optional: Fetch the image to check if the URL works
+    axios.get(url).then((response) => {
+      if (response.status === 200) {
+        setAvatarUrl(url);
+        console.log("Avatar URL:", url);
+      }
+    });
+  }, []);
 
   const onSubmit = async (values: z.infer<typeof PatientFormValidation>) => {
     setIsLoading(true);
@@ -136,10 +153,17 @@ const RegisterForm = ({ user }: { user: User }) => {
             fieldType={FormFieldType.SKELETON}
             control={form.control}
             name="profilePhoto"
-            label="add a profile photo"
+            label="Add a profile photo"
             renderSkeleton={(field) => (
               <FormControl>
-                <FileUploader files={field.value} onChange={field.onChange} />
+                {avatarUrl ? (
+                  <Image
+                    source={{ uri: avatarUrl }}
+                    style={{ width: 100, height: 100, borderRadius: 50 }}
+                  />
+                ) : (
+                  <p>Loading avatar...</p>
+                )}
               </FormControl>
             )}
           />

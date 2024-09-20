@@ -25,6 +25,7 @@ export const createUser = async (user: CreateUserParams) => {
       undefined,
       user.name
     );
+    console.log("New user created:", newuser);
 
     return parseStringify(newuser);
   } catch (error: any) {
@@ -40,10 +41,32 @@ export const createUser = async (user: CreateUserParams) => {
   }
 };
 
+export const checkUserExistsByEmail = async (email: string) => {
+  try {
+    // Check if user already exists by email
+    const existingUser = await users.list([Query.equal("email", email)]);
+
+    if (existingUser.total > 0) {
+      // Return the id of the first matching user
+      return existingUser.users[0].$id;
+    }
+
+    // Return null if no user is found
+    return null;
+  } catch (error: any) {
+    console.error(
+      "An error occurred while checking if the user exists:",
+      error
+    );
+    throw error;
+  }
+};
+
 // GET USER
 export const getUser = async (userId: string) => {
   try {
     const user = await users.get(userId);
+    console.log("User details:", user);
 
     return parseStringify(user);
   } catch (error) {
