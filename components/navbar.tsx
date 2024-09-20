@@ -12,11 +12,8 @@ const navbar = () => {
       <a href="/patients/disease" className="text-white">
         disease
       </a>
-      <a href="/patients/medicine" className="text-white">
-        medicine
-      </a>
-      <a href="/patients/sdk" className="text-white">
-        sdk
+      <a href="/patients/doctors" className="text-white">
+        doctors
       </a>
     </div>
   );

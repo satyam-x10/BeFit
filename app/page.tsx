@@ -1,13 +1,12 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { motion } from "framer-motion";
 import Image from "next/image";
 import Link from "next/link";
-
 import { PatientForm } from "@/components/forms/PatientForm";
 import { PasskeyModal } from "@/components/PasskeyModal";
 import { fetchUnsplashImage } from "@/lib/utils";
-import { set } from "zod";
 
 const Home = ({ searchParams }: SearchParamProps) => {
   const [backgroundImage, setBackgroundImage] = useState("");
@@ -15,33 +14,45 @@ const Home = ({ searchParams }: SearchParamProps) => {
   useEffect(() => {
     const getimg = async () => {
       const image = await fetchUnsplashImage(
-        "health,fitness,doctor,patient,happy"
+        "health, fitness, doctor, patient, happy"
       );
       setBackgroundImage(image);
     };
 
-    getimg(); // Call the function
+    getimg();
   }, []);
+
   const isAdmin = searchParams?.admin === "true";
 
   return (
     <div
-      className="flex flex-col min-h-screen"
+      className="min-h-screen bg-gradient-to-br from-teal-100 to-blue-100 relative p-8"
       style={{
         backgroundImage: `url(${backgroundImage})`,
         backgroundSize: "cover",
         backgroundPosition: "center",
-        position: "relative",
       }}
     >
       {/* Overlay */}
       <div className="absolute inset-0 bg-black opacity-30" />
 
+      {/* Admin Modal */}
       {isAdmin && <PasskeyModal />}
 
-      <main className="flex-1 flex flex-col md:flex-row items-center justify-between p-4 md:p-8 relative z-10">
+      {/* Main Content */}
+      <motion.main
+        className="flex flex-col md:flex-row items-center justify-between relative z-10"
+        initial={{ opacity: 0, y: -50 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.5 }}
+      >
         {/* Logo and Admin Button */}
-        <div className="w-full md:w-1/3 mb-8 md:mb-0 flex flex-col items-center md:items-start">
+        <motion.div
+          className="w-full md:w-1/3 mb-8 md:mb-0 flex flex-col items-center md:items-start"
+          initial={{ opacity: 0, x: -50 }}
+          animate={{ opacity: 1, x: 0 }}
+          transition={{ delay: 0.2 }}
+        >
           <Image
             src="/assets/images/befit.png"
             height={4000}
@@ -51,21 +62,26 @@ const Home = ({ searchParams }: SearchParamProps) => {
           />
           <Link
             href="/?admin=true"
-            className="px-4 py-2 bg-green-500 text-white rounded-md hover:bg-green-600 transition-colors"
+            className="px-4 py-2 bg-teal-600 text-white rounded-md hover:bg-teal-700 transition-colors duration-200"
           >
             Admin Login
           </Link>
-        </div>
+        </motion.div>
 
-        {/* Form */}
-        <div className="w-full md:w-2/3 max-w-[496px]">
+        {/* Patient Form */}
+        <motion.div
+          className="w-full md:w-2/3 max-w-[496px]"
+          initial={{ opacity: 0, x: 50 }}
+          animate={{ opacity: 1, x: 0 }}
+          transition={{ delay: 0.3 }}
+        >
           <PatientForm />
-        </div>
-      </main>
+        </motion.div>
+      </motion.main>
 
       {/* Footer */}
-      <footer className="text-14-regular mt-4 p-4 text-center md:text-left relative z-10">
-        <p className="text-dark-600">© 2024 BeFit</p>
+      <footer className="mt-8 p-4 text-center relative z-10">
+        <p className="text-gray-700">© 2024 BeFit</p>
       </footer>
     </div>
   );

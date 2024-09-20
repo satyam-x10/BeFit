@@ -1,3 +1,4 @@
+import axios from "axios";
 import { type ClassValue, clsx } from "clsx";
 import { twMerge } from "tailwind-merge";
 
@@ -89,4 +90,31 @@ export const fetchUnsplashImage = async (input) => {
   );
   const data = await response.json();
   return data.urls.regular;
+};
+
+export const fetchNearbyFacilitiesFromBing = async (place, facility) => {
+  const apiKey = "76374db0ea8443aa9085512d7792f79f"; // Replace with your Bing Search API Key
+  const endpoint = `https://api.bing.microsoft.com/v7.0/search`;
+
+  const query = `${facility} near ${place}`;
+
+  try {
+    const response = await axios.get(endpoint, {
+      params: { q: query, count: 10 },
+      headers: { "Ocp-Apim-Subscription-Key": apiKey },
+    });
+
+    const results = response.data;
+    console.log("Nearby facilities:", results);
+
+    // Return facility names and URLs
+    return results.map((item) => ({
+      name: item.name,
+      url: item.url,
+      snippet: item.snippet,
+    }));
+  } catch (error) {
+    console.error("Error fetching nearby facilities:", error);
+    return [];
+  }
 };
