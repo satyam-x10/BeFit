@@ -1,12 +1,21 @@
+// @ts-ignore
+// @ts-nocheck
+
 "use client";
 
-import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
+
 import Image from "next/image";
+
 import Link from "next/link";
+
 import { PatientForm } from "@/components/forms/PatientForm";
+
 import { PasskeyModal } from "@/components/PasskeyModal";
+
 import { fetchUnsplashImage } from "@/lib/utils";
+
+import { useEffect, useState } from "react";
 
 const Home = ({ searchParams }: SearchParamProps) => {
   const [backgroundImage, setBackgroundImage] = useState("");

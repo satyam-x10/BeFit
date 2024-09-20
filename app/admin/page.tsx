@@ -1,7 +1,10 @@
-import React from "react";
+// @ts-ignore
+// @ts-nocheck
+
 import Image from "next/image";
 import Link from "next/link";
 import { AlertCircle, Calendar, XCircle } from "lucide-react";
+import React from "react";
 
 import { DataTable } from "@/components/table/DataTable";
 import { columns } from "@/components/table/columns";

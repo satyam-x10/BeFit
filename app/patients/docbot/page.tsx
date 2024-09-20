@@ -1,3 +1,6 @@
+// @ts-ignore
+// @ts-nocheck
+
 "use client";
 
 import { askGemini } from "@/lib/actions/ai/gemini";

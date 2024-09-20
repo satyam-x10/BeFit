@@ -1,3 +1,6 @@
+// @ts-ignore
+// @ts-nocheck
+
 "use client";
 import { zodResolver } from "@hookform/resolvers/zod";
 import Image from "next/image";

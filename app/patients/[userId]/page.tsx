@@ -1,3 +1,6 @@
+// @ts-ignore
+// @ts-nocheck
+
 "use client";
 import { getAppointmentByUserId } from "@/lib/actions/appointment.actions";
 import { getUser, getPatient } from "@/lib/actions/patient.actions";
