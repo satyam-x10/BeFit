@@ -10,7 +10,10 @@ export const parseStringify = (value: any) => JSON.parse(JSON.stringify(value));
 export const convertFileToUrl = (file: File) => URL.createObjectURL(file);
 
 // FORMAT DATE TIME
-export const formatDateTime = (dateString: Date | string, timeZone: string = Intl.DateTimeFormat().resolvedOptions().timeZone) => {
+export const formatDateTime = (
+  dateString: Date | string,
+  timeZone: string = Intl.DateTimeFormat().resolvedOptions().timeZone
+) => {
   const dateTimeOptions: Intl.DateTimeFormatOptions = {
     // weekday: "short", // abbreviated weekday name (e.g., 'Mon')
     month: "short", // abbreviated month name (e.g., 'Oct')
@@ -79,3 +82,11 @@ export function encryptKey(passkey: string) {
 export function decryptKey(passkey: string) {
   return atob(passkey);
 }
+
+export const fetchUnsplashImage = async (input) => {
+  const response = await fetch(
+    `https://api.unsplash.com/photos/random?query=${input}&client_id=8LWuYfePFRIoILGiXbB7nxdska9IUsrhB0YZz42CQSk`
+  );
+  const data = await response.json();
+  return data.urls.regular;
+};

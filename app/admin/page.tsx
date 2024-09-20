@@ -12,19 +12,19 @@ const AdminPage = async () => {
   return (
     <div className="mx-auto flex max-w-7xl flex-col space-y-14">
       <header className="admin-header">
-        <Link href="/" className="cursor-pointer">
+        <Link href="/" className="cursor-pointer flex gap-2">
           <Image
-            src="/assets/icons/logo-full.svg"
+            src="/assets/images/befit.png"
             height={32}
             width={162}
             alt="logo"
             className="h-8 w-fit"
           />
+          BeFit
         </Link>
         <a href="admin/patients" className="mr-4">
-                patients
-              </a>
-        <p className="text-16-semibold">Admin Dashboard</p>
+          see all patients
+        </a>
       </header>
 
       <main className="admin-main">

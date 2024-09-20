@@ -125,11 +125,11 @@ const UserProfile = () => {
   }
 
   return (
-    <div className="min-h-screen bg-gray-100 p-8">
+    <div className="min-h-screen bg-black p-8">
       <div className="max-w-6xl mx-auto">
-        <div className="bg-white rounded-lg shadow-lg overflow-hidden mb-8">
+        <div className="bg-white rounded-2xl shadow-lg overflow-hidden mb-8">
           <div className="md:flex">
-            <div className="md:w-1/3 bg-blue-600 p-8 text-white">
+            <div className="md:w-1/3 bg-black p-8 text-white">
               <div className="text-center">
                 <div className="w-32 h-32 rounded-full bg-white text-blue-600 flex items-center justify-center text-4xl font-bold mx-auto mb-4">
                   {user.name.charAt(0)}
@@ -168,7 +168,7 @@ const UserProfile = () => {
                 </div>
               </div>
             </div>
-            <div className="md:w-2/3 p-8">
+            <div className="md:w-2/3 p-8 bg-[#24ae7c] ">
               <div className="mb-6">
                 <div className="flex space-x-2 w-full">
                   <TabButton
@@ -182,6 +182,14 @@ const UserProfile = () => {
                     onClick={() => setActiveTab("history")}
                   />
                 </div>
+                <button
+                  onClick={() =>
+                    (window.location.href = `/patients/${userId}/new-appointment`)
+                  }
+                  className="mt-4 bg-blue-600 text-white py-2 px-4 rounded-md hover:bg-blue-700 transition duration-300"
+                >
+                  Schedule New Appointment
+                </button>
                 <div className="border-t border-gray-200">
                   {activeTab === "appointments" && (
                     <div className="py-6">
@@ -194,14 +202,6 @@ const UserProfile = () => {
                           appointment={appointment}
                         />
                       ))}
-                      <button
-                        onClick={() =>
-                          (window.location.href = `/patients/${userId}/new-appointment`)
-                        }
-                        className="mt-4 bg-blue-600 text-white py-2 px-4 rounded-md hover:bg-blue-700 transition duration-300"
-                      >
-                        Schedule New Appointment
-                      </button>
                     </div>
                   )}
                   {activeTab === "history" && (
