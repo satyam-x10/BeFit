@@ -42,63 +42,66 @@ const LocationSearch = () => {
         description:
           "Always proactive, listens to the patient's issues, and figures out the root cause.",
       },
-      // Add more mock results if needed
     ];
 
     setSearchResults(mockResults);
   };
 
   return (
-    <div className="min-h-screen bg-black flex flex-col items-center justify-center">
-      <div className="w-full max-w-xl p-6 rounded-lg shadow-lg bg-white animate-fade-in">
-        <h2 className="text-3xl font-semibold text-center mb-6 text-teal-600">
-          Find Your Doctor
-        </h2>
-        <form onSubmit={handleSubmit} className="space-y-4">
-          <div>
-            <label
-              htmlFor="location"
-              className="block text-black font-semibold mb-2"
+    <div className="min-h-screen bg-black flex items-center justify-center p-4">
+      <div className="w-full max-w-5xl bg-white rounded-lg shadow-lg p-6 md:flex md:space-x-6 animate-fade-in">
+        {/* Left Column (Form) */}
+        <div className="w-full md:w-1/2">
+          <h2 className="text-3xl font-semibold text-center mb-6 text-teal-600">
+            Find Your Doctor
+          </h2>
+          <form onSubmit={handleSubmit} className="space-y-4">
+            <div>
+              <label
+                htmlFor="location"
+                className="block text-black font-semibold mb-2"
+              >
+                Enter Your Location
+              </label>
+              <input
+                type="text"
+                id="location"
+                className="w-full border border-gray-300 rounded-lg px-4 py-2 focus:outline-none focus:border-teal-500 transition duration-200"
+                placeholder="City, State"
+                value={location}
+                onChange={handleLocationChange}
+                required
+              />
+            </div>
+            <div>
+              <label
+                htmlFor="searchTerm"
+                className="block text-black font-semibold mb-2"
+              >
+                What are you looking for?
+              </label>
+              <input
+                type="text"
+                id="searchTerm"
+                className="w-full border border-gray-300 rounded-lg px-4 py-2 focus:outline-none focus:border-teal-500 transition duration-200"
+                placeholder="Doctor, Specialty, Condition"
+                value={searchTerm}
+                onChange={handleSearchTermChange}
+                required
+              />
+            </div>
+            <button
+              type="submit"
+              className="w-full bg-teal-600 text-white font-semibold py-2 rounded-lg hover:bg-teal-700 transition duration-200"
             >
-              Enter Your Location
-            </label>
-            <input
-              type="text"
-              id="location"
-              className="w-full border border-gray-300 rounded-lg px-4 py-2 focus:outline-none focus:border-teal-500 transition duration-200"
-              placeholder="City, State"
-              value={location}
-              onChange={handleLocationChange}
-              required
-            />
-          </div>
-          <div>
-            <label
-              htmlFor="searchTerm"
-              className="block text-black font-semibold mb-2"
-            >
-              What are you looking for?
-            </label>
-            <input
-              type="text"
-              id="searchTerm"
-              className="w-full border border-gray-300 rounded-lg px-4 py-2 focus:outline-none focus:border-teal-500 transition duration-200"
-              placeholder="Doctor, Specialty, Condition"
-              value={searchTerm}
-              onChange={handleSearchTermChange}
-              required
-            />
-          </div>
-          <button
-            type="submit"
-            className="w-full bg-teal-600 text-white font-semibold py-2 rounded-lg hover:bg-teal-700 transition duration-200"
-          >
-            Search
-          </button>
-        </form>
+              Search
+            </button>
+          </form>
+        </div>
 
+        {/* Right Column (Search Results) */}
         {searchResults.length > 0 && (
-          <div className="mt-6">
+          <div className="w-full mt-6 md:mt-0 md:w-1/2">
             <h3 className="text-lg font-bold text-black mb-4">
               Search Results
             </h3>
@@ -138,7 +141,9 @@ const LocationSearch = () => {
                       </a>
                       <span className="mx-2">|</span>
                       <a
-                        href={`https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(result.address)}`}
+                        href={`https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(
+                          result.address
+                        )}`}
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-teal-600 hover:underline"

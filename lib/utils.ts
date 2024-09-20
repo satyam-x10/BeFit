@@ -86,14 +86,14 @@ export function decryptKey(passkey: string) {
 
 export const fetchUnsplashImage = async (input) => {
   const response = await fetch(
-    `https://api.unsplash.com/photos/random?query=${input}&client_id=8LWuYfePFRIoILGiXbB7nxdska9IUsrhB0YZz42CQSk`
+    `https://api.unsplash.com/photos/random?query=${input}&client_id=${process.env.NEXT_PUBLIC_UNSPLASH_ACCESS_KEY}`
   );
   const data = await response.json();
   return data.urls.regular;
 };
 
 export const fetchNearbyFacilitiesFromBing = async (place, facility) => {
-  const apiKey = "76374db0ea8443aa9085512d7792f79f"; // Replace with your Bing Search API Key
+  const apiKey = process.env.NEXT_PUBLIC__BING_API_KEY; // Replace with your Bing Search API Key
   const endpoint = `https://api.bing.microsoft.com/v7.0/search`;
 
   const query = `${facility} near ${place}`;
