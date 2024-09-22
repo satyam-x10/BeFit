@@ -16,7 +16,7 @@ export const convertFileToUrl = (file: File) => URL.createObjectURL(file);
 // FORMAT DATE TIME
 export const formatDateTime = (
   dateString: Date | string,
-  timeZone: string = Intl.DateTimeFormat().resolvedOptions().timeZone,
+  timeZone: string = Intl.DateTimeFormat().resolvedOptions().timeZone
 ) => {
   const dateTimeOptions: Intl.DateTimeFormatOptions = {
     // weekday: "short", // abbreviated weekday name (e.g., 'Mon')
@@ -53,22 +53,22 @@ export const formatDateTime = (
 
   const formattedDateTime: string = new Date(dateString).toLocaleString(
     "en-US",
-    dateTimeOptions,
+    dateTimeOptions
   );
 
   const formattedDateDay: string = new Date(dateString).toLocaleString(
     "en-US",
-    dateDayOptions,
+    dateDayOptions
   );
 
   const formattedDate: string = new Date(dateString).toLocaleString(
     "en-US",
-    dateOptions,
+    dateOptions
   );
 
   const formattedTime: string = new Date(dateString).toLocaleString(
     "en-US",
-    timeOptions,
+    timeOptions
   );
 
   return {
@@ -89,35 +89,30 @@ export function decryptKey(passkey: string) {
 
 export const fetchUnsplashImage = async (input) => {
   const response = await fetch(
-    `https://api.unsplash.com/photos/random?query=${input}&client_id=${process.env.NEXT_PUBLIC_UNSPLASH_ACCESS_KEY}`,
+    `https://api.unsplash.com/photos/random?query=${input}&client_id=${process.env.NEXT_PUBLIC_UNSPLASH_ACCESS_KEY}`
   );
   const data = await response.json();
   return data.urls.regular;
 };
 
-export const fetchNearbyFacilitiesFromBing = async (place, facility) => {
-  const apiKey = process.env.NEXT_PUBLIC__BING_API_KEY; // Replace with your Bing Search API Key
-  const endpoint = `https://api.bing.microsoft.com/v7.0/search`;
-
-  const query = `${facility} near ${place}`;
-
+export async function fetchDoctors(region, credentials) {
   try {
-    const response = await axios.get(endpoint, {
-      params: { q: query, count: 10 },
-      headers: { "Ocp-Apim-Subscription-Key": apiKey },
+    const response = await fetch("/api/places", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ region, credentials }),
     });
+    const data = await response.json();
 
-    const results = response.data;
-    console.log("Nearby facilities:", results);
-
-    // Return facility names and URLs
-    return results.map((item) => ({
-      name: item.name,
-      url: item.url,
-      snippet: item.snippet,
-    }));
+    if (data.success) {
+      console.log("Scraped Doctors:", data);
+      return data;
+    } else {
+      console.error("Scraping failed");
+    }
   } catch (error) {
-    console.error("Error fetching nearby facilities:", error);
-    return [];
+    console.error("Error fetching doctors:", error);
   }
-};
+}
