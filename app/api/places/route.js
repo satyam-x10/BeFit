@@ -3,7 +3,7 @@ import { NextResponse } from "next/server";
 import puppeteer from "puppeteer";
 
 const scrapeDoctors = async (query) => {
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
 
   // Go to Bing Maps and search for doctors near New Delhi
@@ -76,7 +76,6 @@ const scrapeDoctors = async (query) => {
     // Add new doctors to the list
     doctors = [...doctors, ...newDoctors];
   }
-
   await browser.close();
 
   // Limit to 20 results
