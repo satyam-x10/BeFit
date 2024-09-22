@@ -1,9 +1,16 @@
 import { Doctors } from "@/constants";
 import { NextResponse } from "next/server";
 import puppeteer from "puppeteer";
+import chromium from "chrome-aws-lambda";
 
 const scrapeDoctors = async (query) => {
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await chromium.puppeteer.launch({
+    args: [...chromium.args, "--hide-scrollbars", "--disable-web-security"],
+    defaultViewport: chromium.defaultViewport,
+    executablePath: await chromium.executablePath,
+    headless: true,
+    ignoreHTTPSErrors: true,
+  });
   const page = await browser.newPage();
 
   // Go to Bing Maps and search for doctors near New Delhi
