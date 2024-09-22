@@ -95,24 +95,4 @@ export const fetchUnsplashImage = async (input) => {
   return data.urls.regular;
 };
 
-export async function fetchDoctors(region, credentials) {
-  try {
-    const response = await fetch("/api/places", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({ region, credentials }),
-    });
-    const data = await response.json();
-
-    if (data.success) {
-      console.log("Scraped Doctors:", data);
-      return data;
-    } else {
-      console.error("Scraping failed");
-    }
-  } catch (error) {
-    console.error("Error fetching doctors:", error);
-  }
-}
+export const fetchDoctors = async (location: string) => {};
