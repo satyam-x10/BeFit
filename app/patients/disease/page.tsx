@@ -14,6 +14,8 @@ const SymptomChecker = () => {
   const [isLoading, setIsLoading] = useState(false);
   const [showTip, setShowTip] = useState(false);
 
+  const [symptompsResult, setSymptompsResult] = useState(null);
+
   useEffect(() => {
     const timer = setTimeout(() => setShowTip(true), 3000);
     return () => clearTimeout(timer);
@@ -25,21 +27,37 @@ const SymptomChecker = () => {
 
     // Simulating API call
     await new Promise((resolve) => setTimeout(resolve, 2000));
-
-    const diseases = ["Flu", "Common Cold", "Seasonal Allergy"];
-    const remedies = [
-      "Rest and hydration",
-      "Over-the-counter medication",
-      "Nasal irrigation",
-    ];
     const advice =
       "If symptoms persist or worsen, please consult a healthcare professional.";
+
+    // Fetch the symptom result from askGemini and parse it if it's a string
+    const symptompsResponse = await askGemini(symptoms, "symptoms");
+
+    let parsedSymptompsResponse;
+    try {
+      parsedSymptompsResponse =
+        typeof symptompsResponse === "string"
+          ? JSON.parse(symptompsResponse)
+          : symptompsResponse;
+    } catch (error) {
+      console.error("Error parsing symptomps response:", error);
+      setIsLoading(false);
+      return;
+    }
+
+    setSymptompsResult(parsedSymptompsResponse);
+    console.log(parsedSymptompsResponse);
+
+    const diseases = parsedSymptompsResponse?.disease;
+    const remedies = parsedSymptompsResponse?.advices;
     setResult({ diseases, remedies, advice });
 
-    // Call askGemini with the symptoms
+    // Fetch Gemini response and parse it
     const geminiResponse = await askGemini(
       `I am having these symptoms: ${symptoms}. Help me.`,
+      "docbot"
     );
+
     setGeminiResult(geminiResponse);
 
     setIsLoading(false);

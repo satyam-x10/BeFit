@@ -4,18 +4,28 @@
 "use client";
 
 import { askGemini } from "@/lib/actions/ai/gemini";
-import React, { useState } from "react";
+import React, { useState, useRef, useEffect } from "react";
 
 // This is a placeholder function. In a real application, you would
 // need to integrate with a proper medical AI service.
 const askMedicalAI = async (query) => {
-  const reply = await askGemini(query);
+  const reply = await askGemini(query, "docbot");
   return reply;
 };
 
 const MedicalChatBot = () => {
   const [inputText, setInputText] = useState("");
   const [messages, setMessages] = useState([]);
+  const messagesEndRef = useRef(null);
+
+  // Function to scroll to the bottom of the chat
+  const scrollToBottom = () => {
+    messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
+  };
+
+  useEffect(() => {
+    scrollToBottom();
+  }, [messages]);
 
   const sendMessage = async () => {
     if (inputText.trim() === "") return;
@@ -84,6 +94,8 @@ const MedicalChatBot = () => {
             </div>
           </div>
         ))}
+        {/* Reference point for auto-scrolling */}
+        <div ref={messagesEndRef} />
       </div>
 
       <div className="border-t border-gray-700 p-4 bg-gray-900">
