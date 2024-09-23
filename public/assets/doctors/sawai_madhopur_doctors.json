@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Dr. Kanta Prasad",
+    "address": "Ranthambore Road, Sawai Madhopur, Rajasthan 322021",
+    "phone": "Dr. Kanta Prasad",
+    "hours": "Open· Closes 16:00",
+    "image_url": "/th?id=OLC.42hOZniaW1pSnQ480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr.Mohit Mangal",
+    "address": "Apex Ranthambore Sevika Hospital Vinayak Nagar, Housing Board, Sawai Madhopur, Rajasthan",
+    "phone": "Dr.Mohit Mangal",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.01482,76.361099;dfp"
+  },
+  {
+    "name": "Dr. Shiv Singh Meena- General Physician",
+    "address": "Gangauri Hospital, Opp. General Hospital, Sawai, Madhopur, Rajasthan 322021",
+    "phone": "Dr. Shiv Singh Meena- General Physician",
+    "hours": "Open· Closes 15:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.993254,76.362915;dfp"
+  },
+  {
+    "name": "Dr. Lokesh Gupta | Lokesh Gupta Clinic | General Physician",
+    "address": "Alanpur, Sawai Madhopur, Rajasthan, Sawai Madhopur, India, 322021, Sawai Madhopur, Madhya Pradesh 322…",
+    "phone": "Dr. Lokesh Gupta | Lokesh Gupta Clinic | General Physician",
+    "hours": "Open· Closes 21:00",
+    "image_url": "/th?id=OLC.%2bDVxJ8rjiZKboQ480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Jaipur Homeopathic Clinic Jagatpura branch",
+    "address": "Main Akshay Patra Circle, Icici Bank, Sh.no-124 Mahal Road Before Mohan too Dhaba, Jagatpur, Rajasthan",
+    "phone": "Jaipur Homeopathic Clinic Jagatpura branch",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.008972,76.358459;dfp"
+  },
+  {
+    "name": "Rishi Homoeopathic Clinic",
+    "address": "Railway Phatak ke pas, Kherda, Sawai Madhopur, Rajasthan",
+    "phone": "Rishi Homoeopathic Clinic",
+    "hours": "Open· Closes 13:00",
+    "image_url": "/th?id=OLC.mqh%2bzoa9zaD%2bjA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Indian Clinic",
+    "address": "Near Royal Britsion Secondary School, Sawai Madhopur Road, Sawai Madhopur, Rajasthan 322001",
+    "phone": "Indian Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.024878,76.360306;dfp"
+  },
+  {
+    "name": "Dr Lokesh Gupta Clinic",
+    "address": "Near Shree Ashutosh Mahadev Temple, Sita Mata Road, Sawai Madhopur, Rajasthan 322001",
+    "phone": "Dr Lokesh Gupta Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.994429,76.353973;dfp"
+  },
+  {
+    "name": "Dr Akram Khan Clinic",
+    "address": "District Hospital, City Road, Sawai Madhopur City Side, Sawai Madhopur, Rajasthan 322021",
+    "phone": "Dr Akram Khan Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.99217,76.365227;dfp"
+  },
+  {
+    "name": "Dr Ramsingh Surgical Hospital",
+    "address": "Ranthambhore Road, Sawai Madhopur, Rajasthan 322001",
+    "phone": "Dr Ramsingh Surgical Hospital",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr Pawan Eye Hosptial & Research Centre",
+    "address": "Janki Nagar, Ranthambhor Road Near Hotel Paradise, Swai Madhopur, Sawai Madhopur, Rajasthan 322001",
+    "phone": "Dr Pawan Eye Hosptial & Research Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.014788,76.360016;dfp"
+  },
+  {
+    "name": "Dr Nitish Gurjar",
+    "address": "Ranthambhore, Sawai Madhopur, RJ, India, Rajasthan",
+    "phone": "Dr Nitish Gurjar",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr.Shankar's Homoeopathy and Pharmacy",
+    "address": "Sadar Bazar Road, Opposite Bombay Watch, City, Sawai Madhopur, Rajasthan 322001",
+    "phone": "Dr.Shankar's Homoeopathy and Pharmacy",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. B. Lal Clinical Laboratory (First Floor, Opp. Government Nursery, Sawai Madhopur)",
+    "address": "First Floor, Above Royal Enfield Showroom, Opposite Government Nursery, Sawai Madhopur, Rajasthan 322…",
+    "phone": "Dr. B. Lal Clinical Laboratory (First Floor, Opp. Government Nursery, Sawai Madhopur)",
+    "hours": "Open· Closes 20:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Kanta Prasad",
+    "address": "Vinayak Nagar, Sawai Madhopur, Rajasthan",
+    "phone": "Dr. Kanta Prasad",
+    "hours": "Open· Closes 16:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.083921,76.36116;dfp"
+  },
+  {
+    "name": "Dr. Prakruti Trivedi",
+    "address": "27 Raja Shopping Centre, Nr Ghanshyam Studio, Kheda",
+    "phone": "Dr. Prakruti Trivedi",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Rajawat Diagnostic Centre Two",
+    "address": "Plot No 8 Civil Lines Road, Sawai Madhopur, Rajasthan 322021",
+    "phone": "Rajawat Diagnostic Centre Two",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.01992,76.352097;dfp"
+  }
+]

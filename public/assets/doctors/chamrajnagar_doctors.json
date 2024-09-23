@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Shwethadri Clinic",
+    "address": "Deviation Road, Pacchappa Circle, Chamarajanagar, Chamrajnagar, Karnataka 571313",
+    "phone": "Shwethadri Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.927524,76.940201;dfp"
+  },
+  {
+    "name": "Kamakshi Clinic",
+    "address": "Nanjangud Chamaraja Nagar Road, Chamaraja Nagara, Chamrajnagar, Karnataka 571313",
+    "phone": "Kamakshi Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.926178,76.940056;dfp"
+  },
+  {
+    "name": "Dr B R Ambedkar Bhavana",
+    "address": "Ww9v+p7r, Road, Opposite To Nijaguna Recidency, Chamarajanagar, Karnataka 571313",
+    "phone": "Dr B R Ambedkar Bhavana",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.919211,76.942406;dfp"
+  },
+  {
+    "name": "Vikranth Poly Clinic",
+    "address": "Agrahara Street, Sri Chamarajeshwara Swamy Temple, Agrahara, Chamrajnagar, Karnataka 571313",
+    "phone": "Vikranth Poly Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.926447,76.938713;dfp"
+  },
+  {
+    "name": "Chaitra Clinic",
+    "address": "Bramaramba Extension 1St Main Road, Basava Rajendra Hospital, Chamrajnagar, Karnataka 571313",
+    "phone": "Chaitra Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.928095,76.942001;dfp"
+  },
+  {
+    "name": "Dr.Sunil chandra",
+    "address": "Sub Division Hospital Kollegal, Chamarajanagar, Karnataka 571440",
+    "phone": "Dr.Sunil chandra",
+    "hours": "Open· Closes 13:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=12.153679,77.111122;dfp"
+  },
+  {
+    "name": "Dr Karthi Chit India Private Limited",
+    "address": "7/248, 1st Floor, Shop No 12, Chamrajanagar, Opposite New Bus Stand, Mysuru, Karnataka 571440",
+    "phone": "Dr Karthi Chit India Private Limited",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.925013,76.937645;dfp"
+  },
+  {
+    "name": "Dr B R Ambedkar Bhavan",
+    "address": "Chamarajanagar Road, Government Lower Primary School, Shivapura, Chamrajnagar, Karnataka 571123",
+    "phone": "Dr B R Ambedkar Bhavan",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.714084,76.759712;dfp"
+  },
+  {
+    "name": "Government Ayurvedic Hospital",
+    "address": "Maleyur Road, Mukkadahalli Bus Stop, Mukkadahalli, Chamrajnagar, Karnataka 571128",
+    "phone": "Government Ayurvedic Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.971005,76.798004;dfp"
+  },
+  {
+    "name": "Bharath Diagnostic Center",
+    "address": "B Rachaiah Double Road, Indian Bank, Bramaramba Extension, Chamrajnagar, Karnataka 571313",
+    "phone": "Bharath Diagnostic Center",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.927843,76.941986;dfp"
+  },
+  {
+    "name": "Nandu Clinic",
+    "address": "Rashtra Pati Road, Government Girls Pre University College, Nanjangud, Karnataka 571301",
+    "phone": "Nandu Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=12.119399,76.679863;dfp"
+  },
+  {
+    "name": "Dr Fernandes Co-op Credit Society Limited",
+    "address": "Nagesh Complex, Ratha Beedi, Honnavar, Karnataka 581334, India, Honnavar, Karnataka 581334",
+    "phone": "Dr Fernandes Co-op Credit Society Limited",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.92898,76.935829;dfp"
+  },
+  {
+    "name": "Vaidya Clinic",
+    "address": "Mgs 12Th Cross, Government Girls Pre University College, Nanjangud, Karnataka 571301",
+    "phone": "Vaidya Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=12.120057,76.680107;dfp"
+  }
+]

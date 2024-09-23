@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr Meeta Gupta Clinic",
+    "address": "Mahindra Chowk, Chirag Delhi, New Delhi, Delhi 110017",
+    "phone": "Dr Meeta Gupta Clinic",
+    "hours": "Closed· Opens tomorrow 08:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.539053,77.228264;dfp"
+  },
+  {
+    "name": "Dr. Vipin Sharma",
+    "address": "A-4/ 246, Janta Flats, Panchsheel Vihar, Pocket A, Sheikh Sarai Village, Paschim Vihar, New Delhi, Delhi",
+    "phone": "Dr. Vipin Sharma",
+    "hours": null,
+    "image_url": "/th?id=OLC.dtmHbGPqBgH8Xw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Manoj Gupta",
+    "address": "Press Enclave Road, Sheikh Sarai 2, New Delhi, Delhi 110017",
+    "phone": "Dr Manoj Gupta",
+    "hours": "Open· Closes 17:00",
+    "image_url": "/th?id=OLC.7uPxxAi27J0BSw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "A O Speciality Clinics",
+    "address": "Malviya Nagar Road 36, Dl, New Delhi 110017",
+    "phone": "A O Speciality Clinics",
+    "hours": null,
+    "image_url": "/th?id=OLC.Z8elM8HHPc3FSA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Vivek Raj",
+    "address": "Press Enclave Marg, Saket, Delhi 110017",
+    "phone": "Dr. Vivek Raj",
+    "hours": "Open· Closes 12:00",
+    "image_url": "/th?id=OLC.02RnQuBbAmHUAg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Vishal Dutt Gour",
+    "address": "M 4, Greater Kailash-1, M Block, Delhi 110048",
+    "phone": "Dr Vishal Dutt Gour",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.536699,77.244614;dfp"
+  },
+  {
+    "name": "ENT surgeon Dr Anup Sabherwal",
+    "address": "54 (Basement), Navjiwan Vihar, Near Sri Aurobindo College, Malviya Nagar, Delhi 110017",
+    "phone": "ENT surgeon Dr Anup Sabherwal",
+    "hours": "Open· Closes 12:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr R K Marya",
+    "address": "A - 28, Lower Ground Floor, Landmark : Near Canara Bank, Hauz Khas, Delhi 110016",
+    "phone": "Dr R K Marya",
+    "hours": "Open· Closes 11:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.552052,77.209839;dfp"
+  },
+  {
+    "name": "Dr Ruchi Tandoa Clinic",
+    "address": "E-301, New Delhi, Delhi 110048",
+    "phone": "Dr Ruchi Tandoa Clinic",
+    "hours": "Open· Closes 20:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.537182,77.241646;dfp"
+  },
+  {
+    "name": "Dr. Abhishek Kumar Mishra",
+    "address": "D 40 Near E Block Market Hauz Khas, Delhi 110016",
+    "phone": "Dr. Abhishek Kumar Mishra",
+    "hours": "Open· Closes 21:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Satish Kumar Bhardwaj",
+    "address": "M 2 Lgf Greater Kailash Part 1 New Delhi 110048. India, Postalcode, New Delhi 110048",
+    "phone": "Dr. Satish Kumar Bhardwaj",
+    "hours": "Open· Closes 11:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Sunita Bountra",
+    "address": "Shop Number. 266/3, Hauz Rani Market, Landmark: Opposite Press Enclave, Malviya Nagar, Delhi 110017",
+    "phone": "Dr. Sunita Bountra",
+    "hours": "Open· Closes 12:30",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Manish Agarwal",
+    "address": "D-223, Sarvodaya Enclave, Gate No.4, Near Mother International School, Delhi",
+    "phone": "Dr. Manish Agarwal",
+    "hours": "Closed· Opens 18:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Rahul Trehan",
+    "address": "C-5/29, Hauz Khas, Delhi",
+    "phone": "Dr. Rahul Trehan",
+    "hours": "Closed· Opens 13:30",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Manvir Bhatia",
+    "address": "L-23, Kausalya Park, Block L, Hauz Khas Enclave, Hauz Khas, New Delhi, Delhi 110016",
+    "phone": "Dr. Manvir Bhatia",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Preeti Pandya",
+    "address": "D12-A, Lower Ground Floor, Opp. Canara Bank, Hauz Khas, New Delhi, Delhi 110016",
+    "phone": "Dr. Preeti Pandya",
+    "hours": "Closed· Opens 15:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. R K Agarwal",
+    "address": "No. G-8, Ground Floor, DDA, L.S.C, Mayur Vihar Phase-1. Landmark: Opp. Jeevan Anmol Hospital, Delhi",
+    "phone": "Dr. R K Agarwal",
+    "hours": "Open· Closes 12:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.530249,77.202126;dfp"
+  },
+  {
+    "name": "Dr Hans ENT Centre",
+    "address": "46, Basement, Gargi Colle Anand Lok, Sadiq Nagar, New Delhi, Delhi 110049",
+    "phone": "Dr Hans ENT Centre",
+    "hours": "Closed· Opens 16:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.555815,77.218086;dfp"
+  }
+]

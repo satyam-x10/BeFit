@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Goroshi Clinic",
+    "address": "Classique HTS, S P Office Road, Near Kolhapur Circle. Opposite Shiva Hotel, Belagavi, Karnataka",
+    "phone": "Goroshi Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/th?id=OLC.btAbQ93wlEW4hQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Girish Sonwalkar General Physician in Belgavi",
+    "address": "Lakeview Hospital, Gandhi Nagar, Belagavi, Karnataka",
+    "phone": "Dr. Girish Sonwalkar General Physician in Belgavi",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=15.861755,74.533325;dfp"
+  },
+  {
+    "name": "Dr Narshad Sutar Clinic",
+    "address": "Maruthi Galli, Belgaum, Karnataka",
+    "phone": "Dr Narshad Sutar Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=15.857788,74.511063;dfp"
+  },
+  {
+    "name": "Madhavbaug Clinic - Shahapur, Belgaon",
+    "address": "CTS no 5327 SPM Road, Opposite Shivaji Garden, Near Union Bank, Shahapur, Belgaum, Karnataka",
+    "phone": "Madhavbaug Clinic - Shahapur, Belgaon",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/th?id=OLC.Lw6WkKcm35QLCQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Gajanan S Gaude",
+    "address": "Vg94+hp4 Club Road Opp Bims, Belagavi, Belgaum, Karnataka 590001",
+    "phone": "Dr Gajanan S Gaude",
+    "hours": "Closed · Opens 13:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=15.867332,74.511757;dfp"
+  },
+  {
+    "name": "Dr Gokak speciality clinic",
+    "address": "Roy Road, Empire Apartment, Shop Number 34, Belagavi, Karnataka, India, 590006, Belagavi, Madhya …",
+    "phone": "Dr Gokak speciality clinic",
+    "hours": "Closed · Opens 17:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.ZnHfs8brlFUn7A480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "SSM Piles Clinic - Dr. Shambuling Managuli, Proctosurgeon, Kulageri",
+    "address": "1 st Floor, Managuli Hospital Building, Shahapur, Karnataka",
+    "phone": "SSM Piles Clinic - Dr. Shambuling Managuli, Proctosurgeon, Kulageri",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=15.864933,74.508987;dfp"
+  },
+  {
+    "name": "Zingade Hospital",
+    "address": "109 Magalwar Peth, Tilakwadi, 109, Mangalwar Peth, Belgaum, Belagavi, Karnataka 590006",
+    "phone": "Zingade Hospital",
+    "hours": "Closed · Opens 09:00",
+    "imageUrl": "https://th.bing.com/th?id=OLC.lS5qvH3vVmr2Vw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Badore Clinic",
+    "address": "3543 Near Shaniwar Shoot, Risaldar Falling Belgaum, Belgaum, Karnataka 590001",
+    "phone": "Badore Clinic",
+    "hours": "Closed · Opens 09:00",
+    "imageUrl": "https://th.bing.com/th?id=OLC.Ty5OiiBznGsyrw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Sagar Bhattad",
+    "address": "R.S No. 73/7, C.T.S No. 11888, Opp. Fort Lake, Belagavi, Belgaum, Karnataka",
+    "phone": "Dr. Sagar Bhattad",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=15.863423,74.526543;dfp"
+  },
+  {
+    "name": "Abhaya hospital -Dr chandrashekarT R",
+    "address": "No.1677, 2nd Floor, Kirloskar Rd, Above Metro Shoes, Belgaum, Karnataka",
+    "phone": "Abhaya hospital -Dr chandrashekarT R",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=15.859267,74.509132;dfp"
+  },
+  {
+    "name": "Dr. Sagar Bhattad",
+    "address": "1st, 4th & 5th Floor, Shanbhag Chambers, Kirloskar Road, Belgaum, Karnataka",
+    "phone": "Dr. Sagar Bhattad",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=15.859202,74.509079;dfp"
+  },
+  {
+    "name": "Dr. Ravi Patil",
+    "address": "Vijaya Ortho & Trauma Centre, OPP.Bims, Vijaya Road, Ayodhya Nagar, Belagavi, Karnataka 590001",
+    "phone": "Dr. Ravi Patil",
+    "hours": "Closed · Opens 08:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=15.874237,74.514427;dfp"
+  },
+  {
+    "name": "Dr Pote's Homoeopathic Clinic",
+    "address": "5th Cross, Bharat Nagar, Shahapur, Belgaum, Karnataka, Karnataka 590003",
+    "phone": "Dr Pote's Homoeopathic Clinic",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://th.bing.com/th?id=OLC.XtrYo2NWHFmc4Q480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Sangolli Dr M S",
+    "address": "Shri Ram Mandir, College Road, Khade Bazar, Belgaum, Karnataka 590001",
+    "phone": "Sangolli Dr M S",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=15.859205,74.509506;dfp"
+  },
+  {
+    "name": "Dr Batra’s Homeopathy Clinic, Kirloskar Road",
+    "address": "No 1760, 1st Floor, CTS, Kirloskar Road, Belgaum, Karnataka 590002",
+    "phone": "Dr Batra’s Homeopathy Clinic, Kirloskar Road",
+    "hours": "Closed · Opens 11:00",
+    "imageUrl": "https://th.bing.com/th?id=OLC.RTFvgl8%2bzLLTdw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Sharma's Clinic",
+    "address": "Jaynagar, Jay Nagar, Sindhi Colony, Hanuman Nagar, Belgaum, Karnataka",
+    "phone": "Dr Sharma's Clinic",
+    "hours": null,
+    "imageUrl": "https://th.bing.com/th?id=OLC.p3OLKPaYMkSaSQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Prajwal Clinic",
+    "address": "Main Road, Belgaum District, Chinchali, Karnataka",
+    "phone": "Prajwal Clinic",
+    "hours": null,
+    "imageUrl": "https://th.bing.com/th?id=OLC.KxXopalcHmkoQQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Goroshi Clinic",
+    "address": "Classique HTS, S P Office Road, Near Kolhapur Circle. Opposite Shiva Hotel, Belagavi, Karnataka",
+    "phone": "Goroshi Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/th?id=OLC.btAbQ93wlEW4hQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Girish Sonwalkar General Physician in Belgavi",
+    "address": "Lakeview Hospital, Gandhi Nagar, Belagavi, Karnataka",
+    "phone": "Dr. Girish Sonwalkar General Physician in Belgavi",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=15.861755,74.533325;dfp"
+  }
+]

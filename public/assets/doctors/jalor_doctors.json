@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Sai Clinic",
+    "address": "Akash Sarkar, Out Side Of Suraj Pole Bhinmal Road Jalore, Jalor, Rajasthan 343001",
+    "phone": "Sai Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.nKnPyeFkffRjKQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Prakash Vishnoi- Orthopedics",
+    "address": "Apex Hospital And Orthopedic Centre, Club Road, Behind Nagar Parishad, Rajendra Nagar, Mudtra Sili, Jalore, R…",
+    "phone": "Dr. Prakash Vishnoi- Orthopedics",
+    "hours": "Open· Closes 20:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.344339,72.624908;dfp"
+  },
+  {
+    "name": "Dr. Meenu Saini | Gynecologist | Baba ramdev hospital",
+    "address": "Baba Ramdev Hospital, Manpura Colony, Jalore, Rajasthan, India, 343001, Jalore, Madhya Pradesh 343…",
+    "phone": "Dr. Meenu Saini | Gynecologist | Baba ramdev hospital",
+    "hours": "Closed· Opens 11:00",
+    "image_url": "/th?id=OLC.W1qsAB%2fmXkAMRA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Vijay Choudhary MS, ENT (Best ENT Doctor Jalore )",
+    "address": "Baba Ramdev Hospital, Jalore District Court ke Peeche Manpura Colony, Jalore, Rajasthan",
+    "phone": "Dr Vijay Choudhary MS, ENT (Best ENT Doctor Jalore )",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.780895,73.318359;dfp"
+  },
+  {
+    "name": "Dr Anil Punsal Dental Clinic",
+    "address": "Nh325, Near Bank Of India, Jalor 'B, Jalor, Rajasthan 343002",
+    "phone": "Dr Anil Punsal Dental Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.343761,72.628212;dfp"
+  },
+  {
+    "name": "Patanjali Chikitsalay",
+    "address": "Raghuratan Complex, Hospital Road, Jalore, Rajasthan 343001",
+    "phone": "Patanjali Chikitsalay",
+    "hours": "Open· Closes 21:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.345367,72.626747;dfp"
+  },
+  {
+    "name": "Vidya Manthan - Tuition center | Primary | Secondary",
+    "address": "Sire Mandir Rd, Rampura Colony, Opposite to Brahmani Mata, Jalore, Rajasthan 343001",
+    "phone": "Vidya Manthan - Tuition center | Primary | Secondary",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Shri Hanuman Government Ayurvedic Hospital",
+    "address": "Sayala, Sh16 Jalore Road, Jalor, Rajasthan 343001",
+    "phone": "Shri Hanuman Government Ayurvedic Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.367237,72.478363;dfp"
+  },
+  {
+    "name": "Laxmi X Ray and Diagnostic Centre",
+    "address": "Nh325, Near Jalandharnath Dharamshala, Ward No 20, Jalor, Rajasthan 343002",
+    "phone": "Laxmi X Ray and Diagnostic Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.345598,72.623207;dfp"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Dr Rahul Kumar Singh",
+    "address": "New Prashant Medical Complex, Ghosh Mod, College Road, Gopalganj, Bihar, Bihar 841428",
+    "phone": "Dr Rahul Kumar Singh",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.46645,84.442848;clcp"
+  },
+  {
+    "name": "Dr K Manju Clinic",
+    "address": "Hospital Chowk, Thawe Road, Gopalganj, Bihar 841428",
+    "phone": "Dr K Manju Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.459963,84.440933;dfp"
+  },
+  {
+    "name": "Dr R K Thakur Hospital",
+    "address": "Kamla Rai College Road, Beside Hotel Ralson, Gopalganj, Bihar 841428",
+    "phone": "Dr R K Thakur Hospital",
+    "hours": null,
+    "image_url": "/th?id=OLC.ZHLRfzKUOszDbw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr M Ansari",
+    "address": "Sadhu Chawk, Hanuman Gari Road, Gopal Ganj, Gopalganj, Bihar 841428",
+    "phone": "Dr M Ansari",
+    "hours": null,
+    "image_url": "/th?id=OLC.A5EdZQBQ16t7xA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Anand Clinic",
+    "address": "Hajiyapur, Hajiypur Road, Gopal Ganj, Gopalganj, Bihar 841428",
+    "phone": "Dr Anand Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.467607,84.450653;dfp"
+  },
+  {
+    "name": "Dr Bn Agrawal Clinic",
+    "address": "Rajender Nagar Bus Stand, Thawe Road, Gopalganj, Bihar 841428",
+    "phone": "Dr Bn Agrawal Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.cQZfLNVPnpE3Gw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Hn Pandey Clinic",
+    "address": "Marwadi Mohalla, Main Road, Goapalganj, Gopalganj, Bihar 841428",
+    "phone": "Dr Hn Pandey Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.464024,84.442673;dfp"
+  },
+  {
+    "name": "Dr Raghib Hasan :: Hasan's Clinic",
+    "address": "AAM Hospital, Kalisthan Road, Jangalia Rd, Ward No. 15, Gopalganj, Bihar",
+    "phone": "Dr Raghib Hasan :: Hasan's Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.459702,84.441391;dfp"
+  },
+  {
+    "name": "Ishaan Clinic",
+    "address": "Yadopur Road, Gopalganj, Bihar 841428",
+    "phone": "Ishaan Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr G M Jha Clinic",
+    "address": "Shiv Mandir Chawk, Jadopur Road, Gopal Ganj, Gopalganj, Bihar 841428",
+    "phone": "Dr G M Jha Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.469278,84.442703;dfp"
+  },
+  {
+    "name": "Dr Yogendra Ram Clinic",
+    "address": "Jangliya Chowk, Kali Station Road, Gopalganj, Bihar 841428",
+    "phone": "Dr Yogendra Ram Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.462633,84.439209;dfp"
+  },
+  {
+    "name": "Bala Ji Clinic",
+    "address": "Road, Arar, Gopalganj, Bihar",
+    "phone": "Bala Ji Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Shuddhi Hiims (Gopalganj) Ayurveda Clinic",
+    "address": "Fataha Road, Jangalia, Near Unique Children School, Gopalganj, Bihar 841428",
+    "phone": "Shuddhi Hiims (Gopalganj) Ayurveda Clinic",
+    "hours": "Open· Closes 18:00",
+    "image_url": null
+  },
+  {
+    "name": "Advance Ortho-Fracture & Physio Clinic",
+    "address": "Mahavir Medical, Ambedkar Chowk, Gopalganj, Bihar 841428",
+    "phone": "Advance Ortho-Fracture & Physio Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr S H Khan (B.PT) Physiotherapy Centre (PMCH ), Siwan Chapra Road Near Hindustan Petrol Gopalganj  …",
+    "address": "Chhapra - Gopalganj Rd, Ward No. 15, Gopalganj, Bihar 841428, India, Gopalganj, Bihar 841428",
+    "phone": "Dr S H Khan (B.PT) Physiotherapy Centre (PMCH ), Siwan Chapra Road Near Hindustan Petrol Gopalganj  …",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.47043,84.44912;dfp"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr Pankaj Gupta Clinic",
+    "address": "Biyabani Main Road, Indore, Madhya Pradesh 452002",
+    "phone": "Dr Pankaj Gupta Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.viRLAeYaHHom%2fw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Rakesh Dhupia Jain",
+    "address": "Mz-11, Milinda Manor, Indore, Madhya Pradesh 452010",
+    "phone": "Dr. Rakesh Dhupia Jain",
+    "hours": "Closed· Opens 18:00",
+    "image_url": "/th?id=OLC.ss9ZYdSjU%2fpFcA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Rahul sharma",
+    "address": "104/3 Sikshak ngr ext 60 Feet rd, Indore, Madhya Pradesh, India, 452001, Indore, Madhya Pradesh 452001",
+    "phone": "Dr. Rahul sharma",
+    "hours": "Open· Closes 18:00",
+    "image_url": "/th?id=OLC.MSeaxQpES%2flw%2fQ480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Apurva Tiwari",
+    "address": "Barwani Plaza Residential Rd, Old Palasia, Indore, Madhya Pradesh 452001, Indore, Madhya Pradesh",
+    "phone": "Dr. Apurva Tiwari",
+    "hours": "Closed· Opens 12:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.725267,75.889557;dfp"
+  },
+  {
+    "name": "Dr. Bansal`S Homeopathy Herbal & Lifestyle Clinic",
+    "address": "2 Manish Bagh Colony Near Vikram Tower, Near Agrawal Nagar, Agrawal Nagar, Indore, Madhya Pradesh 452001",
+    "phone": "Dr. Bansal`S Homeopathy Herbal & Lifestyle Clinic",
+    "hours": "Closed· Opens 11:30",
+    "image_url": "/th?id=OLC.SPftd5YUcpjm7Q480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Sameer Nivaskar",
+    "address": "47/3, Sapna Sangeeta Road, Lotus Showroom, Agrawal Nagar, Indore, Madhya Pradesh 452001",
+    "phone": "Dr Sameer Nivaskar",
+    "hours": "Closed· Opens 18:00",
+    "image_url": "/th?id=OLC.t3kUzhGPL8ei%2bA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr K K Artwani-Jawahar Marg Clinic",
+    "address": "Chowraha, 22/3, Jawahar Marg, Near Shania Mandir, Nandlalpura, Indore, Madhya Pradesh",
+    "phone": "Dr K K Artwani-Jawahar Marg Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.71558,75.849342;dfp"
+  },
+  {
+    "name": "Dr. Bharat Saboo's Prayas Clinic",
+    "address": "1079-A, Sudama Nagar, Near Smruti Dwar, Indore, Madhya Pradesh 452009",
+    "phone": "Dr. Bharat Saboo's Prayas Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Anupam Gupta",
+    "address": "116, Rnt Marg, Chhawni. Near Mathurawala Sweets, Indore, Indore 452001",
+    "phone": "Dr. Anupam Gupta",
+    "hours": "Closed· Opens 11:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.707613,75.875313;dfp"
+  },
+  {
+    "name": "Dr. Ashish Badika",
+    "address": "311, TBC Tower, A.B. Road, Near, Gita Bhawan Rd, Indore, Madhya Pradesh",
+    "phone": "Dr. Ashish Badika",
+    "hours": "Open· Closes 14:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Piyush Gandhi",
+    "address": "373, Jawahar Marg, Indore, Indore 452001",
+    "phone": "Dr. Piyush Gandhi",
+    "hours": "Closed· Opens 12:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.716393,75.854134;dfp"
+  },
+  {
+    "name": "Dr. Rajesh Agichani",
+    "address": "183 Kalani Nagar Landmark Airport Road, Indore, Madhya Pradesh",
+    "phone": "Dr. Rajesh Agichani",
+    "hours": "Closed· Opens 18:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Sunil Agrawal's Ent Laser And Endoscopy Centre",
+    "address": "7, 8, Gulmarg Complex, 1st Floor, Sapna Sangeeta Rd, Near Inox Theater, Indore, Madhya Pradesh",
+    "phone": "Dr. Sunil Agrawal's Ent Laser And Endoscopy Centre",
+    "hours": "Open· Closes 11:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Rajesh Koria",
+    "address": "Shristi Apartment, Tony Corner, Lahar Patty, Landmark : Near Ureka Hospital, Indore, Indore 452002",
+    "phone": "Dr. Rajesh Koria",
+    "hours": "Closed· Opens 19:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.71941,75.846252;dfp"
+  },
+  {
+    "name": "Dr. J.K. Lala",
+    "address": "9 No. Road, Nehru Nagar, Indore, Landmark: Near SBI ATM Indore, Indore, Madhya Pradesh",
+    "phone": "Dr. J.K. Lala",
+    "hours": "Closed· Opens 11:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr.ABHINAV Homoeopathic Healthcare Clinic",
+    "address": "S. R. Pharmacy, Shop NO. 3, Ground Floor A-124, Silicon City, Indore, Madhya Pradesh 452012",
+    "phone": "Dr.ABHINAV Homoeopathic Healthcare Clinic",
+    "hours": "Closed· Opens 11:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.716652,75.857971;dfp"
+  },
+  {
+    "name": "Dr Ashok Garg",
+    "address": "191, Kalani Nagar Main Rd, Behind Mausa Jalabi Centre, Kalani Nagar, Indore, Madhya Pradesh",
+    "phone": "Dr Ashok Garg",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.724197,75.823875;dfp"
+  },
+  {
+    "name": "Dr. Sanjay Agrawal",
+    "address": "164/2, Rnt Marg, Opp. Hotel Shreemaya, South Tukoganj, Chhoti Gwaltoli, Indore, Madhya Pradesh 45…",
+    "phone": "Dr. Sanjay Agrawal",
+    "hours": "Closed· Opens 12:00",
+    "image_url": null
+  }
+]

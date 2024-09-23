@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Dr Sujay Biswas",
+    "address": "School Faliya, Andharwad, Ranapur, Jhabua, Madhya Pradesh 457993",
+    "phone": "Dr Sujay Biswas",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.683073,74.525352;dfp"
+  },
+  {
+    "name": "Sanjeevani Clinic Ranapur",
+    "address": "Jhabua Jobat Road, Ranapur, Madhya Pradesh 457993",
+    "phone": "Sanjeevani Clinic Ranapur",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.6514,74.523903;dfp"
+  },
+  {
+    "name": "Noorie Homoeo Clinic",
+    "address": "313, Para, Rama, Near By Jama Masjid Ranapur\\bo, Jhabua, Madhya Pradesh 457661",
+    "phone": "Noorie Homoeo Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.696289,74.54142;dfp"
+  },
+  {
+    "name": "Songiri Dental Skin Clinic",
+    "address": "Power House Road, 1, Jhabua, Madhya Pradesh 457661",
+    "phone": "Songiri Dental Skin Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.76992,74.597488;clcp"
+  },
+  {
+    "name": "Unique pathology laboratory",
+    "address": "Near Government Hospital Main Road Meghnagar, Megh Nagar, Madhya Pradesh 457779",
+    "phone": "Unique pathology laboratory",
+    "hours": "Open· Closes 17:00",
+    "image_url": "/th?id=OLC.E5H93Ta5S6jWNg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  }
+]

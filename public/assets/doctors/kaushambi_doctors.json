@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Kamal Hospital",
+    "address": "Galani Road, Near Icici Bank, Anand Vihar, Kaushambi, Noida, Uttar Pradesh 201012",
+    "phone": "Kamal Hospital",
+    "hours": null,
+    "image_url": "/th?id=OLC.RpPoZI39rVirhg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Al Shifa Clinic",
+    "address": "Karari Manjhanpur Road, Karari, Uttar Pradesh 212206",
+    "phone": "Al Shifa Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.452503,81.429047;dfp"
+  },
+  {
+    "name": "Hanumanth Clinic",
+    "address": "Joint District Hospital Manjhanpur, Manjhanpur To Sirathu Main Road, Manjhanpur, Uttar Pradesh 212207",
+    "phone": "Hanumanth Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.525728,81.380142;dfp"
+  },
+  {
+    "name": "Dr Mishra’s Homeopathy clinic - Dr Prince Kumar Mishra",
+    "address": "Manauri, Near Manauri Railway Station .India, Manauri, Uttar Pradesh 212208",
+    "phone": "Dr Mishra’s Homeopathy clinic - Dr Prince Kumar Mishra",
+    "hours": null,
+    "image_url": "/th?id=OLC.6pgh4x0kcr2%2f5A480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Jeevan Jyoti Ortho Clinic",
+    "address": "180-B, Mustafa Complex, Noorullah Rd, Near IT Computer, Kareli, Prayagraj, Uttar Pradesh",
+    "phone": "Jeevan Jyoti Ortho Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.SxfdlMHhO1Quvw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Neha Kapoor Sakhuja",
+    "address": "Radha Krishna Road, Anand Vihar, Kaushambi, Noida, Uttar Pradesh 201012",
+    "phone": "Dr. Neha Kapoor Sakhuja",
+    "hours": "Opens in 8 mins",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.642885,77.321999;dfp"
+  },
+  {
+    "name": "Revive Physiotherapy and Pain Clinic.",
+    "address": "B-11, Near Meenakshi Hospital Opp. Dabur, Kaushambi, Ghaziabad, Uttar Pradesh",
+    "phone": "Revive Physiotherapy and Pain Clinic.",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Sauvik Dasgupta",
+    "address": "Near, Yashoda Super Speciality Hospital Kaushambi H-1, Kaushambi, Isbt Anand Vihar, Ghaziabad, Uttar Pradesh",
+    "phone": "Dr. Sauvik Dasgupta",
+    "hours": "Open· Closes 14:30",
+    "image_url": null
+  },
+  {
+    "name": "Aayush Clinic",
+    "address": "Saray Ankil, Sarai Aquil, Uttar Pradesh 212216",
+    "phone": "Aayush Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.375607,81.516876;dfp"
+  },
+  {
+    "name": "King's Physiotherapy And ortho care Clinic",
+    "address": "in Front of District Hospital Manjhanpur Karari Road, Manjhanpur, Uttar Pradesh",
+    "phone": "King's Physiotherapy And ortho care Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Arjun Khanna",
+    "address": "H1, Kaushambi, Dabur Chowk, Landmark : Near Anand Vihar Isbt, Ghaziabad 201010",
+    "phone": "Dr. Arjun Khanna",
+    "hours": "Closed· Opens 17:00",
+    "image_url": null
+  },
+  {
+    "name": "K.k.poly Clinic",
+    "address": "Gulamipur, Uttar Pradesh 212206, India, Allahabad, Uttar Pradesh 212206",
+    "phone": "K.k.poly Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.439899,81.420105;dfp"
+  },
+  {
+    "name": "Dr. Rizvi Group of Institutions",
+    "address": "Karari, Kaushambi, Karari, Uttar Pradesh 212206",
+    "phone": "Dr. Rizvi Group of Institutions",
+    "hours": "Open· Closes 17:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr.Sanjay Kumar",
+    "address": "Hansraj Physiotherapy Centre Derwa Jethwara Road BOB ke Bagal Erwa Pratapgarh, Derwa, Uttar Pradesh …",
+    "phone": "Dr.Sanjay Kumar",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Shamim Clinic",
+    "address": "Shamim Tiraha, Kunda, Uttar Pradesh",
+    "phone": "Shamim Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.719,81.513199;dfp"
+  },
+  {
+    "name": "Haseeb Clinic",
+    "address": "Near Hublal Inter College, Gaura Road, Bharwari, Kaushambi, Uttar Pradesh 212201",
+    "phone": "Haseeb Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.559071,81.485039;dfp"
+  },
+  {
+    "name": "Holistic Homeopathic Clinic",
+    "address": "Ground Floor, Green Valley, A-66, Anand Vihar, Kaushambi, Ghaziabad, Uttar Pradesh",
+    "phone": "Holistic Homeopathic Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.641687,77.319496;dfp"
+  },
+  {
+    "name": "Varenya Clinic",
+    "address": "3 Sector 3 Road Vasundhara, Ghaziabad, Uttar Pradesh 201012",
+    "phone": "Varenya Clinic",
+    "hours": null,
+    "image_url": null
+  }
+]

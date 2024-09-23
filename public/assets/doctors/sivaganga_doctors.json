@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Roshan clinic Dr Vallabhai",
+    "address": "S Car St, Aranmanai Vaasal, Sivaganga, Tamil Nadu",
+    "phone": "Roshan clinic Dr Vallabhai",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.846441,78.486389;dfp"
+  },
+  {
+    "name": "Sri Varunavi Clinic",
+    "address": "1994, Kalaiyappan Street, Kalaiyarkoil, Sivagangai, Sivaganga, Tamil Nadu 630551",
+    "phone": "Sri Varunavi Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.851768,78.495811;dfp"
+  },
+  {
+    "name": "Sheela Clinic",
+    "address": "Sivaganga Road, Sivaganga, Tamil Nadu 630561",
+    "phone": "Sheela Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.848141,78.485054;dfp"
+  },
+  {
+    "name": "Dr Agarwals Eye Clinic",
+    "address": "Door no 76/112, Melarathaveethi, Velayuthasamu Kovil Back, Madurai Mukku, RC Church Area, Sivagangai, T…",
+    "phone": "Dr Agarwals Eye Clinic",
+    "hours": "Open· Closes 20:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.84869,78.483292;dfp"
+  },
+  {
+    "name": "Anusha Agri Clinic",
+    "address": "1659/D5/1 Rose Nagar, Panangadi Road, Sivagangai, Sivaganga, Tamil Nadu 630561",
+    "phone": "Anusha Agri Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.845262,78.502365;dfp"
+  },
+  {
+    "name": "Sri Hari Clinic & Medicals",
+    "address": "69, Ground Floor, Sivagangai, Sivaganga, Tamil Nadu 630561",
+    "phone": "Sri Hari Clinic & Medicals",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.925058,78.139046;dfp"
+  },
+  {
+    "name": "Dr. Rajendran",
+    "address": "Madurai Main Road, Managiri, Sivaganga, Tamil Nadu",
+    "phone": "Dr. Rajendran",
+    "hours": "Open· Closes 17:30",
+    "image_url": null
+  },
+  {
+    "name": "Life Care Siddha Clinic Center",
+    "address": "15, Life Care, A, Packiar Rowthar Street, Ilayangudi, Sivaganga, Tamil Nadu 630702",
+    "phone": "Life Care Siddha Clinic Center",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Nachiappan Meenakshi Sundaram",
+    "address": "2/3, Dharma Narayanan Chettiar Street, Sivaganga, Tamil Nadu",
+    "phone": "Dr. Nachiappan Meenakshi Sundaram",
+    "hours": "Closed· Opens 18:00",
+    "image_url": null
+  },
+  {
+    "name": "Sivakumar Clinic",
+    "address": "239, Kottaiyur Road, CSI Church, Burma Colony, Sekkalai Kottai, Sivaganga, Tamil Nadu 630002",
+    "phone": "Sivakumar Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.092546,78.783554;dfp"
+  },
+  {
+    "name": "DR G Clinic (SKIN /HAIR /VEIN/LASER CENTRE)",
+    "address": "Plot No 2, College Road Junction, Duraisingam Nagar, Karaikudi, Sivaganga, Tamil Nadu 630002",
+    "phone": "DR G Clinic (SKIN /HAIR /VEIN/LASER CENTRE)",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.07886,78.785751;dfp"
+  },
+  {
+    "name": "Dr. Sakthivel",
+    "address": "Madurai Main Road, Managiri, Sivaganga, Tamil Nadu",
+    "phone": "Dr. Sakthivel",
+    "hours": "Open· Closes 17:30",
+    "image_url": null
+  },
+  {
+    "name": "Esi Dispensary",
+    "address": "Kamarajar Road, सीवगांगा, Tamil Nadu 630561",
+    "phone": "Esi Dispensary",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.84649,78.485085;dfp"
+  },
+  {
+    "name": "Raghavakumar Clinic",
+    "address": "22/a, Opposite Vkn Building, Sivaganga, Tamil Nadu 630002",
+    "phone": "Raghavakumar Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.066391,78.778099;dfp"
+  },
+  {
+    "name": "Shri Krishna Clinic",
+    "address": "12, Kalanivasal, Kalanivasal Road, Karaikudi, Sivaganga, Tamil Nadu 630002",
+    "phone": "Shri Krishna Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.081519,78.767906;dfp"
+  },
+  {
+    "name": "Dhaya Clinic",
+    "address": "8, Kuduvar Road, Chemmozhi Street, Karaikkudi, Sivaganga, Tamil Nadu 630002",
+    "phone": "Dhaya Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.088955,78.784851;dfp"
+  },
+  {
+    "name": "Ravikumar Clinical Laboratory",
+    "address": "46, 48 South Raja Street Sivaganga, Sivaganga, Tamil Nadu 630561",
+    "phone": "Ravikumar Clinical Laboratory",
+    "hours": null,
+    "image_url": null
+  }
+]

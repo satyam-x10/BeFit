@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr. Kalra's Clinic",
+    "address": "3/8 Old Railway Road, Near Shiv Murti, Gurugram, Haryana, Haryana 122001",
+    "phone": "Dr. Kalra's Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.ND5IWtEksZCm%2fA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. P.K. Garg's Family Clinic General Physician In Gurgaon",
+    "address": "Dr. Pk Garg Family Clinic Tower 22, 803 Orchid Petals, Landmark- Near Sapphire Mall, Sohna Rd, Sector 49, …",
+    "phone": "Dr. P.K. Garg's Family Clinic General Physician In Gurgaon",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.429731,77.055397;dfp"
+  },
+  {
+    "name": "Dr Paras Agarwal",
+    "address": "890 Sector 15 II Road, Gurugram, Haryana 122001",
+    "phone": "Dr Paras Agarwal",
+    "hours": "Closed· Opens 11:00",
+    "image_url": "/th?id=OLC.nbQIe7yH9Sq3Pg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Chandra Dr. Parkash",
+    "address": "S 1, New Colony Road, Shivpuri Extension, Sector 7, Gurugram, Haryana 122001",
+    "phone": "Chandra Dr. Parkash",
+    "hours": "Open· Closes 13:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.467505,77.01796;dfp"
+  },
+  {
+    "name": "Dr. Batra",
+    "address": "Scf-21, 1st Floor, Bank Market, Old Delhi-Gurgaon Road, Gurgaon, Gurgaon 122001",
+    "phone": "Dr. Batra",
+    "hours": "Closed· Opens 11:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.46541,77.034897;dfp"
+  },
+  {
+    "name": "Dr GUL Ayat | Best General Physician in Gurgaon | Best general practitioner in Gurgaon",
+    "address": "OPD 1, 119, First Floor, S City Rd, South City I, Sector 41, Gurugram, Haryana",
+    "phone": "Dr GUL Ayat | Best General Physician in Gurgaon | Best general practitioner in Gurgaon",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.462276,77.066177;dfp"
+  },
+  {
+    "name": "Dr Umesh Gupta",
+    "address": "389/3 Lotus Hospital, Mata Rd, Gurugram, Haryana",
+    "phone": "Dr Umesh Gupta",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.469473,77.034241;dfp"
+  },
+  {
+    "name": "Dr Jitender Gupta Clinic",
+    "address": "542-P, Sector 31, Gurugram, Haryana",
+    "phone": "Dr Jitender Gupta Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Sandeep Chauhan’s | Orthopedic surgeon | Maitri Clinic",
+    "address": "131/12 Gopal Nager, New Railway Road, Opposite St. Crispin's School, Next Khelo India Shop, Gopal Nagar, …",
+    "phone": "Dr. Sandeep Chauhan’s | Orthopedic surgeon | Maitri Clinic",
+    "hours": "Closed· Opens 17:30",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Ankur Garg",
+    "address": "94/4, GNH Tower, MG Road, Gurugram, Haryana",
+    "phone": "Dr. Ankur Garg",
+    "hours": "Closed· Opens Thu 17:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Rumika Yadav",
+    "address": "Shop No 77, Near Cafe Coffee Day, Huda Market, Sector 15(Part 2), Gurugram, Haryana",
+    "phone": "Dr. Rumika Yadav",
+    "hours": "Closed· Opens 16:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Vishwas Madhav Thakur",
+    "address": "H 62, H Block of South City 2, Mandir Road, Turn at Kangaroo Kids School, Sector 50, Gurgaon, Gurugram…",
+    "phone": "Dr. Vishwas Madhav Thakur",
+    "hours": "Open· Closes 13:30",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Vinod Wadhwa",
+    "address": "172, ISS, Sector 14 Market, Gurugram, Haryana",
+    "phone": "Dr. Vinod Wadhwa",
+    "hours": "Opens in 10 mins",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.475655,77.049759;dfp"
+  },
+  {
+    "name": "Dr. Sunil Aggarwal",
+    "address": "Ground Floor, Plot No 207, Raj Nagar, Khandsa Road, Gurugram, Haryana 122001",
+    "phone": "Dr. Sunil Aggarwal",
+    "hours": "Opens in 10 mins",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Ashish Kalla",
+    "address": "163/20, Basai Road, Landmark: Near Pataudi Chowk, Gurgaon 122022",
+    "phone": "Dr. Ashish Kalla",
+    "hours": "Closed· Opens 12:30",
+    "image_url": null
+  },
+  {
+    "name": "Dr Nancy's Homeopathic Clinic",
+    "address": "H.No. 513, First Floor Sector-23, Gurugram, Haryana 122017",
+    "phone": "Dr Nancy's Homeopathic Clinic",
+    "hours": "Closed· Opens 16:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Ravinder Gera",
+    "address": "440, Sector 31, Gurgaon, Gurugram, Haryana",
+    "phone": "Dr. Ravinder Gera",
+    "hours": "Closed· Opens 17:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Prince Gupta",
+    "address": "Opposite Government College, Gurgaon 122001",
+    "phone": "Dr. Prince Gupta",
+    "hours": "Closed· Opens 20:00",
+    "image_url": null
+  }
+]

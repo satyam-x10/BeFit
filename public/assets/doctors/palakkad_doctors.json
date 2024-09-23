@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Lakshmi Hospital",
+    "address": "No. 17/751, Chittur Road, Palghat, Kerala 678013",
+    "phone": "Lakshmi Hospital",
+    "hours": null,
+    "image_url": "/th?id=OLC.LrAwTOBo2M4Mng480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Pulse Multispeciality Doctor's Clinic",
+    "address": "Bye-Pass Road, Near Indira Gandhi Municipal Stadium Stadium, Sultanpet, Palakkad, Kerala",
+    "phone": "Pulse Multispeciality Doctor's Clinic",
+    "hours": "Open· Closes 19:30",
+    "image_url": "/th?id=OLC.IzbbR6QQVxPZGg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Easwar's Clinic for Paediatric Orthopaedics and Spine",
+    "address": "7/603, Easwar Kripa, Opposite Indoor Stadium, College Road, Palghat, Kerala 678001",
+    "phone": "Dr. Easwar's Clinic for Paediatric Orthopaedics and Spine",
+    "hours": "Closed· Opens 17:30",
+    "image_url": "/th?id=OLC.siFK9YXOd4DWGg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Care & Cure Homoeo Clinic Palakkad",
+    "address": "Pudupalli Theruvu, Chakkanthara, Palakkad, Kerala",
+    "phone": "Care & Cure Homoeo Clinic Palakkad",
+    "hours": null,
+    "image_url": "/th?id=OLC.EZcF71rcVVdOvQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Ganesh M Rao",
+    "address": "Rajiv Gandhi Co Operative Hospital, Armed Reserve Camp, Kodunthirapully, Palakkad, Kerala 678001",
+    "phone": "Dr. Ganesh M Rao",
+    "hours": "Open· Closes 13:00",
+    "image_url": "/th?id=OLC.z1JEe0cWNDlFQg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Oruvingal Muraleedharan MD- general physician",
+    "address": "Gleneagles Global Hospitals Group, Court Rd, Sultanpet, Palakkad, Kerala 678001",
+    "phone": "Dr. Oruvingal Muraleedharan MD- general physician",
+    "hours": "Closed· Opens 11:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.770484,76.656464;dfp"
+  },
+  {
+    "name": "Ayurmithra Healing Clinic",
+    "address": "Kottayi Pudur Parali Rd, Odannur, Parali, Kerala",
+    "phone": "Ayurmithra Healing Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Thomas Cyriac",
+    "address": "Mercy College, Palakkad, Junction, Chinmaya Nagar, Chakkanthara, Palakkad, Kerala",
+    "phone": "Dr. Thomas Cyriac",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.76879,76.646927;dfp"
+  },
+  {
+    "name": "Dr. Sona's Vertigo & ENT Clinic",
+    "address": "Next to Just Bake, Near South Police Station, Kunnathurmedu, Palakkad, Kerala",
+    "phone": "Dr. Sona's Vertigo & ENT Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Ahalia Ayurveda Medical College Hospital",
+    "address": "Olassery, Kodumba, Palakkad, Kerala",
+    "phone": "Ahalia Ayurveda Medical College Hospital",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr.Sarath Sundar, Clinical Psychologist & Hypnotherapist",
+    "address": "Shreyas, Near Kurumba Bhagavathi Temple, Near Rossi School, Kunnumpuram Road, Chathapuram Junction K…",
+    "phone": "Dr.Sarath Sundar, Clinical Psychologist & Hypnotherapist",
+    "hours": "Closed· Opens 15:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Philomena Robert's Skin Care Clinic",
+    "address": "17/392, Diara Street, College Road, Palakkad, Kerala 678001",
+    "phone": "Dr. Philomena Robert's Skin Care Clinic",
+    "hours": "Opens in 6 mins",
+    "image_url": null
+  },
+  {
+    "name": "Kalathil Homoeopathic Clinic and Fertility Centre",
+    "address": "Kalathil Homoeopathic Clinic, Kochukavala, Vaikom, Vaikom, Kerala, Kerala 686141",
+    "phone": "Kalathil Homoeopathic Clinic and Fertility Centre",
+    "hours": "Open· Closes 19:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr Usha Vijaypadman, Skin Specialist",
+    "address": "Madhavi Skin AND Medical Clinic, Anugraha, Opposite Govt Poly Technic Kallingal _MARUTA RD Road, PO, …",
+    "phone": "Dr Usha Vijaypadman, Skin Specialist",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.772675,76.663757;dfp"
+  },
+  {
+    "name": "Maliyakkal Clinic",
+    "address": "Ottappalam, Ottappalam, Kerala, Kerala 679101",
+    "phone": "Maliyakkal Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. C Sreehari Surendran",
+    "address": "Palakkad - Ponnani Road, Palakkad, Kerala",
+    "phone": "Dr. C Sreehari Surendran",
+    "hours": "Open· Closes 13:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.783359,76.326691;dfp"
+  },
+  {
+    "name": "Dr Lalpathlabs Limited",
+    "address": "Valiparambu Rd, Selvapalayam, Palakkad, Kerala",
+    "phone": "Dr Lalpathlabs Limited",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.769569,76.656174;dfp"
+  },
+  {
+    "name": "Dr. Parvathy Krishnan",
+    "address": "Palakkad - Ponnani Road, Palakkad, Kerala",
+    "phone": "Dr. Parvathy Krishnan",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.783359,76.326691;dfp"
+  }
+]

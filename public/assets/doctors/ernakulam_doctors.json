@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Bakkar Dr a M Clinic",
+    "address": "1/117-a, Cheruvattoor, Ernakulam, Kerala 686691",
+    "phone": "Bakkar Dr a M Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.058827,76.652679;dfp"
+  },
+  {
+    "name": "Dr Siby's Clinic",
+    "address": "Kavalangad Opra Junction Aluva Munnar, National Highway, Kothamangalam, Kerala",
+    "phone": "Dr Siby's Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.060374,76.684998;dfp"
+  },
+  {
+    "name": "Dr. Balagopal Nair T",
+    "address": "Chunagamvely, Sanjo Gardens, Aluva-Munnar Road, Ernakulam, Kerala",
+    "phone": "Dr. Balagopal Nair T",
+    "hours": "Open· Closes 16:30",
+    "image_url": "/th?id=OLC.T5I%2b%2fKihzjRrKQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Reju Joseph Thomas",
+    "address": "Near GTN Junction, Chunangamvely Aluva, Kochi, Kerala 683112, Ernakulam, Kerala",
+    "phone": "Dr. Reju Joseph Thomas",
+    "hours": "Closed· Opens tomorrow 08:30",
+    "image_url": "/th?id=OLC.Hrh%2b4xUwf7hJiQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Cassia Clinic",
+    "address": "Chirakkarapady, Kadackanad P.O, Ernakulam, Kerala 682311",
+    "phone": "Cassia Clinic",
+    "hours": "Open· Closes 17:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.984518,76.502769;dfp"
+  },
+  {
+    "name": "Sunil Dr K E Clinic",
+    "address": "Market Road Aluva 19, Ernakulam, Kerala 683101",
+    "phone": "Sunil Dr K E Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.107187,76.359734;dfp"
+  },
+  {
+    "name": "Saradamany Dr D",
+    "address": "Kalamassery Development Plot Cochin, Ernakulam, Kerala 680104",
+    "phone": "Saradamany Dr D",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.056854,76.321564;dfp"
+  },
+  {
+    "name": "Dr. Jacob Varghese",
+    "address": "SH41, Landmark: Opposite Pattimattam Mosque, Ernakulam, Kerala",
+    "phone": "Dr. Jacob Varghese",
+    "hours": "Open· Closes 13:00",
+    "image_url": null
+  },
+  {
+    "name": "Arokya Homoeo Multispecialty Clinic",
+    "address": "Chakkalakkal Dental Clinic Building Aluva - Munnar Road, opp. to Chungath Jewellery, Angamaly, Kerala",
+    "phone": "Arokya Homoeo Multispecialty Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.062063,76.619728;dfp"
+  },
+  {
+    "name": "Kalarickal Ayurveda Hospital",
+    "address": "31, Kalarickal Ayurevda Hospital, Kothamangalam, Thankalam Byepass, Ernakulam, Kerala 686691",
+    "phone": "Kalarickal Ayurveda Hospital",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Johny Chacko",
+    "address": "1st Floor, Hayath Towers, Civil Lane Road, Padamugal, Ernakulam, Kerala",
+    "phone": "Dr. Johny Chacko",
+    "hours": "Closed· Opens 16:40",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Sreekala Mohan",
+    "address": "Kumpalangi Vazhi, Ernakulam, Kerala",
+    "phone": "Dr. Sreekala Mohan",
+    "hours": "Closed· Opens 16:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.913424,76.282394;dfp"
+  },
+  {
+    "name": "Dr. Anto Mathew",
+    "address": "Shanti Nagar, Ernakulam, Kerala",
+    "phone": "Dr. Anto Mathew",
+    "hours": "Closed· Opens 17:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.210782,76.453293;dfp"
+  },
+  {
+    "name": "Dr M P Mathai Clinic",
+    "address": "Kalady, Alwa Road, Ernakulam, Kerala 683574",
+    "phone": "Dr M P Mathai Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.165597,76.436508;dfp"
+  },
+  {
+    "name": "Dr.AFZAL MANAKKADAN's Ayurveda Eye & ENT Clinic",
+    "address": "St. Joseph's, Nera-2, School Road, Hidayath Nagar, North Kalamassery, Kalamassery, Ernakulam, Kerala",
+    "phone": "Dr.AFZAL MANAKKADAN's Ayurveda Eye & ENT Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Vempilly Ayurveda Hospital",
+    "address": "Nakapuzha Rd, Nakapuzha, Kerala 686668, India, Muvattupuzha, Kerala 686668",
+    "phone": "Vempilly Ayurveda Hospital",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. T. Saravanan",
+    "address": "Pathadippalam, Edappally, Changampuzha Nagar, Ernakulam, Kerala",
+    "phone": "Dr. T. Saravanan",
+    "hours": "Closed· Opens 11:00",
+    "image_url": null
+  },
+  {
+    "name": "Rajagiri Hospital",
+    "address": "39QQ+27Q State Highway 16, Rajagiri Hospital Rd, Edathala, Aluva, Kerala",
+    "phone": "Rajagiri Hospital",
+    "hours": null,
+    "image_url": null
+  }
+]

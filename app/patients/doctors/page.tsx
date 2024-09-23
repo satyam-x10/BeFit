@@ -1,7 +1,6 @@
 "use client";
 
 import React, { useEffect, useState } from "react";
-import { fetchDoctors } from "@/lib/utils";
 import districtsData from "../../../public/assets/districts.json";
 
 const Page = () => {
@@ -11,9 +10,12 @@ const Page = () => {
 
   const handleFetchDoctors = async (event) => {
     event.preventDefault();
+    const lowerCaseLoation = location.toLowerCase();
+    const link = `https://raw.githubusercontent.com/satyam-x10/BeFit/main/public/assets/${lowerCaseLoation}_doctors.json`;
     try {
-      const data = await fetchDoctors(location);
-      setDoctors(data.scrapedData);
+      const response = await fetch(link);
+      const data = await response.json();
+      setDoctors(data); // Assuming the JSON structure has a "doctors" array
     } catch (error) {
       console.error("Error fetching doctors:", error);
     }
@@ -94,13 +96,13 @@ const Page = () => {
 
         {/* Right Column (Search Results) */}
         <div className="w-full md:w-1/2 mt-6 md:mt-0 flex-grow">
-          {doctors.length > 0 && (
+          {doctors?.length > 0 && (
             <>
               <h3 className="text-lg font-bold text-black mb-4">
                 Search Results
               </h3>
               <ul className="space-y-4">
-                {doctors.map((doctor, index) => (
+                {doctors?.map((doctor, index) => (
                   <li
                     key={index}
                     className="flex items-start bg-gray-50 p-4 rounded-lg shadow hover:shadow-lg transition duration-200"

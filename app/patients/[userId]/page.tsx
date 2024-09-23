@@ -126,7 +126,6 @@ const UserProfile = () => {
   if (!user || !patient) {
     return <div>Loading...</div>;
   }
-  console.log(user);
 
   return (
     <div className="min-h-screen bg-black p-8">

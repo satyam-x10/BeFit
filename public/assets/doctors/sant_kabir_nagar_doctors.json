@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Health Care Clinic",
+    "address": "Moti Chauraha, Khalilabad, Basti, Uttar Pradesh 272175",
+    "phone": "Health Care Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.781511,83.048241;dfp"
+  },
+  {
+    "name": "Nanda Clinic",
+    "address": "Mehdawal Road, Hotel Satyug, Gola Bazar Kalilabad, Khalilabad, Uttar Pradesh 272175",
+    "phone": "Nanda Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.775888,83.057793;dfp"
+  },
+  {
+    "name": "Siddharth Ortho Neuro Care Hospital",
+    "address": "Madaya, NH 27, Khalilabad, Nedula, Uttar Pradesh",
+    "phone": "Siddharth Ortho Neuro Care Hospital",
+    "hours": null,
+    "image_url": "/th?id=OLC.QbsKTrx9T8C5wA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Richa Tripathi",
+    "address": "Maghar Road, J K Hospital, Khalilabad, Uttar Pradesh 272175",
+    "phone": "Dr Richa Tripathi",
+    "hours": null,
+    "image_url": "/th?id=OLC.zLpdzCqEE5Sf6w480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Al Hayath Clinic",
+    "address": "Mehdawal Road, Khalilabad, Uttar Pradesh 272175",
+    "phone": "Al Hayath Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.781193,83.072586;dfp"
+  },
+  {
+    "name": "Dr H.U Beg Clinic",
+    "address": "Gorakhpur Road, Khalilabad, Uttar Pradesh 272175",
+    "phone": "Dr H.U Beg Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.77853,83.073502;dfp"
+  },
+  {
+    "name": "Salman Clinic",
+    "address": "Basti Road, Khalilabad, Uttar Pradesh 272175",
+    "phone": "Salman Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.776283,83.071327;dfp"
+  },
+  {
+    "name": "Star Clinic",
+    "address": "Nh28, Basti Kushi Nagar Road, Khalilabad, Uttar Pradesh 272175",
+    "phone": "Star Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.778517,83.07383;dfp"
+  },
+  {
+    "name": "Dr Agrawal Netralaya",
+    "address": "Naharwali Road, Khalilabad, Uttar Pradesh 272175, India, Khalilabad, Uttar Pradesh 272175",
+    "phone": "Dr Agrawal Netralaya",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr Ambedkar Hospital",
+    "address": "Mehdawal Road, Khalilabad, Uttar Pradesh 272175",
+    "phone": "Dr Ambedkar Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.782978,83.072716;dfp"
+  },
+  {
+    "name": "Dr Lal PathLabs - Patient Service Centre",
+    "address": "Ground Floor, Bheli Mandi, Mali Tola, Sant Kabir Nagar, Uttar Pradesh 272175",
+    "phone": "Dr Lal PathLabs - Patient Service Centre",
+    "hours": "Open· Closes 19:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.765757,83.083389;dfp"
+  },
+  {
+    "name": "Sparsh Hospital",
+    "address": "Bhujaini, Nh28 Basti Kushi Nagar Road, Khalilabad, Uttar Pradesh",
+    "phone": "Sparsh Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.785391,82.969002;dfp"
+  },
+  {
+    "name": "Chaudhary Dawakhana",
+    "address": "Sant Kabir Nagar, Tripathi Nagar Main Road Khalilabad, Sant Kabir Nagar, Uttar Pradesh 272175",
+    "phone": "Chaudhary Dawakhana",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.776035,83.05722;dfp"
+  },
+  {
+    "name": "Patanjali Chikitsalaya",
+    "address": "G-49, Court Rd, Mission Compound, Saharanpur, Uttar Pradesh 247001, India, Saharanpur, Uttar Pradesh 247…",
+    "phone": "Patanjali Chikitsalaya",
+    "hours": "Open· Closes 17:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.783922,82.9776;dfp"
+  },
+  {
+    "name": "Dr Lal PathLabs - Patient Service Centre",
+    "address": "Ground Floor, Ledwa Mahua, Khalilabad, Bakhira, Maghar, Sant Kabir Nagar, Uttar Pradesh 272199",
+    "phone": "Dr Lal PathLabs - Patient Service Centre",
+    "hours": "Open· Closes 20:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.913313,83.086914;dfp"
+  }
+]

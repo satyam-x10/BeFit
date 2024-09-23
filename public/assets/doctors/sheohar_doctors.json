@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr Ruderresh Kumar Clinic",
+    "address": "Riga Road, Sheohar, Bihar 843329",
+    "phone": "Dr Ruderresh Kumar Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.519373,85.297577;dfp"
+  },
+  {
+    "name": "Dr Saligram Singh Clinic",
+    "address": "Riga Road, Sheohar, Bihar 843329",
+    "phone": "Dr Saligram Singh Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.516911,85.296753;dfp"
+  },
+  {
+    "name": "Dr Md Abid Hussain",
+    "address": "Near Middle School Parsauni Chowk Sitamarhi, Sitamarhi, Bihar 843325",
+    "phone": "Dr Md Abid Hussain",
+    "hours": "Open 24 hours",
+    "image_url": "/th?id=OLC.GODV05lTNoxoww480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Doctor Kk Jha Clinic",
+    "address": "Belsand Bharwari Road, Prathmik Swasthya Kendra, Belsand, Sheohar, Bihar 843316",
+    "phone": "Doctor Kk Jha Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.439493,85.400925;dfp"
+  },
+  {
+    "name": "Kapil Swathya Kendra - Hospital Madhuban Eastchamparan, bihar",
+    "address": "Madhuban, East Champaran Bihar, Madhuban, Bihar 845420",
+    "phone": "Kapil Swathya Kendra - Hospital Madhuban Eastchamparan, bihar",
+    "hours": null,
+    "image_url": "/th?id=OLC.8DIxBDfeLDrZaQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Sanjay Kumar Singh Clinic",
+    "address": "Sitamarhi, Bihar 843302",
+    "phone": "Dr Sanjay Kumar Singh Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.59561,85.492752;dfp"
+  },
+  {
+    "name": "Dr. Vishwambhar Kumar",
+    "address": "Prasad Health Care, opp.- Bazar Samiti, Sitamarhi Road, Bairgania, Opp.- Bazar Samiti, Sitamarhi, Bihar",
+    "phone": "Dr. Vishwambhar Kumar",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.592148,85.495956;dfp"
+  },
+  {
+    "name": "Dr Shiv Shankar Prasad Memorial Clinic",
+    "address": "Riga Majorganj Road, Hanuman Mandir, Riga, Paschim Sitamarhi, Bihar 843327",
+    "phone": "Dr Shiv Shankar Prasad Memorial Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.638491,85.423576;dfp"
+  },
+  {
+    "name": "Doctor A K Jha Clinic",
+    "address": "Hospital Road, Aashirwad Hospital, Kvj Nagar, Sitamarhi, Bihar 843301",
+    "phone": "Doctor A K Jha Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.596682,85.497414;dfp"
+  },
+  {
+    "name": "Dr. Piyush Raj",
+    "address": "Hospital Road, Sitamarhi, Bihar",
+    "phone": "Dr. Piyush Raj",
+    "hours": "Open· Closes 17:00",
+    "image_url": null
+  },
+  {
+    "name": "Kumar Clinic",
+    "address": "Hospital Road, Bairgania, Sitamarhi - 843313, Near Kali Mandir Chowk, Sitamarhi, Bihar 843313",
+    "phone": "Kumar Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.591602,85.516312;dfp"
+  },
+  {
+    "name": "Dr. Chandradip Singh- General Physician",
+    "address": "Rkm Health Clinic, Near Purana Cold Storage, Block Road, Mehsi, East Champaran, Muzaffarpur, Bihar 845…",
+    "phone": "Dr. Chandradip Singh- General Physician",
+    "hours": "Open· Closes 21:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.357082,85.095276;dfp"
+  },
+  {
+    "name": "Dr Sanjeev Memorial clinic",
+    "address": "Juran Chapra, Zila Parishad Market, Near Vishal Mega Mart, HS Mall, Opposite Bjp Office, Muzaffarpur, Bihar",
+    "phone": "Dr Sanjeev Memorial clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Ghausiya Homoeo Clinic",
+    "address": "Sahebganj Road, Bara Bazar, Chakia, Bihar, Bihar 845413",
+    "phone": "Ghausiya Homoeo Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr Basu Kumar Singh Clinic",
+    "address": "Hospital Road, Near Sadar Hospital, Sri Krishna Nagar, Motihari, Bihar",
+    "phone": "Dr Basu Kumar Singh Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.644545,84.918091;dfp"
+  },
+  {
+    "name": "PrabHakar Singh",
+    "address": "Ward NO, 02 Nagar Panchayat, Sheohar, Bihar 843329",
+    "phone": "PrabHakar Singh",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.490091,85.219978;dfp"
+  },
+  {
+    "name": "Al-Shifa Homoeo Clinic",
+    "address": "Batlar Road Near Jama Masjid Maripur Muzaffarpur Bihar India, Muzaffarpur, Bihar, Bihar 842001",
+    "phone": "Al-Shifa Homoeo Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr.manish Motihari",
+    "address": "Vill Pipra Kothi Baltharwa, Motihari, Bihar 845429",
+    "phone": "Dr.manish Motihari",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.566071,84.944901;dfp"
+  }
+]

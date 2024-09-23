@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Dr. Saurabh Singh Lunthi",
+    "address": "Near Dist. Hospital, Lunthura Chauraha, Pithoragarh, Uttarakhand 262501",
+    "phone": "Dr. Saurabh Singh Lunthi",
+    "hours": "Open· Closes 13:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.591562,80.20562;dfp"
+  },
+  {
+    "name": "Dr Shashi Firmal Clinic",
+    "address": "Chimsya Naula, Gic Road, Pithoragarh, Uttarakhand, Uttarakhand 262501",
+    "phone": "Dr Shashi Firmal Clinic",
+    "hours": "Open· Closes 18:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.585999,80.215256;dfp"
+  },
+  {
+    "name": "Dr. Namrata Bora Clinic",
+    "address": "Simalgair Rd, Pithoragarh, Uttarakhand 262501",
+    "phone": "Dr. Namrata Bora Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.582024,80.227547;dfp"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Panigrahi Clinic",
+    "address": "Ground Floor, Pmnh, Bhera Road, Nuapada, Odisha 766105",
+    "phone": "Panigrahi Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=20.82478,82.668869;dfp"
+  },
+  {
+    "name": "Sapna Patholab & Ultrasound Clinic",
+    "address": "AT Nuapada, PO Nuapada, PS Nuapada, Nuapada, Odisha 766105",
+    "phone": "Sapna Patholab & Ultrasound Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=20.820805,82.637253;dfp"
+  }
+]

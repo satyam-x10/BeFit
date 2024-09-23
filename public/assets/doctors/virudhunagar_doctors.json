@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Thiruvengdam Hospital",
+    "address": "Fathima Nagar Main Road, Virudunagar, Tamil Nadu 626001",
+    "phone": "Thiruvengdam Hospital",
+    "hours": null,
+    "image_url": "/th?id=OLC.SZl2m9LzhBF9rw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr G S Gnana Gurusamy M S",
+    "address": "Graham Nursing Home32 Chairman A.Shanmugam Road, Sivakasi, Virudhunagar, Tamil Nadu 626123",
+    "phone": "Dr G S Gnana Gurusamy M S",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.453043,77.793915;dfp"
+  },
+  {
+    "name": "Guru Vignesh Clinic",
+    "address": "Kamak Road, Thiruthangal, Sivakasi 626189",
+    "phone": "Guru Vignesh Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.448589,77.806099;dfp"
+  },
+  {
+    "name": "Arun Clinic",
+    "address": "Srivilliputhur North Car Street 156, Virudhunagar, Tamil Nadu 626125",
+    "phone": "Arun Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.510479,77.63839;dfp"
+  },
+  {
+    "name": "Kumaran Clinic",
+    "address": "36-c, Sedan Kinathu Street, Virudhunagar, Tamil Nadu 626130",
+    "phone": "Kumaran Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.478365,77.810341;dfp"
+  },
+  {
+    "name": "Mohan Clinic",
+    "address": "Vadian Street, Virudhunagar, Tamil Nadu 626001",
+    "phone": "Mohan Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.IgwjCKONnQE7rg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Srinivasa Clinic",
+    "address": "Madurai Road, Srivalliputtur, Virudhunagar, Tamil Nadu 626125",
+    "phone": "Srinivasa Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.511222,77.633888;dfp"
+  },
+  {
+    "name": "Shri Lakshmi Clinic",
+    "address": "G34w+xwf, Thiruchuli Rd, Chokkalingapuram, Tamil Nadu 626101",
+    "phone": "Shri Lakshmi Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.50997,78.103058;dfp"
+  },
+  {
+    "name": "Muthu Clinic",
+    "address": "City Bazar Road, Kanjanaiyakkenpatti, Aruppukkottai, Tamil Nadu 626101",
+    "phone": "Muthu Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.509692,78.093643;dfp"
+  },
+  {
+    "name": "Gokul Clinic",
+    "address": "Vetrilaiyurani Road, Sitthurajapuram, Sithurajapuram, Tamil Nadu 626189",
+    "phone": "Gokul Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.424387,77.786552;dfp"
+  },
+  {
+    "name": "Sundaram Clinic",
+    "address": "Sattur Road, Venkatachalapuram, Sattur, Tamil Nadu 626203",
+    "phone": "Sundaram Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.353559,77.920311;dfp"
+  },
+  {
+    "name": "Pava clinic Anaiyur",
+    "address": "Anaiyur Rd, Anaiyur, Tamil Nadu",
+    "phone": "Pava clinic Anaiyur",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.410298,77.771088;dfp"
+  },
+  {
+    "name": "Saravana Clinic",
+    "address": "Gopala Puram Road, Kovelnkulam, Aruppukkottai, Tamil Nadu 626107",
+    "phone": "Saravana Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.530721,78.099525;dfp"
+  },
+  {
+    "name": "Ram Clinic",
+    "address": "Arapukuttai Road, Arapukuttai, Aruppukkottai, Tamil Nadu 626101",
+    "phone": "Ram Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.516637,78.099892;dfp"
+  },
+  {
+    "name": "Doctor Ganesh Health Care Homoeopathy Clinic",
+    "address": "Madurai Rd, T.S Ramalinga Nagar, Aruppukkottai, Tamil Nadu",
+    "phone": "Doctor Ganesh Health Care Homoeopathy Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.517234,78.112823;dfp"
+  },
+  {
+    "name": "Ananya Kidney Stone Clinic - the best Urologist  in India",
+    "address": "New 32-B, Chairman, Kaka Shanmuga Nadar Rd, Near Airtel Showroom, Sivakasi, Tamil Nadu",
+    "phone": "Ananya Kidney Stone Clinic - the best Urologist  in India",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.45108,77.792465;dfp"
+  },
+  {
+    "name": "Arya Vaidya Sala",
+    "address": "G3JX+8VF, T.S Ramalinga Nagar, Palayampatti, Aruppukkottai, Tamil Nadu",
+    "phone": "Arya Vaidya Sala",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.538595,78.095802;dfp"
+  },
+  {
+    "name": "al Aaliyah Siddha Care",
+    "address": "61, B1 Abu Complex, Near, Railway Feeder Rd, Rajapalayam, Tamil Nadu",
+    "phone": "al Aaliyah Siddha Care",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.452391,77.560249;dfp"
+  }
+]

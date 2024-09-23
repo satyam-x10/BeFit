@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Dr Rakesh Kela General Physician",
+    "address": "115 Krishna Kunj Society, OPP.Pratap Chali, Near S.C.W.High School, Deesa, Banaskantha, Gujarat 385…",
+    "phone": "Dr Rakesh Kela General Physician",
+    "hours": "Open 24 hours",
+    "imageUrl": "https://www.bing.com/th?id=OLC.vK71QuJR4IX0GA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Bharat Makwana M.D.",
+    "address": "Shanti Hospital, Opp. Gayatri Temple, Highway, Deesa, Gujarat 385535",
+    "phone": "Dr Bharat Makwana M.D.",
+    "hours": "Closed · Opens 12:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.W1fMzJglUds7Tg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Ramesh k Chaudhary MD Physician",
+    "address": "Vedant Hospital and icu, Above om x ray, Opposite to Gayatri Temple, Deesa, Gujarat 385535",
+    "phone": "Dr. Ramesh k Chaudhary MD Physician",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.AXTSrnGTUWpNFg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Arvind B. Prajapati- Gynecology",
+    "address": "Dr. Geetaben Choudhary Lane, in Front of Swami Narayan Temple., Treen Hanuman Temple Road, Dees…",
+    "phone": "Dr. Arvind B. Prajapati- Gynecology",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.z3s0TPq1dNjz%2bw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Sanjay Gandhi",
+    "address": "Dharati Society, Palanpur Hivy Road, Deesa, Banaskantha, Gujarat 385535",
+    "phone": "Dr. Sanjay Gandhi",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.265259,72.183952;dfp"
+  },
+  {
+    "name": "Dr. Laljibhai patel- general physician",
+    "address": "Dharti Hospital, Opp To Gayati Temple, Deesa, Gujarat 385535",
+    "phone": "Dr. Laljibhai patel- general physician",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.3jMjuKtm5yDkEQ480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Spandan Clinic",
+    "address": "Dev Parisar Complex, Zerda, Bank Of Baroda Ni Same, Highway Road, Deesa, Banaskantha, Gujarat 385535",
+    "phone": "Spandan Clinic",
+    "hours": null,
+    "imageUrl": "https://th.bing.com/th?id=OLC.gI0lE9AUf2mZ7g480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Sanjivani Multispeciality Clinic Dr Manish Patel Dr Bhavika Patel",
+    "address": "Chhapi, Gujarat 385210, India, Vadgam, Gujarat 385210",
+    "phone": "Sanjivani Multispeciality Clinic Dr Manish Patel Dr Bhavika Patel",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.032284,72.400215;dfp"
+  },
+  {
+    "name": "R.k Clinic ( આર. કે. દવાખાનુ",
+    "address": "Jigs Giriraj Society, Deesa, Gujarat 385535, India, Disa, Gujarat 385535",
+    "phone": "R.k Clinic ( આર. કે. દવાખાનુ",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.256811,72.17868;dfp"
+  },
+  {
+    "name": "Tirupati Clinic",
+    "address": "Sardar Patel High School, Neminath Nagar, Disa, Gujarat 385535",
+    "phone": "Tirupati Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.252375,72.185532;dfp"
+  },
+  {
+    "name": "OM Orthopedic and Children Hospital Dr Tasvir Barot",
+    "address": "Opp. Gayatri Mandir. Nr Gayatri Laboratory, Deesa, Gujarat",
+    "phone": "OM Orthopedic and Children Hospital Dr Tasvir Barot",
+    "hours": null,
+    "imageUrl": "https://th.bing.com/th?id=OLC.rdwenmGLxE8fSg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Rahulkumar Kaluji Sankhala",
+    "address": "Shop No 02, Bhoyan Road, Bhoyan, Deesa, Banaskantha, Gujarat 385535",
+    "phone": "Dr Rahulkumar Kaluji Sankhala",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.165245,72.434372;dfp"
+  },
+  {
+    "name": "Dr M C Patel Clinic",
+    "address": "Idbi Bank, Indira Nagar, Disa, Gujarat 385535",
+    "phone": "Dr M C Patel Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.256493,72.176712;dfp"
+  },
+  {
+    "name": "Gitanjali Homiopethic Clinic",
+    "address": "69, Aditya Complex, New Bus Station, Deesa, Banaskantha, Gujarat 385535",
+    "phone": "Gitanjali Homiopethic Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.263712,72.184608;dfp"
+  },
+  {
+    "name": "Rudra Ortho Care Clinic",
+    "address": "Behind Iscon Pride, opp. Realince Petrol Pump, Indira Nagar, Deesa, Gujarat",
+    "phone": "Rudra Ortho Care Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.269247,72.181953;dfp"
+  },
+  {
+    "name": "Sparsh The Divine Touch Skin & Aesthetic Clinic",
+    "address": "Opp. Gaytri Mandir Highway Road Deesa, Deesa, Gujarat 385535",
+    "phone": "Sparsh The Divine Touch Skin & Aesthetic Clinic",
+    "hours": "Closed · Opens 09:00",
+    "imageUrl": "https://th.bing.com/th?id=OLC.BFOHT7c106hHjA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Pooja X-Ray and Sonography Clinic",
+    "address": "Opp Gayatri Mandir, Highway Road, Deesa, Gujarat 385535",
+    "phone": "Pooja X-Ray and Sonography Clinic",
+    "hours": null,
+    "imageUrl": "https://th.bing.com/th?id=OLC.ofKqNvlMnPbMyg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Priyank Patel",
+    "address": "Dr Girdhar Patel Rd, Palanpur, Banas Kantha. Landmark: Near Bus Station, Banas Kantha, Gujarat",
+    "phone": "Dr. Priyank Patel",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.1667,72.433296;dfp"
+  },
+  {
+    "name": "Dr Rakesh Kela General Physician",
+    "address": "115 Krishna Kunj Society, OPP.Pratap Chali, Near S.C.W.High School, Deesa, Banaskantha, Gujarat 385…",
+    "phone": "Dr Rakesh Kela General Physician",
+    "hours": "Open 24 hours",
+    "imageUrl": "https://www.bing.com/th?id=OLC.vK71QuJR4IX0GA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Bharat Makwana M.D.",
+    "address": "Shanti Hospital, Opp. Gayatri Temple, Highway, Deesa, Gujarat 385535",
+    "phone": "Dr Bharat Makwana M.D.",
+    "hours": "Closed · Opens 12:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.W1fMzJglUds7Tg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Dr. Pankaj Kamelwar",
+    "address": "Complex Area, Police Colony, Police Quarters, Gadchiroli, Maharashtra 442605",
+    "phone": "Dr. Pankaj Kamelwar",
+    "hours": "Closed· Opens 12:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=20.175409,79.97718;dfp"
+  },
+  {
+    "name": "Dr. Pradip Gulabrao Lad- General Physician",
+    "address": "Lad Hospital, Riddhi Siddhi Complex, Chandrapur Road, Gadchiroli, Maharashtra 442605",
+    "phone": "Dr. Pradip Gulabrao Lad- General Physician",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=20.175629,79.983231;dfp"
+  },
+  {
+    "name": "Dr. Avinash Rajendra Shankhadarwar- Ayush",
+    "address": "Madhuri Clinic, Navegaon, Mudza, Near Hyundai Showroom, Gadchiroli, Maharashtra 442605",
+    "phone": "Dr. Avinash Rajendra Shankhadarwar- Ayush",
+    "hours": "Open· Closes 16:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=20.183083,79.997452;dfp"
+  },
+  {
+    "name": "Dr. Saurabh Arunrao Nagulwar",
+    "address": "Indira Gandhi Square, Gujri Road, Gadchiroli, Maharashtra, India, 442605, Gadchiroli, Madhya Prade…",
+    "phone": "Dr. Saurabh Arunrao Nagulwar",
+    "hours": "Open· Closes 18:00",
+    "image_url": "/th?id=OLC.buH1Z2o%2b8wL4JA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Kilnake Hospital",
+    "address": "Gadchiroli Chandrapur Road, Gadchiroli, Garhchiroli, Maharashtra 442605",
+    "phone": "Dr Kilnake Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=20.182013,79.99057;dfp"
+  },
+  {
+    "name": "Dr.Nitin Masram MD Ayurved Panchkarma Clinic Gadchiroli",
+    "address": "Ayurved Panchkarma Clinic, Near Dhanvantari Hospital, Chamorshi Road, Gadchiroli, Maharashtra 442605",
+    "phone": "Dr.Nitin Masram MD Ayurved Panchkarma Clinic Gadchiroli",
+    "hours": "Open 24 hours",
+    "image_url": "/th?id=OLC.ZrjITvAHOqrMLA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Jyoti Mallick",
+    "address": "Plot Number 506, Gokulnagar Bypass Road, Gadchiroli, Maharashtra",
+    "phone": "Dr. Jyoti Mallick",
+    "hours": "Closed· Opens 17:00",
+    "image_url": null
+  },
+  {
+    "name": "Sarthak Clinic",
+    "address": "Vasant High School, Chandrapur Road, Gadchiroli Sarode Ward, Garhchiroli, Maharashtra 442605",
+    "phone": "Sarthak Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=20.186253,80.006416;dfp"
+  },
+  {
+    "name": "Vini Ayurvedic Panchkarma Hospital",
+    "address": "Dhanora Rd, Ramnagar, Gadchiroli, Maharashtra",
+    "phone": "Vini Ayurvedic Panchkarma Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=20.1826,80.00618;dfp"
+  },
+  {
+    "name": "Ayurved Panchkarma Clinic Gadchiroli",
+    "address": "Ayurved Panchkarma Clinic, Chamorshi Rd, Near Dhanvantari Hospital, Gadchiroli, Maharashtra",
+    "phone": "Ayurved Panchkarma Clinic Gadchiroli",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=18.540022,73.932198;dfp"
+  },
+  {
+    "name": "Patanjali Chikitsalaya",
+    "address": "Battuvar Complex, Infront of S.B.I, Mul Road, At Po, Gadchiroli, Maharashtra",
+    "phone": "Patanjali Chikitsalaya",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=20.064543,79.67128;dfp"
+  },
+  {
+    "name": "Dr Sardar",
+    "address": "At Post Porla, Dist Gadhchiroli, Gadhchiroli, 1, Near Post Office, Gadchiroli, Maharashtra 442605",
+    "phone": "Dr Sardar",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=20.46804,79.985184;dfp"
+  },
+  {
+    "name": "Medistar Clinical Laboratory and Diagnostic Services",
+    "address": "Plot NO. 324, Thakare Building, Ward NO. 15, 15, Chandrapur Road, MUL, Chandrapur, Maharashtra 441…",
+    "phone": "Medistar Clinical Laboratory and Diagnostic Services",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=20.182501,79.99118;dfp"
+  },
+  {
+    "name": "Anaya Clinic",
+    "address": "Gewardha, Main Road, Kurkheda, Gadchiroli, Maharashtra 441207",
+    "phone": "Anaya Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=20.643402,79.984993;dfp"
+  }
+]

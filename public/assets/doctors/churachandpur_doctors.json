@@ -1,0 +1,37 @@
+[
+  {
+    "name": "MSF Town Clinic",
+    "address": "Thangzam Rd, Churachandpur, Manipur",
+    "phone": "MSF Town Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.346601,93.700203;dfp"
+  },
+  {
+    "name": "Lamka District Hospital",
+    "address": "Hiangtam Lamka, Lamka, Manipur 795128",
+    "phone": "Lamka District Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.343002,93.692993;dfp"
+  },
+  {
+    "name": "Dr Khups' Eye Clinic, Bungmual",
+    "address": "Churachandpur, Bungmual, Manipur 795128, India, Churachandpur District, Manipur 795128",
+    "phone": "Dr Khups' Eye Clinic, Bungmual",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.339779,93.68145;dfp"
+  },
+  {
+    "name": "Unau Diagnostic Centre",
+    "address": "I.B. Road, Churachandpur, Manipur 795128",
+    "phone": "Unau Diagnostic Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.346601,93.700203;dfp"
+  },
+  {
+    "name": "Dr S Radhakrishna Foundation School",
+    "address": "Nh150, Churachandpur, Manipur 795128",
+    "phone": "Dr S Radhakrishna Foundation School",
+    "hours": null,
+    "image_url": "/th?id=OLC.06VqwqfNaM2NrA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  }
+]

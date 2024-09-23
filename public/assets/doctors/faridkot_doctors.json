@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr. Adesh Brar",
+    "address": "Muktsar Road, Near Janta Vaishno Dhabha, Kot Kapura, Punjab 151204",
+    "phone": "Dr. Adesh Brar",
+    "hours": "Open· Closes 19:20",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.582958,74.83046;dfp"
+  },
+  {
+    "name": "Aulakh Clinic Faridkot Road Sadiq",
+    "address": "Sadiq, Opp. Grain Market, Faridkot, Punjab 151203",
+    "phone": "Aulakh Clinic Faridkot Road Sadiq",
+    "hours": null,
+    "image_url": "/th?id=OLC.xUcL%2fbxij0Yu6Q480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Pallvi kamra",
+    "address": "DES RAJ Homoeopathy Clinic, Near New Bus Stand, Opp Royal Dhodha Sweets, Kali Mata Mandir Wali Gali…",
+    "phone": "Dr. Pallvi kamra",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.582752,74.829224;dfp"
+  },
+  {
+    "name": "Dr Sunil's JDM Homoeopathy Clinic",
+    "address": "Near Pheruman Chowk, Kot Kapura, Punjab 151204",
+    "phone": "Dr Sunil's JDM Homoeopathy Clinic",
+    "hours": "Open· Closes 18:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.579077,74.825806;dfp"
+  },
+  {
+    "name": "Vijay Clinic",
+    "address": "Old Cant Road, Bazigar Basti, Faridkot, Punjab 151203",
+    "phone": "Vijay Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.669195,74.752846;dfp"
+  },
+  {
+    "name": "Mittal Clinic",
+    "address": "2893, 2893, Near Railway Station, Muktsar Road, Kotkapura, Kot Kapura, Punjab 151204",
+    "phone": "Mittal Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.578981,74.815063;dfp"
+  },
+  {
+    "name": "Hospital Dr. Devraj Mogawale",
+    "address": "Shaheed Bhagat Chowk, Jaito Rd, Kot Kapura, Punjab 151204, India, Kot Kapura, Punjab 151204",
+    "phone": "Hospital Dr. Devraj Mogawale",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.5809,74.8162;dfp"
+  },
+  {
+    "name": "Kataria Clinic",
+    "address": "42-5, Valmiki Chowk, Kot Kapura, Punjab 151204",
+    "phone": "Kataria Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.58292,74.814857;dfp"
+  },
+  {
+    "name": "Preet Clinic",
+    "address": "Mohalla Nirmanpura Near Water Works, Hari NAU Road Kotkapura, Faridkot, Punjab 151204",
+    "phone": "Preet Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.583187,74.818298;dfp"
+  },
+  {
+    "name": "Dr Amarbir Boparai",
+    "address": "Medical Hospital, Guru Gobind Singh Medical College, Sadiq Rd, Faridkot, Punjab",
+    "phone": "Dr Amarbir Boparai",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.682085,74.743568;dfp"
+  },
+  {
+    "name": "Dr. Hardeep Singh - Hr Health Care",
+    "address": "Balvir Avenue Street No 10 Right Near Govt. School, Faridkot, Madhya Pradesh 151203",
+    "phone": "Dr. Hardeep Singh - Hr Health Care",
+    "hours": "Closed· Opens 17:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Sukhjeet's Homeopathy",
+    "address": "Aarey Wali Gali, Kot Kapura 151204",
+    "phone": "Dr. Sukhjeet's Homeopathy",
+    "hours": "Open· Closes 19:00",
+    "image_url": null
+  },
+  {
+    "name": "Arora Homeopathic clinic",
+    "address": "Mall Godown Road, Kot Kapura, Punjab Region 151204",
+    "phone": "Arora Homeopathic clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.578259,74.819336;dfp"
+  },
+  {
+    "name": "Dr. Ratul Dey",
+    "address": "Sadiq Road, Kotakpura, Faridkot, Punjab",
+    "phone": "Dr. Ratul Dey",
+    "hours": "Open· Closes 15:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.681255,74.747604;dfp"
+  },
+  {
+    "name": "Dr. Abhishek Dental clinic",
+    "address": "Near Geeta Bhawan, Satta Bazar, Kot Kapura 151204",
+    "phone": "Dr. Abhishek Dental clinic",
+    "hours": "Closed· Opens 15:30",
+    "image_url": null
+  },
+  {
+    "name": "Dr Lal PathLabs",
+    "address": "Kochhar Hi-Tech Lab, Opp Civil Hospital, Faridkot Road, Kotkapura- 151204, Kot Kapura 151204",
+    "phone": "Dr Lal PathLabs",
+    "hours": "Open· Closes 19:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.5809,74.8162;dfp"
+  },
+  {
+    "name": "Dr. Karan Bajaj",
+    "address": "Till Baba Farid Ji, Sarafa Bajar Rd, Nahikhana, Sarafa Bajar Road, Faridkot, Punjab 151203",
+    "phone": "Dr. Karan Bajaj",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.67305,74.755424;dfp"
+  },
+  {
+    "name": "Dhaliwal Medical Store",
+    "address": "Near Gurudwara Sahib, Thada Road, VPO Harinau, Faridkot, Punjab 151204",
+    "phone": "Dhaliwal Medical Store",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.5832,74.819664;dfp"
+  }
+]

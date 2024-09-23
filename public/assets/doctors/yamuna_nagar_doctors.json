@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr Alwadhi’s Health Care Clinic",
+    "address": "739, Paras Ram Chowk, Model Town, Yamunanagar, Haryana, Haryana 135001",
+    "phone": "Dr Alwadhi’s Health Care Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.CNd%2fnIKVO67QYw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Dixhit Sharma",
+    "address": "145 R, Sarojini Colony, Model, Haryana 135001",
+    "phone": "Dr Dixhit Sharma",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.136654,77.288773;dfp"
+  },
+  {
+    "name": "Bharat Clinic",
+    "address": "Nh73, Ashirwad Hospital, Gobind Pura Yamuna Nagar, Yamunanagar, Haryana 135001",
+    "phone": "Bharat Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.odEZ7UqU%2bDvq7Q480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Kurban Hospital",
+    "address": "343, Chandpur, Jagadhri, Bye\\pass Road, Yamunanagar, Haryana 135001",
+    "phone": "Kurban Hospital",
+    "hours": null,
+    "image_url": "/th?id=OLC.QJU9L2vfaXos0Q480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Naseeb Chaudhary - Ayurvedacharya and Panchakarma",
+    "address": "Jeevan Shakti Hospital, in Front of Guru Nanak Sr Sec School, Hisar, Haryana",
+    "phone": "Dr. Naseeb Chaudhary - Ayurvedacharya and Panchakarma",
+    "hours": null,
+    "image_url": "/th?id=OLC.6%2bsdEfdzVLx7CA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Divya Saraswat",
+    "address": "Santpura Gurudwara Road, Vishal Hospital, Model Town Yamuna Nagar, Yamunanagar, Haryana 135001",
+    "phone": "Dr. Divya Saraswat",
+    "hours": "Open· Closes 14:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.136311,77.294075;dfp"
+  },
+  {
+    "name": "Dr Batra’s Homeopathy, Hair & Skin Clinic",
+    "address": "1st Floor, Choti Line, Yamuna Nagar, Haryana 135003",
+    "phone": "Dr Batra’s Homeopathy, Hair & Skin Clinic",
+    "hours": "Closed· Opens 11:00",
+    "image_url": null
+  },
+  {
+    "name": "Inderjeet Clinic",
+    "address": "Street No 1, Harbanspura Colony, Workshop Road, Yamunanagar, Haryana, Haryana 135001",
+    "phone": "Inderjeet Clinic",
+    "hours": "Open· Closes 14:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr Neetu Mehta Clinic",
+    "address": "Sh6a Road, Gautam Hospital, Model Colony East Bhatia Nagar, Yamunanagar, Haryana 135001",
+    "phone": "Dr Neetu Mehta Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Sandeep Kalra",
+    "address": "Adarsh Nagar, Yamunanagar, Landmark: Near Kanhaiya Chowk, Yamunanagar, Haryana",
+    "phone": "Dr. Sandeep Kalra",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.142094,77.285492;dfp"
+  },
+  {
+    "name": "Bhatiya Clinic",
+    "address": "City Center Road, Gupta Hospital, Vishwakarma Mohalla Yamuna Nagar, Yamunanagar, Haryana 135001",
+    "phone": "Bhatiya Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.125717,77.290352;dfp"
+  },
+  {
+    "name": "Dr. Vimal Kumar Clinic",
+    "address": "Railway Road, Hindu Bal Sadan School, Jagadhri, Yamunanagar, Haryana 135003",
+    "phone": "Dr. Vimal Kumar Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.168953,77.30365;dfp"
+  },
+  {
+    "name": "Dr.VK Bharti Hospital",
+    "address": "Gobindpuri Rd, Professor Colony, Krishna Colony, Prem Colony, Yamuna Nagar, Haryana",
+    "phone": "Dr.VK Bharti Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.13822,77.293221;dfp"
+  },
+  {
+    "name": "Dr Kamal Gupta Clinic",
+    "address": "Radaur Road, Railway Station, Yamuna Nagar, Yamunanagar, Haryana 135001",
+    "phone": "Dr Kamal Gupta Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.118254,77.287689;dfp"
+  },
+  {
+    "name": "Dr. Mahavir Goel",
+    "address": "Sawanpuri, Huda, Jagadhri, Yamunanagar, Haryana",
+    "phone": "Dr. Mahavir Goel",
+    "hours": "Open· Closes 19:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.147585,77.304474;dfp"
+  },
+  {
+    "name": "Aarogyam Ayurveda Panchkarma Hospital",
+    "address": "Plot 30, Ground Floor, SCF Model Town, Near Post Office, Fatehabad, Haryana 125050",
+    "phone": "Aarogyam Ayurveda Panchkarma Hospital",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Shuddhi Clinic By Guru Manish Ji - Best Ayurveda Doctor & Ayurvedic Treatment",
+    "address": "Plot No, Bus Stand, 24, Workshop Rd, Near Rana Filling Station, Rampura Industrial Area, Yamuna Nagar, Hary…",
+    "phone": "Shuddhi Clinic By Guru Manish Ji - Best Ayurveda Doctor & Ayurvedic Treatment",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.134193,77.275711;dfp"
+  },
+  {
+    "name": "Dr Kushagra Gupta, Rheumatologist - Joint And Autoimmune Clinic",
+    "address": "Gupta Medical Centre, Opposite Madhuban Park, Prem Nagar, Prem Nagar, Haryana 125001",
+    "phone": "Dr Kushagra Gupta, Rheumatologist - Joint And Autoimmune Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.134565,77.285332;dfp"
+  }
+]

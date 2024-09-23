@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Dr Vijay Kant Clinic",
+    "address": "Kamla Bazar Road, Hathras, Uttar Pradesh 204101",
+    "phone": "Dr Vijay Kant Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.597641,78.052292;dfp"
+  },
+  {
+    "name": "Dr Harish Chandra Clinic",
+    "address": "Narayan Krishna Sewa Sansthan, Ganesh Ganj, Hathras, Uttar Pradesh 204101",
+    "phone": "Dr Harish Chandra Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.Jxcqfbha6et0Jg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Anil Gupta Clinic",
+    "address": "Police Chowki Chamand Gate, Jalesar Road, Beri Ganj, Hathras, Uttar Pradesh 204101",
+    "phone": "Dr Anil Gupta Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.591318,78.054062;dfp"
+  },
+  {
+    "name": "Chandra Clinic",
+    "address": "Mwqj+5vv, Near Om Tvs, Lalpur, Uttar Pradesh 204101, India, Hathras, Uttar Pradesh 204101",
+    "phone": "Chandra Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.599525,78.050758;dfp"
+  },
+  {
+    "name": "Dr R P Gupta Clinic",
+    "address": "Shyam Press Compound, Aligarh Road, Hathras, Uttar Pradesh 204101",
+    "phone": "Dr R P Gupta Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.600229,78.051682;dfp"
+  },
+  {
+    "name": "Sai classical homoeopathic clinic",
+    "address": "Near Bihari Ji Temple, Bhoorapeer Chok, Gaushala Road, Hathras, Uttar Pradesh 204101",
+    "phone": "Sai classical homoeopathic clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.0UFLMT6J%2bEAcag480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Sanjeevani Homoeopathic Clinic",
+    "address": "Near Shree JEE Handloom House, Bhoorapeer, Gaushala Rd, Hathras, Uttar Pradesh",
+    "phone": "Sanjeevani Homoeopathic Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.596664,78.048019;dfp"
+  },
+  {
+    "name": "Varshney Homoeopathic Clinic",
+    "address": "Chuna Wala Danda Chauraha - Burj Wala Kua Road, Sadabad Gate, Hathras, Hathras, Uttar Pradesh 204101",
+    "phone": "Varshney Homoeopathic Clinic",
+    "hours": "Open· Closes 21:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr.varshney path lab & Thyrocare centre",
+    "address": "Hathras, 204101, Uttar Pradesh 204101",
+    "phone": "Dr.varshney path lab & Thyrocare centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.596664,78.048019;dfp"
+  },
+  {
+    "name": "Belle Cutis Clinic",
+    "address": "Mohan Ganj, Hathras, Uttar Pradesh, Uttar Pradesh 204101",
+    "phone": "Belle Cutis Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Jan Swasthaya Raksha Kendra & Prathmik Chikitsalaya",
+    "address": "Jaraya, Agra Road, Sasni, Hathras, Uttar Pradesh 204216",
+    "phone": "Jan Swasthaya Raksha Kendra & Prathmik Chikitsalaya",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.598078,78.049225;dfp"
+  },
+  {
+    "name": "Prem Raghu Ayurvedic Medical College and Hospital",
+    "address": "Premraghu Hospital Near Mg Polytechnic Agra Road, Hathras, Uttar Pradesh, Uttar Pradesh 204101",
+    "phone": "Prem Raghu Ayurvedic Medical College and Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.206514,78.051697;dfp"
+  },
+  {
+    "name": "New Bhole Nath Agri Clinic",
+    "address": "Jalesar Road, Hathras, Uttar Pradesh 204101",
+    "phone": "New Bhole Nath Agri Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.566441,78.120903;dfp"
+  },
+  {
+    "name": "Dr Lal PathLabs - Patient Service Centre",
+    "address": "Ground Floor, Sikandra Rao, Norangabad East, Hathras, Uttar Pradesh 204215",
+    "phone": "Dr Lal PathLabs - Patient Service Centre",
+    "hours": "Open· Closes 19:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.443598,78.038498;dfp"
+  },
+  {
+    "name": "Focus Ultrasound & Imaging Centre",
+    "address": "Sasni Gate Mendu Road Near City Station, Hathras, Uttar Pradesh 204101",
+    "phone": "Focus Ultrasound & Imaging Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.596664,78.048019;dfp"
+  },
+  {
+    "name": "Hathras Scientific Pathology & Diagnostic Centre",
+    "address": "Aligarh Road, Hathras, Uttar Pradesh 204101",
+    "phone": "Hathras Scientific Pathology & Diagnostic Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.596664,78.048019;dfp"
+  },
+  {
+    "name": "Mahamaya Pathology",
+    "address": "Gt Road, Hathras, Uttar Pradesh 204101",
+    "phone": "Mahamaya Pathology",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.598692,78.049965;dfp"
+  }
+]

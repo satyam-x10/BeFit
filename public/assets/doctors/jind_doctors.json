@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr. Raj Pruthi- General Physician",
+    "address": "Dr. Raj Pruthi's Clinic, Near Mehak House, Safidon Gate, Jind, Haryana 126102",
+    "phone": "Dr. Raj Pruthi- General Physician",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.318151,76.314857;dfp"
+  },
+  {
+    "name": "Dr. Sachin- Ayush In Haryana",
+    "address": "Sachin Clinic, Rohtak Road, Jind Main Road, Near Jind, Rohtak, Haryana 126102",
+    "phone": "Dr. Sachin- Ayush In Haryana",
+    "hours": "Open· Closes 12:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.300785,76.316948;dfp"
+  },
+  {
+    "name": "Dr Shweta jain - Infertility Specialist | Gynae Laparoscopic Surgeon",
+    "address": "Bal Dharmarth Hospital, Bhiwani Rd, Buda Baba Basti, Jind, Haryana",
+    "phone": "Dr Shweta jain - Infertility Specialist | Gynae Laparoscopic Surgeon",
+    "hours": null,
+    "image_url": "/th?id=OLC.%2fWmecwdC1yJAxQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Surendra Chaudhary",
+    "address": "Metro Hospital Gohana Road Opposite Lic Building, Near Bsnl Exchange, Block A, Sector 10, Urban Estate, Hary…",
+    "phone": "Dr Surendra Chaudhary",
+    "hours": "Open 24 hours",
+    "image_url": "/th?id=OLC.HtcUnUHQbh12hw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Ramesh Clinic",
+    "address": "Kundan Cinema Road, Jind, Haryana 126102",
+    "phone": "Dr Ramesh Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.315207,76.321442;dfp"
+  },
+  {
+    "name": "Dr. Vinod Kumar- General Physician in Haryana",
+    "address": "Vinod Kumar Clinic, Patiala Chowk Rd, New Shyam Nagar, Sant Nagar, Patiala Chowk, Jind, Haryana 126102",
+    "phone": "Dr. Vinod Kumar- General Physician in Haryana",
+    "hours": "Open· Closes 20:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.324865,76.298363;dfp"
+  },
+  {
+    "name": "Dr. Harpal Anand- General Physician",
+    "address": "Anand Hoapital, New Shyam Nagar, Sant Nagar, Patiala Chowk, Jind, Haryana 126102",
+    "phone": "Dr. Harpal Anand- General Physician",
+    "hours": "Open· Closes 21:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.322716,76.297249;dfp"
+  },
+  {
+    "name": "Dr. Vijay Pal Arya- General Physician",
+    "address": "Janta Hospital, Patiala Chowk, Jind, Haryana 126102",
+    "phone": "Dr. Vijay Pal Arya- General Physician",
+    "hours": "Open· Closes 21:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Ramniwas Chauhan- General Physician",
+    "address": "Ramniwas Chauhan Clinic, Kaithal Rd, Raj Nagar, Patiala Chowk, Jind, Haryana 126102",
+    "phone": "Dr. Ramniwas Chauhan- General Physician",
+    "hours": "Open· Closes 12:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.333744,76.301926;dfp"
+  },
+  {
+    "name": "DR. Pankaj Hospital",
+    "address": "Patiala Chowk, Raj Nagar, Jind, Haryana 126102",
+    "phone": "DR. Pankaj Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.325438,76.300293;dfp"
+  },
+  {
+    "name": "Vardaan Hospital - Maternity Hospital | Ladies Doctor",
+    "address": "Rohtak Bypass Rd, Near Oxford School, Police Lines, Jind, Haryana",
+    "phone": "Vardaan Hospital - Maternity Hospital | Ladies Doctor",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.303688,76.34922;dfp"
+  },
+  {
+    "name": "Balaji Bawasir Bhagander Clinic",
+    "address": "Safidon Road, Kundan Cinema, Krishna Colony, Jind, Haryana 126102",
+    "phone": "Balaji Bawasir Bhagander Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.318024,76.322456;dfp"
+  },
+  {
+    "name": "Bhagwat Sawroop Clinic",
+    "address": "Main Bazar Road, Baba Wala Hospital, Palika Bazar, Jind, Haryana 126102",
+    "phone": "Bhagwat Sawroop Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.313894,76.314926;dfp"
+  },
+  {
+    "name": "Shree Shyam EH Clinic",
+    "address": "Gohana Road, Jind, Haryana 126102",
+    "phone": "Shree Shyam EH Clinic",
+    "hours": "Open· Closes 17:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr Manoj Orthopaedic And Maternity Hospital",
+    "address": "Main Road, Kharb Hospital, Urban Estate, Jind, Haryana 126102",
+    "phone": "Dr Manoj Orthopaedic And Maternity Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.312878,76.338402;dfp"
+  },
+  {
+    "name": "Dr. Surendra chou | Orthopedic | Metro Hospital jind",
+    "address": "Metro Hosp Jind, Jind, Haryana, India, 126102, Jind, Madhya Pradesh 126102",
+    "phone": "Dr. Surendra chou | Orthopedic | Metro Hospital jind",
+    "hours": "Closed· Opens 13:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr Shraddha Bedi",
+    "address": "Global Cradle Hospital, Hansi Rd, Near by Sardar Jassa Singh Ramgarhia Chowk, Adjoining Sant Nirankari Bha…",
+    "phone": "Dr Shraddha Bedi",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.324881,76.299454;dfp"
+  },
+  {
+    "name": "Dr. Pankaj Soni",
+    "address": "Shop No. 38, Bal Bhawan Complex, Jind, Haryana",
+    "phone": "Dr. Pankaj Soni",
+    "hours": "Open· Closes 14:00",
+    "image_url": null
+  }
+]

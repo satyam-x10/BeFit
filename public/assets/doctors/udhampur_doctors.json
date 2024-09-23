@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Dr. Deepak Sharma",
+    "address": "Sethi Market, Chopra Shop, Bikram Enclave, Udhampur 182121",
+    "phone": "Dr. Deepak Sharma",
+    "hours": "Closed· Opens 17:00",
+    "image_url": "/th?id=OLC.C3%2bT5Zwu9eBE0A480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Aamir",
+    "address": "Chopra Shop, Opposite Mess Gurudwara, Udhampur 182121",
+    "phone": "Dr. Aamir",
+    "hours": "Closed· Opens tomorrow 10:00",
+    "image_url": "/th?id=OLC.UIHVubF%2b90yZLQ480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Satesh Kumar Raina | MD Acp",
+    "address": "Industrial Estates Udhampur, 1, Udhampur, Jammu and Kashmir, India, 182101, Udhampur, Madhya Pradesh 1…",
+    "phone": "Dr. Satesh Kumar Raina | MD Acp",
+    "hours": "Open· Closes 18:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=32.906746,75.134727;dfp"
+  },
+  {
+    "name": "Dr Anil Kumar (VETERINARY)",
+    "address": "Behind Head Post Office Near Holy Angles High School, Udhampur",
+    "phone": "Dr Anil Kumar (VETERINARY)",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=32.924904,75.139206;dfp"
+  },
+  {
+    "name": "KD Multispeciality Clinic Udhampur",
+    "address": "District Hospital Road, Adarsh Colony, Udhampur",
+    "phone": "KD Multispeciality Clinic Udhampur",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=32.920395,75.131317;dfp"
+  },
+  {
+    "name": "Dr. Manmeet Singh",
+    "address": "Akshita Drug & Cosmetic, Chibber Enclave, Garhi 182121",
+    "phone": "Dr. Manmeet Singh",
+    "hours": "Closed· Opens 18:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=32.898636,75.068504;dfp"
+  },
+  {
+    "name": "Dr. Nikhil Gupta",
+    "address": "Ward No. 1, Subash Nagar, Housing Colony, Udhampur, Jammu and Kashmir (State)",
+    "phone": "Dr. Nikhil Gupta",
+    "hours": "Closed· Opens Sep 29 at 11:00",
+    "image_url": null
+  },
+  {
+    "name": "A Dabur Medical Store",
+    "address": "Lambi Gali, Gole Market, Udhampur, Jammu and Kashmir (State) 182101",
+    "phone": "A Dabur Medical Store",
+    "hours": "Open· Closes 21:00",
+    "image_url": null
+  },
+  {
+    "name": "U Like Car Clinic- Maruti",
+    "address": "Gita Nagar, Reasi, Road, Jyotipuram",
+    "phone": "U Like Car Clinic- Maruti",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=32.918732,75.129158;dfp"
+  }
+]

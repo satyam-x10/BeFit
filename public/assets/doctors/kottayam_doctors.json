@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Doctor Indira Balachandran",
+    "address": "Palace Road, Thekkumgopuram, Kottayam, Kerala, Kerala 686001",
+    "phone": "Doctor Indira Balachandran",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.589061,76.52066;dfp"
+  },
+  {
+    "name": "Bharath Hospital",
+    "address": "Azad Lane, Near Thirunakkara Mahadeva Temple, Kottayam, Kerala 686001",
+    "phone": "Bharath Hospital",
+    "hours": "Open 24 hours",
+    "image_url": "/th?id=OLC.IoyQcHb9sslGrA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Rema's Clinic",
+    "address": "Divankavala - Shappum Padi Rd, Kunnampally, Moolavattom, Kottayam, Kerala",
+    "phone": "Dr Rema's Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.581747,76.515121;dfp"
+  },
+  {
+    "name": "KIMSHEALTH Kottayam Multi Speciality Hospital",
+    "address": "Thoothutty Junction, Kudamaloor P.O, Kottayam – 686017, Kerala, India, Kottayam 686017",
+    "phone": "KIMSHEALTH Kottayam Multi Speciality Hospital",
+    "hours": "Open 24 hours",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.624137,76.51799;dfp"
+  },
+  {
+    "name": "Dr. Hima Thomas",
+    "address": "1st Floor, Kallupalam Hill Residency, Chalukunnu, Kottayam, Kerala",
+    "phone": "Dr. Hima Thomas",
+    "hours": "Open· Closes 13:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.595484,76.517128;dfp"
+  },
+  {
+    "name": "Patel's Homeopathic Cancer & General Clinic, homeopath",
+    "address": "Hahnemann House, Nr Deepika Press.c.m.s College Road, Kottayam, Kerala, Kerala 686001",
+    "phone": "Patel's Homeopathic Cancer & General Clinic, homeopath",
+    "hours": "Open· Closes 17:00",
+    "image_url": "/th?id=OLC.VzZNZEAZ4Km8tw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "LifeCare Family Health Clinic",
+    "address": "Poozhikkattu Buildings, Near Railway Overbridge, Mooledom, Kottayam, Kerala 686026",
+    "phone": "LifeCare Family Health Clinic",
+    "hours": "Open· Closes 13:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr Sankar Das Plastic Surgeon Kottayam",
+    "address": "Azad Line, Puthenangady, Kottayam, Kerala",
+    "phone": "Dr Sankar Das Plastic Surgeon Kottayam",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr Batra's Homeopathy",
+    "address": "Arackal Arcade, TB Road, Kottayam, Kerala 686001",
+    "phone": "Dr Batra's Homeopathy",
+    "hours": "Closed· Opens 12:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Sadakathulla Clinic",
+    "address": "Safeer Manzil, Karapuzha, Kottayam, Kerala, India, 686003, Kottayam, Madhya Pradesh 686003",
+    "phone": "Dr. Sadakathulla Clinic",
+    "hours": "Open· Closes 13:00",
+    "image_url": null
+  },
+  {
+    "name": "Kooplicat Ayurveda Hospital",
+    "address": "Chalukunnu, Kottayam, Kerala 686001",
+    "phone": "Kooplicat Ayurveda Hospital",
+    "hours": "Open· Closes 20:00",
+    "image_url": null
+  },
+  {
+    "name": "Santhimandiram Ayurveda Hospital",
+    "address": "Mandiram, Sh9, Manganam, Kottayam, Kerala 686018, India, Kottayam, Kerala 686018",
+    "phone": "Santhimandiram Ayurveda Hospital",
+    "hours": "Open· Closes 18:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr Midhila Consultant Pediatrician",
+    "address": "Nagampadam, Kottayam, Kerala",
+    "phone": "Dr Midhila Consultant Pediatrician",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.594915,76.534943;dfp"
+  },
+  {
+    "name": "Tjm Ayurvedic and Physiotherapy Hospital",
+    "address": "Dr. Bibin Thomas And Dr.Binny Jacob, Kottayam, Kerala, Kerala 686015",
+    "phone": "Tjm Ayurvedic and Physiotherapy Hospital",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Sukhodaya ayurvedic hospital",
+    "address": "Sukhodaya Nagar, Kanjirappally, Kerala",
+    "phone": "Sukhodaya ayurvedic hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.58738,76.544388;dfp"
+  },
+  {
+    "name": "Kottakkal Arya Vaidya Sala Kanjikuzhi",
+    "address": "Near K S E B Section Office, Puthenangady, Kanjirappally, Kerala",
+    "phone": "Kottakkal Arya Vaidya Sala Kanjikuzhi",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Sreedhareeyam Ayurvedic Clinic",
+    "address": "Prathibha Madapattu Temple Road, Kottayam, Kerala 686004",
+    "phone": "Sreedhareeyam Ayurvedic Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Moorthis Homoeo Clinic",
+    "address": "Temple Rd, Kottayam 686001",
+    "phone": "Moorthis Homoeo Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.59094,76.513474;dfp"
+  }
+]

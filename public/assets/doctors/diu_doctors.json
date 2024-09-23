@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Dr. Razina Kasmani",
+    "address": "Near Diu Bus Station, Vorahwada Street, Diu 362570",
+    "phone": "Dr. Razina Kasmani",
+    "hours": "Opens in 14 mins",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=20.714218,70.960808;dfp"
+  },
+  {
+    "name": "Dr. Pradip B. Solanki",
+    "address": "Aesha Clinic -Near Dena Bank Diu, Diu, Daman And Diu 362520, India, Diu, Daman And Diu 362520",
+    "phone": "Dr. Pradip B. Solanki",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=20.719917,70.981316;dfp"
+  },
+  {
+    "name": "Dr. Vishal Solanki- General Physician",
+    "address": "Om Health Care, Opp. Municipal Corporation Office, Near Bus Stand, Una, Gujarat 362560",
+    "phone": "Dr. Vishal Solanki- General Physician",
+    "hours": "Open· Closes 13:30",
+    "image_url": "/th?id=OLC.jkEB3wAjevwulw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Kapil- Orthopedics and Arthroplasty in Gujarat",
+    "address": "Natraj Hospital, Opposite Una Bus Stand, Gir, Somnath, Una, Gujarat 362560",
+    "phone": "Dr. Kapil- Orthopedics and Arthroplasty in Gujarat",
+    "hours": "Open· Closes 13:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=20.826239,71.040604;dfp"
+  },
+  {
+    "name": "Dr Chotalia Clinic",
+    "address": "Mg Road, Saiyed Wada, Gujarat 362560",
+    "phone": "Dr Chotalia Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=20.824152,71.041618;dfp"
+  },
+  {
+    "name": "Shree Shubham Clinic Laboratry",
+    "address": "Bhavnagar Road, Hotel Natraj, Una, Gujarat 362560",
+    "phone": "Shree Shubham Clinic Laboratry",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=20.82568,71.041824;dfp"
+  }
+]

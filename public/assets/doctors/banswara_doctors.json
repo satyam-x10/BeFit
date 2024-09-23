@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Dr. Haroon Rasheed",
+    "address": "1134, Mangal Murti Complex Near Indian Petrol Pump, H.m. Sec 4, Udaipur, Rajasthan 313002",
+    "phone": "Dr. Haroon Rasheed",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/th?id=OLC.dH5CZHfixD2WsA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Yudhishthir Trivedi clinic",
+    "address": "Rati Talai Main Rd, Rati Talai, Banswara, Rajasthan",
+    "phone": "Dr. Yudhishthir Trivedi clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.555182,74.435982;dfp"
+  },
+  {
+    "name": "Prof. Dr. Md. Mohsen Chowdhury",
+    "address": "Samorita Hospital Ltd, 89/1 পান্থপথ, ঢাকা 1215, Banswara, Rajasthan 327001",
+    "phone": "Prof. Dr. Md. Mohsen Chowdhury",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.559393,74.427658;dfp"
+  },
+  {
+    "name": "Dr PC Yadav Clinic",
+    "address": "Near Axis Bank, Rati Talai, Banswara, Rajasthan 327001",
+    "phone": "Dr PC Yadav Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.554066,74.442863;dfp"
+  },
+  {
+    "name": "Sajid Clinic",
+    "address": "Government School, Jawahar Pul, Banswara, Rajasthan 327001",
+    "phone": "Sajid Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.550781,74.446892;dfp"
+  },
+  {
+    "name": "Vidhya Sudha Health Care & Clinic",
+    "address": "Khandu Colonoy, Banswara, Khandu Colony, Lhandu Colony, Banswara, Rajasthan 327001",
+    "phone": "Vidhya Sudha Health Care & Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.543797,74.439064;dfp"
+  },
+  {
+    "name": "Bharat Clinic",
+    "address": "143, Muslim Colony, Near Water Tank, Banswara, Rajasthan 327001",
+    "phone": "Bharat Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.543797,74.439064;dfp"
+  },
+  {
+    "name": "Mewar Hospital Banswara",
+    "address": "Collectory Rd, Near Amardeep Hotel, Nai Abadi, Banswara, Rajasthan",
+    "phone": "Mewar Hospital Banswara",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.551874,74.446472;dfp"
+  },
+  {
+    "name": "Nanuram Clinic Centre",
+    "address": "01, Main Bajar, Danpur, Chhoti Sarwan, Tejpur Road, Banswara, Rajasthan 327001",
+    "phone": "Nanuram Clinic Centre",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.544142,74.439285;dfp"
+  },
+  {
+    "name": "Dr. Harish Chandra Lalwani",
+    "address": "Shop No. 110, College Road, Near Mahalaxami Book Store, Road Number 4, Subhash Nagar, Banswara, Raj…",
+    "phone": "Dr. Harish Chandra Lalwani",
+    "hours": "Closed · Opens Sep 29 at 09:00",
+    "imageUrl": "https://th.bing.com/th?id=OLC.K4miwr2kcqJlzw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Mohit Samaria MD Respiratory Medicine",
+    "address": "P-15, Housing Board Rd, Near Subhash School, Colony, Rajsamand, Rajasthan",
+    "phone": "Dr Mohit Samaria MD Respiratory Medicine",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.561239,74.43515;dfp"
+  },
+  {
+    "name": "Dr Gunjita pediatric health care",
+    "address": "Mohan Colony Behind Collectory, Banswara, Rajasthan, Rajasthan 327001",
+    "phone": "Dr Gunjita pediatric health care",
+    "hours": "Closed · Opens 09:00",
+    "imageUrl": "https://th.bing.com/th?id=OLC.RQ3K5J36MlBH%2bw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr RK Singh Homeopathic Clinic",
+    "address": "Near Milk Dairy, Janawari Road, Banswara, Rajasthan 327001",
+    "phone": "Dr RK Singh Homeopathic Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.556835,74.434998;dfp"
+  },
+  {
+    "name": "Solution Ayurvediic Clinic",
+    "address": "Palace Road, Kalika Mata Mandir, Banswara Rural, Banswara, Rajasthan 327001",
+    "phone": "Solution Ayurvediic Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.545723,74.448372;dfp"
+  },
+  {
+    "name": "Dr. Varun Warman",
+    "address": "94-95, Commercial Area, Dahod Road, Banswara, Rajasthan",
+    "phone": "Dr. Varun Warman",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.54336,74.43821;dfp"
+  },
+  {
+    "name": "Dr.jain Eye Hospital",
+    "address": "Near Tally Hospital, Jawahar Pul, Banswara, Rajasthan 327001",
+    "phone": "Dr.jain Eye Hospital",
+    "hours": null,
+    "imageUrl": "https://th.bing.com/th?id=OLC.7VGRQUgJB8b1Kg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Lal PathLabs Newai",
+    "address": "BUS Stand, opp. Govt. Hospital, Regron Ka Mohhala, Niwai, Rajasthan",
+    "phone": "Dr Lal PathLabs Newai",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.54987,74.443062;dfp"
+  },
+  {
+    "name": "Herbal Electropathy Clinic Center",
+    "address": "Near Milk Dairy, Talwara Road, Banswara, Rajasthan 327001",
+    "phone": "Herbal Electropathy Clinic Center",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.545513,74.432793;dfp"
+  },
+  {
+    "name": "Dr. Haroon Rasheed",
+    "address": "1134, Mangal Murti Complex Near Indian Petrol Pump, H.m. Sec 4, Udaipur, Rajasthan 313002",
+    "phone": "Dr. Haroon Rasheed",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/th?id=OLC.dH5CZHfixD2WsA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Yudhishthir Trivedi clinic",
+    "address": "Rati Talai Main Rd, Rati Talai, Banswara, Rajasthan",
+    "phone": "Dr. Yudhishthir Trivedi clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.555182,74.435982;dfp"
+  }
+]

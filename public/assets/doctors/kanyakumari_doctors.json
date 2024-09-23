@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Chandriga Hospital",
+    "address": "266\\43\\1, Duthie School Junction, Court Road, Nagercoil, Kanyakumari, Tamil Nadu 629001",
+    "phone": "Chandriga Hospital",
+    "hours": null,
+    "image_url": "/th?id=OLC.2wHImVZNWPzU2Q480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "DR.Jeyasekharan Medical Trust",
+    "address": "Kottar-Parvathipuram Rd, Weavers Colony, Nagercoil, Tamil Nadu",
+    "phone": "DR.Jeyasekharan Medical Trust",
+    "hours": "Closed· Opens tomorrow 08:30",
+    "image_url": "/th?id=OLC.fqpCgYWksCH3Uw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Ravi Memorial Clinic",
+    "address": "R. R. N Building, Padanthalmoodu, Kanyakumari, Kanyakumari 629163",
+    "phone": "Ravi Memorial Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=8.30612,77.225616;dfp"
+  },
+  {
+    "name": "Dr. Pratheep Samraj",
+    "address": "Karungal - Palliyaadi - Eraviputhhoorkadai Main Road, Kanyakumari, Tamil Nadu",
+    "phone": "Dr. Pratheep Samraj",
+    "hours": "Open· Closes 13:00",
+    "image_url": "/th?id=OLC.p%2f0Ml43ON8Y2gQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Thiraviam Orthopaedic Hospital",
+    "address": "2 Tirunelveli High Road, Near Ozhuginasery Bridge, Therekalputhoor, Thirupathisaram P.O, Kanyakumari, T…",
+    "phone": "Thiraviam Orthopaedic Hospital",
+    "hours": null,
+    "image_url": "/th?id=OLC.wqUbDH9kKfg%2bvg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Punithan's Clinic",
+    "address": "Nagercoil Road, Agasthiswaram, Tamil Nadu 629001",
+    "phone": "Dr. Punithan's Clinic",
+    "hours": "Closed· Opens 17:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=8.186471,77.431946;dfp"
+  },
+  {
+    "name": "Ezhilarasu Siddha Clinic",
+    "address": "Nirmala Hospital, Karungal Main Road, Vilavankod, Tamil Nadu 629157",
+    "phone": "Ezhilarasu Siddha Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=8.240172,77.241241;dfp"
+  },
+  {
+    "name": "Bhadra Clinic",
+    "address": "North Car Street, Agasthiswaram, Tamil Nadu 629001",
+    "phone": "Bhadra Clinic",
+    "hours": "Open· Closes 13:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=8.186471,77.431946;dfp"
+  },
+  {
+    "name": "Dr.Jeyasekharan Hospital and Nursing Home",
+    "address": "KP Road, Nagercoil, Agasthiswaram, Tamil Nadu 629003",
+    "phone": "Dr.Jeyasekharan Hospital and Nursing Home",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=8.184439,77.409889;dfp"
+  },
+  {
+    "name": "S S Naidu Hospital",
+    "address": "Nh 47, Eathancadu, Edalakudi, Kottar, Tamil Nadu 629002, India, Kanyakumari, Tamil Nadu 629002",
+    "phone": "S S Naidu Hospital",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr.Jeyasekharan Medical Trust",
+    "address": "629 Holy Cross College Road, Agasthiswaram, Tamil Nadu 629004",
+    "phone": "Dr.Jeyasekharan Medical Trust",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=8.166233,77.418648;dfp"
+  },
+  {
+    "name": "Maria Ayurveda Medical College And Hospital",
+    "address": "Barathapalli Road, Kanyakumari, Tamil Nadu 629177",
+    "phone": "Maria Ayurveda Medical College And Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=8.32946,77.260803;dfp"
+  },
+  {
+    "name": "Jeevan Superspeciality Homoeopathy Clinic & Center for Research in Homoeopathy",
+    "address": "SH 90, Marthandam, Tamil Nadu",
+    "phone": "Jeevan Superspeciality Homoeopathy Clinic & Center for Research in Homoeopathy",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=8.194057,77.42955;dfp"
+  },
+  {
+    "name": "Nancy Ayurveda Hospital",
+    "address": "Thengappara, Near Panachamoodu, Puliyoorsalai p.o, Kanyakumari, Kerala 629152",
+    "phone": "Nancy Ayurveda Hospital",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Shandic's Homoeo Clinic",
+    "address": "Main Street, Simon Nagar, Tamil Nadu 629004",
+    "phone": "Dr. Shandic's Homoeo Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Raguram Ganesamoni",
+    "address": "Ganesamoni Hospital, Nagercoil, Tamil Nadu 629002",
+    "phone": "Dr. Raguram Ganesamoni",
+    "hours": "Open· Closes 13:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr Shaji",
+    "address": "Hospital Junction, Parassala, Trivandrum, Kerala 695002",
+    "phone": "Dr Shaji",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Jebrish Diagnostic Centre",
+    "address": "Marthandam, Kanyakumari, Tamil Nadu 629165",
+    "phone": "Jebrish Diagnostic Centre",
+    "hours": null,
+    "image_url": null
+  }
+]

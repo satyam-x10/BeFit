@@ -1,0 +1,128 @@
+[
+  {
+    "name": "National Hospital",
+    "address": "IG Road, Near K.S.R.T.C, Mavoor Road, Kozhikode, Kerala 673004",
+    "phone": "National Hospital",
+    "hours": null,
+    "image_url": "/th?id=OLC.KPSPDVy6uzyzZg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Sudheer Kumar",
+    "address": "Pavamani Rd, Tazhekkod, Kozhikode, Kerala",
+    "phone": "Dr. Sudheer Kumar",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.254699,75.783119;dfp"
+  },
+  {
+    "name": "DR.Balrajs Clinic",
+    "address": "opp. Islamic Centre, Civil Station, Eranhippalam, Kozhikode, Kerala",
+    "phone": "DR.Balrajs Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.qD33d1qcOruDwA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Starcare Hospital",
+    "address": "N H Bypass Junction, Near Thondayad, Kozhikode, Kerala 673017",
+    "phone": "Starcare Hospital",
+    "hours": "Open 24 hours",
+    "image_url": "/th?id=OLC.Itlm5T6Hbs9Evg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Shahins Homoeo Clinic",
+    "address": "Thavundapuram, East Hill - Edakkad Road, Kozhikode, Kerala, Kerala 673005",
+    "phone": "Dr. Shahins Homoeo Clinic",
+    "hours": "Closed· Opens 11:00",
+    "image_url": "/th?id=OLC.4DFzKiYNSfLgpA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Harikrishna D",
+    "address": "Baby Memorial Hospital, Kottooli, Kozhikode, Kerala",
+    "phone": "Dr Harikrishna D",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.25579,75.783966;dfp"
+  },
+  {
+    "name": "Baby Memorial Hospital",
+    "address": "Indira Gandhi Road, Kozhikode, Kerala 673004",
+    "phone": "Baby Memorial Hospital",
+    "hours": "Open· Closes 15:30",
+    "image_url": null
+  },
+  {
+    "name": "MS siddha & Ayurveda clinic",
+    "address": "Mundikkal Thazham, Kottamparamba (po), Kozhikode, Kerala 673008",
+    "phone": "MS siddha & Ayurveda clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr Sait's Medical Center for Homeopathic Research & Hospital",
+    "address": "Ground Floor, Near Skyline Appartment, Kottaram Road JN, East Nadakkavu, Kozhikode, Kerala 673006",
+    "phone": "Dr Sait's Medical Center for Homeopathic Research & Hospital",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Kuntal Deb Barma",
+    "address": "5/1414, Saira Arcade, Wayanad Road, East Nadakkave, Kozhikode, Kerala",
+    "phone": "Dr. Kuntal Deb Barma",
+    "hours": "Open· Closes 19:00",
+    "image_url": null
+  },
+  {
+    "name": "Kokoori Laparoscopic & IVF Clinic",
+    "address": "Amrita Avenue, Kozhikode, Kerala 673009",
+    "phone": "Kokoori Laparoscopic & IVF Clinic",
+    "hours": "Open· Closes 18:00",
+    "image_url": null
+  },
+  {
+    "name": "Santhigiri Ayurveda & Siddha Hospital",
+    "address": "East Nadakkave, Kozhikode, Kerala 673011",
+    "phone": "Santhigiri Ayurveda & Siddha Hospital",
+    "hours": "Open· Closes 21:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr.Suresh's Diabcare India",
+    "address": "Kavu Nagar, Thondayadu Junction Mavoor Road, Junction, Thondayad, Kozhikode, Kerala",
+    "phone": "Dr.Suresh's Diabcare India",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "KMCT Ayurveda Hospital",
+    "address": "Manassery Post. Kozhikode, Kozhikode, Kerala 673602",
+    "phone": "KMCT Ayurveda Hospital",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr Manoj S Ent Super Speciality Institute & Research Centre",
+    "address": "Saira, 5 1414Wynad, Kozhikode, Kerala 673006",
+    "phone": "Dr Manoj S Ent Super Speciality Institute & Research Centre",
+    "hours": "Open· Closes 19:00",
+    "image_url": null
+  },
+  {
+    "name": "Allergy, E N T., Skin & Hair Clinic - Rm Homeopathy Pottammal",
+    "address": "First Floor, Above Icici Bank, Kozhikode, Kerala, Kerala 673016",
+    "phone": "Allergy, E N T., Skin & Hair Clinic - Rm Homeopathy Pottammal",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Sreekumar's Homoeo speciality Clinic",
+    "address": "Perumanna Rd, Poovattuparamba, Kerala",
+    "phone": "Sreekumar's Homoeo speciality Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Nahas Skin Clinic",
+    "address": "Pentagon, Thondayad, Kozhikode, Kerala 673017",
+    "phone": "Nahas Skin Clinic",
+    "hours": "Open· Closes 18:00",
+    "image_url": null
+  }
+]

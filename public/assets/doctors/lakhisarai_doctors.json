@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr Himkar Clinic",
+    "address": "Lakhisarai Purani Market, Lakhisarai Main Road, Lakhisarai, Bihar 811311",
+    "phone": "Dr Himkar Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.1831,86.098793;dfp"
+  },
+  {
+    "name": "Dr J P Sharma Clinic",
+    "address": "Lakhisarai Market, Station Road, Lakhisarai, Bihar 811311",
+    "phone": "Dr J P Sharma Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.166931,86.095459;dfp"
+  },
+  {
+    "name": "Dr Dilip Kumar Clinic",
+    "address": "Lakhisarai Market, Purani Bazar Road, Lakhisarai, Bihar 811311",
+    "phone": "Dr Dilip Kumar Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.4fd6ux1dW5FUnA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Shree Satya Sai Aakriti Clinic",
+    "address": "Sh8, Lakhisarai, Bihar 811311",
+    "phone": "Shree Satya Sai Aakriti Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.180267,86.096893;dfp"
+  },
+  {
+    "name": "Dr. Hari Narayan Prasad Singh- General Physician",
+    "address": "Harinarayan Clinic, Near Kali Asthan, Begusarai, Bihar 851101",
+    "phone": "Dr. Hari Narayan Prasad Singh- General Physician",
+    "hours": "Closed· Opens 11:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.417229,86.130226;dfp"
+  },
+  {
+    "name": "Shiv Kamini Clinic",
+    "address": "Pachana Road, Lakhisarai, Bihar 811311",
+    "phone": "Shiv Kamini Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.nrdwPRgQqTnYOg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Mamta Clinic",
+    "address": "Karyanand Nagar, Purani Bazar, Lakhisarai, Bihar 811311",
+    "phone": "Mamta Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr Vibha Kumari Clinic",
+    "address": "Near Uco Bank, Nh31, Meer Ganj Gyaneshwari, Begu Sarai, Begusarai, Bihar 851101",
+    "phone": "Dr Vibha Kumari Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.422665,86.111794;dfp"
+  },
+  {
+    "name": "Dr S N Thakur Clinic",
+    "address": "Near Bsnl Office, Nh31, Refinery Township, Begu Sarai, Begusarai, Bihar 851101",
+    "phone": "Dr S N Thakur Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.422272,86.111588;dfp"
+  },
+  {
+    "name": "Dr. Amit kumar",
+    "address": "851101, BR, India, Begusarai, Bihar",
+    "phone": "Dr. Amit kumar",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.427788,86.12838;dfp"
+  },
+  {
+    "name": "Mangalam Hospital/Dr.Anupam Kumari/Dr.Vijayant Kumar",
+    "address": "Mangalam Hospital Rd, New Chanakya Nagar, Mohammadpur, Begusarai, Bihar",
+    "phone": "Mangalam Hospital/Dr.Anupam Kumari/Dr.Vijayant Kumar",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.413544,86.135117;dfp"
+  },
+  {
+    "name": "Shuddhi Clinic Begusarai",
+    "address": "Bijuliya Opposite KDS Heart Hospital, Hemra Chowk, New Ratanpur Road, Begusarai, Bihar 851129",
+    "phone": "Shuddhi Clinic Begusarai",
+    "hours": "Open· Closes 18:00",
+    "image_url": null
+  },
+  {
+    "name": "Glocal Hospital, Begusarai | Best Neurologist Hospital",
+    "address": "Nh 31, Sushil Nagar, Near Reliance Petrol Pump, Begusarai, Begusarai 851134, Begusarai, Bihar 851134",
+    "phone": "Glocal Hospital, Begusarai | Best Neurologist Hospital",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "M S Haque Clinic | Best Sexologist Doctor | Ayurvedic and Unani Clinic |",
+    "address": "Station Road, Tilak Nagar, Sarvodaya Nagar, Begusarai, Bihar",
+    "phone": "M S Haque Clinic | Best Sexologist Doctor | Ayurvedic and Unani Clinic |",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.423668,86.13414;dfp"
+  },
+  {
+    "name": "Dr. Suresh Rulaniya",
+    "address": "Kamlesh Niwas Road Number 3, Begusarai, Bihar 851134",
+    "phone": "Dr. Suresh Rulaniya",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.419615,86.122292;dfp"
+  },
+  {
+    "name": "Dr. Sushil Kumar I Dermatologist I Somaya",
+    "address": "Somaya Multispeciality Hospital, Station Road, Begusarai 851101",
+    "phone": "Dr. Sushil Kumar I Dermatologist I Somaya",
+    "hours": "Open 24 hours",
+    "image_url": null
+  },
+  {
+    "name": "The Fetal Medicine Clinic (begusarai), Bhavya's Ultrasound Centre",
+    "address": "Opposite Omar Girl's High School, Dak Bunglaw Road, Vishnupur, Begusarai, Bihar, Bihar 851101",
+    "phone": "The Fetal Medicine Clinic (begusarai), Bhavya's Ultrasound Centre",
+    "hours": "Open· Closes 18:00",
+    "image_url": null
+  },
+  {
+    "name": "Manipal Dental care.Dr Ganesh GAURAV",
+    "address": "Vidyapith Chowk.Lakhisarai Barahiya, Road, Lakhisarai, Bihar",
+    "phone": "Manipal Dental care.Dr Ganesh GAURAV",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.188208,86.105324;dfp"
+  }
+]

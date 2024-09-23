@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Kumar Clinic",
+    "address": "Vittara Road Vittara, Jalaun, Uttar Pradesh 285123",
+    "phone": "Kumar Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.137217,79.335327;dfp"
+  },
+  {
+    "name": "Dr Ambedkar Mahila Swayam Sahayata Samuh",
+    "address": "3181/C, Indra Nagar Orai, Jalaun, Uttar Pradesh 285001",
+    "phone": "Dr Ambedkar Mahila Swayam Sahayata Samuh",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.978037,79.449783;dfp"
+  },
+  {
+    "name": "Dr. R Dixit General Physician in Jalaun",
+    "address": "Dixit Clinic, Pele Kothi, Konch Road, Orai, Jalaun, Uttar Pradesh 285001",
+    "phone": "Dr. R Dixit General Physician in Jalaun",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.000122,79.434807;dfp"
+  },
+  {
+    "name": "Deep Laxmi Agrijunction Agri Clinic",
+    "address": "Launa Road Khaneraw, Jalaun, Uttar Pradesh 285123",
+    "phone": "Deep Laxmi Agrijunction Agri Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.136635,79.333397;dfp"
+  },
+  {
+    "name": "Pal Clinic",
+    "address": "Jalaun Road, Urai, Uttar Pradesh 285001",
+    "phone": "Pal Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.007278,79.442513;dfp"
+  },
+  {
+    "name": "Patanjali Chikitsalaya",
+    "address": "2361, Rajendra Nagar, Near Hathi Mandir, Jalaun, Uttar Pradesh",
+    "phone": "Patanjali Chikitsalaya",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.990864,79.458809;dfp"
+  },
+  {
+    "name": "Som Fracture",
+    "address": "Karmer Road, Jalaun, Uttar Pradesh 285001",
+    "phone": "Som Fracture",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.988111,79.458847;dfp"
+  },
+  {
+    "name": "Dr Anjana Gupta",
+    "address": "Main Road, Raja Ram Kalwawati Hospital, Urai, Uttar Pradesh 285001",
+    "phone": "Dr Anjana Gupta",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.993797,79.455704;dfp"
+  },
+  {
+    "name": "Mirza Ayurved and Unani Clinic",
+    "address": "Karsaan Road Near Islamia Degree College, Orai, Uttar Pradesh",
+    "phone": "Mirza Ayurved and Unani Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Ashutosh Tiwari",
+    "address": "3840, GIC Teachers Colony, Patel Nagar, Orai, Uttar Pradesh 285001",
+    "phone": "Dr. Ashutosh Tiwari",
+    "hours": "Open· Closes 12:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.99128,79.457687;dfp"
+  },
+  {
+    "name": "Dr. Sanchay Sijaria Dentist",
+    "address": "Atal Dental Clinic, Machar Choraha, Karai, Jalaun, Uttar Pradesh 285001",
+    "phone": "Dr. Sanchay Sijaria Dentist",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.98757,79.448914;dfp"
+  },
+  {
+    "name": "Dr Lal PathLabs – Patient Service Centre",
+    "address": "Harihar Bhawan, GF, ललितपुर 44600, Harihar",
+    "phone": "Dr Lal PathLabs – Patient Service Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.977812,79.442566;dfp"
+  },
+  {
+    "name": "Dr Lal PathLabs - Patient Service Centre",
+    "address": "Ground Floor, Ambedkar Chauraha, Orai, Orai 285001",
+    "phone": "Dr Lal PathLabs - Patient Service Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.979172,79.453812;dfp"
+  }
+]

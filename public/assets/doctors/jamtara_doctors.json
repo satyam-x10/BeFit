@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Dr. Sweta Kumari Singh | MBBS",
+    "address": "Palbagan Road no 2, Jamtara, Jharkhand, India, 815354, Jamtara, Madhya Pradesh 815354",
+    "phone": "Dr. Sweta Kumari Singh | MBBS",
+    "hours": "Open· Closes 18:00",
+    "image_url": "/th?id=OLC.uxsT%2bYaG7Ek4DA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Sanjay Clinic",
+    "address": "3pm6+8x9, Majhladih, Jharkhand 815352, India, Jamtara, Jharkhand 815352",
+    "phone": "Sanjay Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.086477,86.72097;dfp"
+  },
+  {
+    "name": "Dr A K Das Clinic",
+    "address": "Amladahi Branch Post Office, Chittaranjan, West Bengal 713365",
+    "phone": "Dr A K Das Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.847601,86.904457;dfp"
+  },
+  {
+    "name": "Jharkhand Diagnostic Centre",
+    "address": "Subhash Chowk, Sarkhehdih, Karmatar Road, Jamtara, Jharkhand 815351",
+    "phone": "Jharkhand Diagnostic Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.962137,86.800034;dfp"
+  },
+  {
+    "name": "Dr Raj Kumar M. B. B. S., D. C. H., M. D. ( Pediatrician )",
+    "address": "Grand Trunk Rd, Egarkunr, Chirkunda, Jharkhand",
+    "phone": "Dr Raj Kumar M. B. B. S., D. C. H., M. D. ( Pediatrician )",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.736683,86.800995;dfp"
+  },
+  {
+    "name": "Dr Vinita Tulsyan Clinic",
+    "address": "New Road, Kulti, Gt Road, Near Bharwi Kali Mandir, Asansol 713343",
+    "phone": "Dr Vinita Tulsyan Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.734945,86.816818;dfp"
+  }
+]

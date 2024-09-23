@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Primary Health Centre",
+    "address": "Shekpura, Sh6 Barh Bind Jiar Road, Sheikhpura, Bihar 811105",
+    "phone": "Primary Health Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.139593,85.863411;dfp"
+  },
+  {
+    "name": "Dr Lal Path",
+    "address": "Dallu Chowk, Infront OF Sadar Hospital, Sheikhpura, Bihar",
+    "phone": "Dr Lal Path",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.132515,85.840927;dfp"
+  },
+  {
+    "name": "Dr Udaye Shankar Kumar",
+    "address": "Mehus Road, Bhagawati Chowk, Sheikhpura, Bihar 811105",
+    "phone": "Dr Udaye Shankar Kumar",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.147779,85.839066;dfp"
+  },
+  {
+    "name": "Dr Lal PathLabs - Patient Service Centre",
+    "address": "Ground Floor, Sheikhpura 811105",
+    "phone": "Dr Lal PathLabs - Patient Service Centre",
+    "hours": "Open· Closes 19:30",
+    "image_url": "/th?id=OLC.X%2fIMcVC2QvD5cQ480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Primary Health Centre",
+    "address": "Sarmera, Nh82, Bihar Sharif, Bihar 811105",
+    "phone": "Primary Health Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.259377,85.799194;dfp"
+  },
+  {
+    "name": "Dr Shri Krishna Singh ITI",
+    "address": "Saket More Barbigha, Bar Bigha, Bihar, Bihar 811101",
+    "phone": "Dr Shri Krishna Singh ITI",
+    "hours": null,
+    "image_url": "/th?id=OLC.lxkIOtuTRdQG9A480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "New Raj Medical Hall",
+    "address": "Nh33, Hatiya More Barbigha, Barbigha, Bihar 811101",
+    "phone": "New Raj Medical Hall",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.210884,85.737846;dfp"
+  },
+  {
+    "name": "Devi Ultrasound Centre",
+    "address": "Vip Road, City Kart, Dalkuaa Khandapar, Sheikhpura, Bihar 811105",
+    "phone": "Devi Ultrasound Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.134508,85.840103;dfp"
+  },
+  {
+    "name": "Dr J P Sharma Clinic",
+    "address": "Lakhisarai Market, Station Road, Lakhisarai, Bihar 811311",
+    "phone": "Dr J P Sharma Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.166931,86.095459;dfp"
+  },
+  {
+    "name": "Dr Dilip Kumar Clinic",
+    "address": "Lakhisarai Market, Purani Bazar Road, Lakhisarai, Bihar 811311",
+    "phone": "Dr Dilip Kumar Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Shiv Kamini Clinic",
+    "address": "Pachana Road, Lakhisarai, Bihar 811311",
+    "phone": "Shiv Kamini Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Patna Clinic",
+    "address": "Pakribarawan Road, Pakribarwa Bus Stop, Patel Nagar Pakribarwa, Warisaliganj, Bihar 805130",
+    "phone": "Patna Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.012619,85.643539;dfp"
+  },
+  {
+    "name": "Primary Health Centre",
+    "address": "Aliganj, Sh8 Gaya Road, Jamui, Bihar 811307",
+    "phone": "Primary Health Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.945719,85.925873;dfp"
+  }
+]

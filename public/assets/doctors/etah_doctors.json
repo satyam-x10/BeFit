@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr. Girish Jain Clinic",
+    "address": "Shanti Nagar, Etah, Uttar Pradesh 207002",
+    "phone": "Dr. Girish Jain Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.564392,78.654411;dfp"
+  },
+  {
+    "name": "Dr Surandra Kumar Sharma Clinic",
+    "address": "Etah Main Road, Etah, Uttar Pradesh 207001",
+    "phone": "Dr Surandra Kumar Sharma Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.565441,78.650063;dfp"
+  },
+  {
+    "name": "Dr Nakul Rana",
+    "address": "Ashish Complex, Road, Shikohabad, Rani Avanti Bai Nagar, Shrangar Nagar, Etah, Uttar Pradesh",
+    "phone": "Dr Nakul Rana",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.531208,78.667053;dfp"
+  },
+  {
+    "name": "Dr Kuldeep Panday Clinic",
+    "address": "Etah Main Road, Etah, Uttar Pradesh 207001",
+    "phone": "Dr Kuldeep Panday Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.557177,78.648666;dfp"
+  },
+  {
+    "name": "Dr B.D.Upadhaya Clinic",
+    "address": "Etah Main Road, Etah, Uttar Pradesh 207001",
+    "phone": "Dr B.D.Upadhaya Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.559818,78.653419;dfp"
+  },
+  {
+    "name": "Dr.chiranji Lal Clinical & Hospital",
+    "address": "Patiyali Gate Road, Etah, Uttar Pradesh 207001",
+    "phone": "Dr.chiranji Lal Clinical & Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.560282,78.665596;dfp"
+  },
+  {
+    "name": "Dr SD Sharma Clinic",
+    "address": "Etah Main Road, Etah, Uttar Pradesh 207002",
+    "phone": "Dr SD Sharma Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.559973,78.657585;dfp"
+  },
+  {
+    "name": "Dr LS Verma Clinic",
+    "address": "Grand Trunk Road, Kidwai Nagar, Etah, Uttar Pradesh 207001",
+    "phone": "Dr LS Verma Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.56011,78.666344;dfp"
+  },
+  {
+    "name": "Dr Pradeep Gupta Clinic",
+    "address": "Kali Mandir, Sh33, Kidwai Nagar, Etah, Uttar Pradesh 207001",
+    "phone": "Dr Pradeep Gupta Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.560066,78.661713;dfp"
+  },
+  {
+    "name": "Dr Yogesh Gupta",
+    "address": "Aligarh Kanpur Road, Maharani Laxmi Bai Balika Inter College, Etah, Uttar Pradesh 207001",
+    "phone": "Dr Yogesh Gupta",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.558332,78.659256;dfp"
+  },
+  {
+    "name": "Dr Vishal Gupta Clinic",
+    "address": "Shrangar Nagar, Etah, Uttar Pradesh 207001",
+    "phone": "Dr Vishal Gupta Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.554443,78.663651;dfp"
+  },
+  {
+    "name": "Dr Pankaj Verma Clinic",
+    "address": "Post Office, Kachhari Judicary Road, Gandhi Market, Etah, Uttar Pradesh 207001",
+    "phone": "Dr Pankaj Verma Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.558952,78.657013;dfp"
+  },
+  {
+    "name": "Gayatri Clinic",
+    "address": "Etah Main Road, Adharik Nagar, Etah, Uttar Pradesh 207001",
+    "phone": "Gayatri Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.563356,78.645477;dfp"
+  },
+  {
+    "name": "Krishna Clinic",
+    "address": "Nidhauli Road, Maa Purna Marriage Hall, Etah, Uttar Pradesh 207002",
+    "phone": "Krishna Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.563141,78.64711;dfp"
+  },
+  {
+    "name": "Dr. Oj Kumar Giri",
+    "address": "Sagar Complex, Near Roadways Bus Stand, GT Road, Etah, Uttar Pradesh",
+    "phone": "Dr. Oj Kumar Giri",
+    "hours": "Closed· Opens Thu 10:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.560339,78.656364;dfp"
+  },
+  {
+    "name": "Dr Lal PathLabs",
+    "address": "Near Hanumanji Mandir, Opp. Chola Market, Barahdwari, Ghantaghar, Kasganj 2071, Opposite Chola Market, Utt…",
+    "phone": "Dr Lal PathLabs",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.557302,78.662796;dfp"
+  },
+  {
+    "name": "Dr. Lal Pathlabs Kacheri Road Etah",
+    "address": "Kacheri Road opp Etah Fertilizers, Near New Opticals & Bank of India, Etah, Uttar Pradesh",
+    "phone": "Dr. Lal Pathlabs Kacheri Road Etah",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.557903,78.656158;dfp"
+  },
+  {
+    "name": "Dr Lal PathLabs – Patient Service Centre",
+    "address": "130, Upper Ground Floor, Fertilizers, Post Office Rd, opp. Etah, Police Line, Etah, Uttar Pradesh",
+    "phone": "Dr Lal PathLabs – Patient Service Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.557781,78.656166;dfp"
+  }
+]

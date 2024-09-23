@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr. Banwari Singh",
+    "address": "Masjid Road, West Singhbhum, Jharkhand",
+    "phone": "Dr. Banwari Singh",
+    "hours": "Open· Closes 13:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.219219,85.640457;dfp"
+  },
+  {
+    "name": "Sunrise Hospital",
+    "address": "S S Plaza, Amlatola, Chaibasa, West Singhbhum, Jharkhand 833201",
+    "phone": "Sunrise Hospital",
+    "hours": null,
+    "image_url": "/th?id=OLC.POwn6s6Vbf5tTA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Dharmendra Mistry- General Physician",
+    "address": "Khushboo Poly Clinic Main Road, Seralkela Kharaswan, Gamharia, Jharkhand 832108",
+    "phone": "Dr. Dharmendra Mistry- General Physician",
+    "hours": "Open· Closes 14:00",
+    "image_url": "/th?id=OLC.OKYZyMTuMZVIPw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Khirodh Kumar Mahato | Medicine | Sanjivani clinic",
+    "address": "Sanjivani Clinic, Kheriatangar, Jharkhand, India, 833204, Kheriatangar, Madhya Pradesh 833204",
+    "phone": "Dr. Khirodh Kumar Mahato | Medicine | Sanjivani clinic",
+    "hours": "Open· Closes 12:45",
+    "image_url": "/th?id=OLC.gyC9gBYJ1m2%2bhw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Om Kumari- Obstetrician & Gynecologist",
+    "address": "Om Scanning Centre, New Colony, Tungri Road, Tungri, West Singhboom, Chaibasa, Jharkhand 833201",
+    "phone": "Dr. Om Kumari- Obstetrician & Gynecologist",
+    "hours": "Closed· Opens 11:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.539045,85.808762;dfp"
+  },
+  {
+    "name": "Surya Clinic",
+    "address": "Adarsh Middle School, Chakradharpur, Jharkhand 833102",
+    "phone": "Surya Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.681519,85.608437;dfp"
+  },
+  {
+    "name": "Ali Clinic",
+    "address": "Nh75, Bharat Lodge, Chakradharpur, Jharkhand 833102",
+    "phone": "Ali Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.67391,85.618477;dfp"
+  },
+  {
+    "name": "Kanchan Clinic",
+    "address": "Nh108, Syndicate Bank, Barabil Town, Barbil, Odisha 758035",
+    "phone": "Kanchan Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.109385,85.384377;dfp"
+  },
+  {
+    "name": "DrPatra Homoeopathic clinic",
+    "address": "Near Indian Petrol Pump, Champua, Odisha",
+    "phone": "DrPatra Homoeopathic clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.065599,85.6651;dfp"
+  },
+  {
+    "name": "Dr Soumya Sengupta Diabetic Clinic",
+    "address": "Amala Tola Road, Sadar Bazaar, Chaibasa, Jharkhand",
+    "phone": "Dr Soumya Sengupta Diabetic Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.553566,85.816475;clcp"
+  },
+  {
+    "name": "Nutan Seva Sadan Clinic",
+    "address": "Vill - Deharidih, Kuchai Road, Saraikela-Kharsawan, Near Block Office, Seraikella-Kharsawan, Jharkhand 833219",
+    "phone": "Nutan Seva Sadan Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.783911,85.816032;dfp"
+  },
+  {
+    "name": "Dr. Sekh Kalim General Physician",
+    "address": "Anand Bhavan Lane, Rourkela 769001",
+    "phone": "Dr. Sekh Kalim General Physician",
+    "hours": "Closed· Opens 18:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Wokil Chandra Gope General Physician",
+    "address": "Village Urmal Block Chandil, Urmal, Jharkhand 832404",
+    "phone": "Dr. Wokil Chandra Gope General Physician",
+    "hours": "Closed· Opens 13:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.953716,85.874207;dfp"
+  },
+  {
+    "name": "Sai Poly Clinic",
+    "address": "Saraikela Rajnagar Road, Muriapara, Saraikela Kharsawan, Jharkhand 831002",
+    "phone": "Sai Poly Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.631742,86.015099;dfp"
+  },
+  {
+    "name": "Srijan Clinic - Best Gynaecologist in Rourkela",
+    "address": "House NO. B, 227, Near तारिणी मंदिर, Koelnagar B Block, Koel Nagar, Rourkela, Odisha",
+    "phone": "Srijan Clinic - Best Gynaecologist in Rourkela",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr Ahmad Clinic",
+    "address": "Rajamunda Rimuli Road, State Bank Of Inida, Koira, Odisha 770048",
+    "phone": "Dr Ahmad Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=21.907423,85.249947;dfp"
+  },
+  {
+    "name": "Maa Tarini Clinic",
+    "address": "Gurudwar Road, Barbil Govt Hospital, Barabil Town, Barbil, Odisha 758035",
+    "phone": "Maa Tarini Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.111544,85.388252;dfp"
+  },
+  {
+    "name": "Nulife X Ray Clinic",
+    "address": "Ward No 17, Vani Sai Hight, Old Prabhat, Chakradharpur, West Singhbhum, Jharkhand 833102",
+    "phone": "Nulife X Ray Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.674824,85.618523;dfp"
+  }
+]

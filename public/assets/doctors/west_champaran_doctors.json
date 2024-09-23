@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Dr. Rajesh Ranjan Prasad- General Physician",
+    "address": "Rajesh Ranjan Prasad Clinic, Ka Road, Bel Bagh Colony, Hathikhana, Bettiah, Champaran, Bihar 845438",
+    "phone": "Dr. Rajesh Ranjan Prasad- General Physician",
+    "hours": "Open· Closes 12:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.789036,84.510292;dfp"
+  },
+  {
+    "name": "Rao Piles Clinic",
+    "address": "Illam Ram Chowk Bettiah West Champaran, Bettiah, Bihar, Bihar 845438",
+    "phone": "Rao Piles Clinic",
+    "hours": "Open· Closes 17:00",
+    "image_url": "/th?id=OLC.5AKQ%2fDtNrO5NkA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Ashutosh Kumar",
+    "address": "Rd Girls School Rd, Ramgarhwa, Bihar",
+    "phone": "Dr. Ashutosh Kumar",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.806505,84.502975;dfp"
+  },
+  {
+    "name": "Rahman Clinic",
+    "address": "Quila Mohalla, Naya Bazar Road, Dwardevi Chawk, Bihar",
+    "phone": "Rahman Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.oXlFF7goyWGc2w480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Vijay Kumar",
+    "address": "Hospital Road, Meena Bazar Chhota Ramna, Bettiah, Bihar 845438",
+    "phone": "Dr Vijay Kumar",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.797005,84.497299;dfp"
+  },
+  {
+    "name": "Dr Raj Kumar Homeopathic Doctor Physician (General Homeo Clinic)",
+    "address": "Near Railway Station, Hilsa, Bihar",
+    "phone": "Dr Raj Kumar Homeopathic Doctor Physician (General Homeo Clinic)",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.804152,84.515297;dfp"
+  },
+  {
+    "name": "Ganga Super Speciality Hospital and Trauma Centre",
+    "address": "Hospital Road, Meena Bazar Chhota Ramna, Bettiah, Bihar 845438",
+    "phone": "Ganga Super Speciality Hospital and Trauma Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.796766,84.498886;dfp"
+  },
+  {
+    "name": "DR. R.K Sahani Clinic",
+    "address": "AT-Bairiya Bazar, Near Bairiya Bazar, East Champaran, Bihar 845437",
+    "phone": "DR. R.K Sahani Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.801888,84.504395;dfp"
+  },
+  {
+    "name": "Dr Prem Nath Tiwari",
+    "address": "Pathak Market, Pathak 5, Bagha, Bagaha, Dumwaliya, Bettiah, Bihar 845105",
+    "phone": "Dr Prem Nath Tiwari",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.806234,84.504684;dfp"
+  },
+  {
+    "name": "Dr Sanjay Kumar Trigunayat",
+    "address": "Bettiah Bairiya Laukariya Road, Durga Mandir, Kotwali Chowk, Bettiah, Bihar 845438",
+    "phone": "Dr Sanjay Kumar Trigunayat",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.79771,84.496208;dfp"
+  },
+  {
+    "name": "Narayani Superspeciality Orthopaedic Clinic",
+    "address": "Hospital Rd, Kali Bagh Colony, Bettiah, Bihar 845438, India, Bettiah, Bihar 845438",
+    "phone": "Narayani Superspeciality Orthopaedic Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Relief clinic",
+    "address": "RG3C+24P, Kotwali Chauk, Near sun Sine School k pas m Relief Clinic, Ward No.17, Bettiah, Bihar",
+    "phone": "Relief clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.796778,84.509598;dfp"
+  },
+  {
+    "name": "Dr Anupam Ankit Verma (Dr. A. A. Verma) | Happy Minds Clinic | Psychiatrist  | मनोचिकित्सक ।",
+    "address": "City Hospital, Old Rice Mill, Purab Bazar, Opposite Indian Bank, Ward Number 30, Sant Nagar, Saharsa, Bihar",
+    "phone": "Dr Anupam Ankit Verma (Dr. A. A. Verma) | Happy Minds Clinic | Psychiatrist  | मनोचिकित्सक ।",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.796665,84.495552;dfp"
+  },
+  {
+    "name": "Dr Rajendra Prasad Memorial Academy. Jamunaha Bazar",
+    "address": "Jamunaha Bazar, Gopalganj, Bihar",
+    "phone": "Dr Rajendra Prasad Memorial Academy. Jamunaha Bazar",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Shuddhi Clinic By Guru Manish Ji - Best Ayurveda Doctor & Ayurvedic Treatment",
+    "address": "Murtuza Ali Ka Makan, Mansa Tola, Mufasil Thana Ke Pura Road Ke Utyer Side, Vikram Auto Agency And To…",
+    "phone": "Shuddhi Clinic By Guru Manish Ji - Best Ayurveda Doctor & Ayurvedic Treatment",
+    "hours": "Open· Closes 18:00",
+    "image_url": null
+  },
+  {
+    "name": "NephroPlus Dialysis & Kidney Care Centre",
+    "address": "Khushi Tola, C/o Government Medical College, Bairia Rd, Hat Saraiya, Bettiah, Bihar",
+    "phone": "NephroPlus Dialysis & Kidney Care Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.794975,84.508209;dfp"
+  },
+  {
+    "name": "Balaji Diagnostic Centre",
+    "address": "Bagaha Dhala Rd, Near- Dhruv Talkies, Sukhban, Bagaha, Bihar",
+    "phone": "Balaji Diagnostic Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.806242,84.504402;dfp"
+  }
+]

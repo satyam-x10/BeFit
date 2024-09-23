@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr. Rajinikanth Hospital",
+    "address": "No 31, North Pradakshanam Road, Karur, Tamil Nadu 639001",
+    "phone": "Dr. Rajinikanth Hospital",
+    "hours": "Open· Closes 21:00",
+    "image_url": "/th?id=OLC.neS1MxD9rqd11w480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Sankar",
+    "address": "23, Chairman Ramanujam Street, Karur, Tamil Nadu",
+    "phone": "Dr. Sankar",
+    "hours": "Open· Closes 14:00",
+    "image_url": "/th?id=OLC.Bka6WojqnTK%2b%2bw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. S Kesavan",
+    "address": "163 A- E, Allwyn Nagar, Kovai Road, Karur, Tamil Nadu",
+    "phone": "Dr. S Kesavan",
+    "hours": "Closed· Opens 11:00",
+    "image_url": "/th?id=OLC.aqhvcmKJhb8xeA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "DR. G.C Hospital",
+    "address": "No:31, North Pradakshanam Road, Near Thinnappa Theatre, Karur 639001",
+    "phone": "DR. G.C Hospital",
+    "hours": "Open· Closes 21:00",
+    "image_url": "/th?id=OLC.XNqcNY8b9vGq7A480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Preetha",
+    "address": "No.1, Preetha Nagar, MG Road West, Kamarajapuram Karur, Tamil Nadu 639002",
+    "phone": "Dr. Preetha",
+    "hours": "Open· Closes 20:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.966092,78.070198;dfp"
+  },
+  {
+    "name": "Dr. Udhayakumari, Apollo Hospital",
+    "address": "Apollo Hospital Allwyn Nagar, Kovai Main Rd, South, Karur, Tamil Nadu",
+    "phone": "Dr. Udhayakumari, Apollo Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.962068,78.063812;dfp"
+  },
+  {
+    "name": "Dr.rajendran (ortho) Clinic",
+    "address": "27, Karur Gpo, Near Sakthi Stores, Karur 639001",
+    "phone": "Dr.rajendran (ortho) Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.961846,78.077194;dfp"
+  },
+  {
+    "name": "Dr Santhi Clinic",
+    "address": "362, DR Santhi, Opposite Angalammankovil, Chinnaandan Kovil Road, Karur, Tamil Nadu 639001",
+    "phone": "Dr Santhi Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.954943,78.069229;dfp"
+  },
+  {
+    "name": "Sastha Clinic",
+    "address": "15/19, Trichy Main Road, G.H, dt, Opposite Mallur, Tamil Nadu",
+    "phone": "Sastha Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.960374,78.096703;dfp"
+  },
+  {
+    "name": "Dr Sundaram",
+    "address": "163 AE, Allwyn Nagar, Kovai Main Road, Ramanujam Nagar, Karur, Tamil Nadu",
+    "phone": "Dr Sundaram",
+    "hours": "Open· Closes 13:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. P Saravanan",
+    "address": "163 A-e, Allwyn Nagar, Lgb Nagar, Kovai Road, Karur, Karur 639002",
+    "phone": "Dr. P Saravanan",
+    "hours": "Open· Closes 13:00",
+    "image_url": null
+  },
+  {
+    "name": "Balaji Raj Clinic",
+    "address": "South Street 34, Karur, Tamil Nadu 639001",
+    "phone": "Balaji Raj Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.963023,78.090065;dfp"
+  },
+  {
+    "name": "Dr. Udhyakumari T - Best Gynecologist  | Women's Health | Menopause Management",
+    "address": "Apollo Hospitals Allwyn Nagar 163 A- E, Allwyn Nagar, 30, LGB Nagar, Kovai Main Rd, Karur, Tamil Nadu",
+    "phone": "Dr. Udhyakumari T - Best Gynecologist  | Women's Health | Menopause Management",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.960415,78.069756;dfp"
+  },
+  {
+    "name": "Arokia siddha & Ayurvedic Hospital",
+    "address": "36/2, Sri Saravanan Complex, Near Kvb Bank, Trichy Main Road, Gandhigramam, Karur, Tamil Nadu 639004",
+    "phone": "Arokia siddha & Ayurvedic Hospital",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Manivel Clinic",
+    "address": "Thiru V.Ka Road, Karur, Tamil Nadu 639001",
+    "phone": "Manivel Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Sanjay Rithik Baby Care and Skin, Laser, Cosmetology Hospital",
+    "address": "Sanjay Rithik Hospital, 77a, Sengunthapuram Main Road, Karur, Tamil Nadu, Tamil Nadu 639002",
+    "phone": "Sanjay Rithik Baby Care and Skin, Laser, Cosmetology Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.962967,78.074196;dfp"
+  },
+  {
+    "name": "Aarthy Eye Hospital",
+    "address": "16(62) Sengunthapuram Main Road, Aravakurichi, Tamil Nadu 639002",
+    "phone": "Aarthy Eye Hospital",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Sri Vinayakah Kids And Ent Clinic",
+    "address": "Opp To Kamatchiamman Kovil, Karur, Tamil Nadu 639001",
+    "phone": "Sri Vinayakah Kids And Ent Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.960626,78.082756;dfp"
+  }
+]

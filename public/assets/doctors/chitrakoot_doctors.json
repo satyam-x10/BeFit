@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Dr. Sitaram Gupta Clinic",
+    "address": "Purani Bazar, Nh76 Allahabad Banda Road, Karwi, Uttar Pradesh 210205",
+    "phone": "Dr. Sitaram Gupta Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.213282,80.913368;dfp"
+  },
+  {
+    "name": "Adarsh Clinic & Panchakarma Center",
+    "address": "Bedipuliya, Bedipuliya Clinic, Bedipuliya Chauraha, Bedipuliya Karwi Road, Karwi, Chitrakoot, Uttar Prades…",
+    "phone": "Adarsh Clinic & Panchakarma Center",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.212017,80.908218;dfp"
+  },
+  {
+    "name": "Dr Surendra Agrawal Physician And Surgeon",
+    "address": "Railway Station Road, Karwi, Uttar Pradesh 210205",
+    "phone": "Dr Surendra Agrawal Physician And Surgeon",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.217354,80.919884;dfp"
+  },
+  {
+    "name": "Gupta Clinic",
+    "address": "Railway Station Road, Karwi, Uttar Pradesh 210205",
+    "phone": "Gupta Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.217155,80.921959;dfp"
+  },
+  {
+    "name": "Ram homoeo clinic",
+    "address": "Allahabad Road, Chitrakoot Dham, Karwi Mafi, Uttar Pradesh",
+    "phone": "Ram homoeo clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.209808,80.906334;dfp"
+  },
+  {
+    "name": "Arogya Homoeo Clinic",
+    "address": "Chakrehi Chauraha, Shankar Bazar, Gokulpuri, Karwi, Rajapur Road, Chitrakoot, Uttar Pradesh 210205",
+    "phone": "Arogya Homoeo Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.212017,80.908218;dfp"
+  },
+  {
+    "name": "Shalby Multispecialty Hospital, Jaipur, Jaipur",
+    "address": "Gandhi Path, Sector-3, Chitrakoot, Jaipur, Rajasthan, Jaipur 302021",
+    "phone": "Shalby Multispecialty Hospital, Jaipur, Jaipur",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Shri Sadguru Seva Sangh Trust",
+    "address": "Jankikund, MP SH 11, Chitrakoot, Madhya Pradesh 210204",
+    "phone": "Shri Sadguru Seva Sangh Trust",
+    "hours": null,
+    "image_url": null
+  }
+]

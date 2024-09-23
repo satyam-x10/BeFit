@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Dr. Mohd Iqbal Zafar- General Physician",
+    "address": "Gold Medical Corner, Old Bus Stand, Doda 182202",
+    "phone": "Dr. Mohd Iqbal Zafar- General Physician",
+    "hours": "Open· Closes 13:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=33.145748,75.54805;dfp"
+  },
+  {
+    "name": "Dr. Divyaanshu sharma General Physician",
+    "address": "Yousaf Medicate in Front of CMO Office, Doda 182202",
+    "phone": "Dr. Divyaanshu sharma General Physician",
+    "hours": "Closed· Opens tomorrow 08:30",
+    "image_url": "/th?id=OLC.1jbWSX3%2fdjlMSg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Apollo Doctor, s Clinic and diagnostic laboratory.",
+    "address": "opp. Govt Medical College, Tondua, Thalanga, Doda",
+    "phone": "Apollo Doctor, s Clinic and diagnostic laboratory.",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=33.142639,75.541222;dfp"
+  },
+  {
+    "name": "Dr. Rahil Riaz Khan- Pulmonologist",
+    "address": "Dr. Rahil's Clinic, Jamia Masjid Market, Bhaderwah, Doda 182202",
+    "phone": "Dr. Rahil Riaz Khan- Pulmonologist",
+    "hours": "Closed· Opens 17:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=32.979343,75.713692;dfp"
+  },
+  {
+    "name": "Dr Lal PathLabs",
+    "address": "Zargar Complex, New Bus Stand, Doda, Jammu, Jammu and Kashmir 190012",
+    "phone": "Dr Lal PathLabs",
+    "hours": "Open· Closes 19:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=33.144253,75.546631;dfp"
+  }
+]

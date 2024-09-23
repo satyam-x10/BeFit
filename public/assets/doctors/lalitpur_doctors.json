@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Kathmandu Medical College And Teaching Hospital",
+    "address": "Sinamangal, Kathmandu,44600, Kathmandu, Bāgmatī",
+    "phone": "Kathmandu Medical College And Teaching Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.69603,85.353394;dfp"
+  },
+  {
+    "name": "Norvic International Hospital",
+    "address": "Prasuti Griha Marga, Thapathali, Kathmandu 44600",
+    "phone": "Norvic International Hospital",
+    "hours": "Open 24 hours",
+    "image_url": "/th?id=OLC.rmKsaugSiIR5EQ480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Deepak chaubey",
+    "address": "Chaubayana Lalitpur, Lalitpur, Uttar Pradesh, Uttar Pradesh 284403",
+    "phone": "Dr Deepak chaubey",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.69129,78.413788;dfp"
+  },
+  {
+    "name": "Nepal Pain Care Center",
+    "address": "2nd Floor,Kamdhenu Building, Devkota Sadak, New Baneshwor, Kathmandu,44600, Kathmandu, Bāgmatī",
+    "phone": "Nepal Pain Care Center",
+    "hours": "Open· Closes 20:00",
+    "image_url": "/th?id=OLC.gmhZri1QqH6a%2bA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Tilganga Institute of Ophthalmology",
+    "address": "Gaushala, Bagmati Bridge, Kathmandu, Bagmati Province",
+    "phone": "Tilganga Institute of Ophthalmology",
+    "hours": "Open· Closes 18:00",
+    "image_url": "/th?id=OLC.%2bjA7ngHGyfpeQg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Clinic One Bhaktapur",
+    "address": "SS Chowk, Madhyapur Thimi, Bhaktapur, Bhaktapur 44800",
+    "phone": "Clinic One Bhaktapur",
+    "hours": "Open· Closes 19:00",
+    "image_url": "/th?id=OLC.Gb%2bcpdONqjIJTQ480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "B & B Hospital",
+    "address": "Street, Lalitpur, Bāgmatī",
+    "phone": "B & B Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.664896,85.329681;dfp"
+  },
+  {
+    "name": "Ishwor's Homeopathy Clinic",
+    "address": "Chabahil, Chuchepati, Kathmandu, Kathmandu, Bāgmatī",
+    "phone": "Ishwor's Homeopathy Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.700001,85.333298;dfp"
+  },
+  {
+    "name": "Kathmandu Clinic of Cosmetic Surgery",
+    "address": "anamnagar, Kathmandu,5704, Kathmandu, Bāgmatī",
+    "phone": "Kathmandu Clinic of Cosmetic Surgery",
+    "hours": "Open· Closes 18:00",
+    "image_url": null
+  },
+  {
+    "name": "Fever | Cough | Infections | Asthma | COPD | Allergies |Dr. S.P Singh -Physician & Chest Specialist | Chest Cli…",
+    "address": "Dillibazar Pipalbot, Kathmandu, Bāgmatī 00977",
+    "phone": "Fever | Cough | Infections | Asthma | COPD | Allergies |Dr. S.P Singh -Physician & Chest Specialist | Chest Cli…",
+    "hours": "Open· Closes 20:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr Archan Shumsher Rana",
+    "address": "Orange Building Kalanki Chowk, Kathmandu,14, Kathmandu, Bāgmatī",
+    "phone": "Dr Archan Shumsher Rana",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Health at Home - Pokhara",
+    "address": "Parsyang, Pokhara,33700, Kathmandu, Bāgmatī",
+    "phone": "Health at Home - Pokhara",
+    "hours": "Open· Closes 18:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Subhas Pandit",
+    "address": "Kathmandu Cancer Center, Bhaktpur 44800",
+    "phone": "Dr. Subhas Pandit",
+    "hours": "Open 24 hours",
+    "image_url": null
+  },
+  {
+    "name": "Siddhi Poly Dental Clinic",
+    "address": "Charkhal, Dillibazar, Kathmandu,44600, Kathmandu, Bāgmatī",
+    "phone": "Siddhi Poly Dental Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Jayanti Memorial Trust",
+    "address": "Chundevi, Kathmandu, Kathmandu, Bāgmatī",
+    "phone": "Jayanti Memorial Trust",
+    "hours": "Open· Closes 17:00",
+    "image_url": null
+  },
+  {
+    "name": "Doctors House Call Service Nepal",
+    "address": "P94F+35Q Kageshwari Manohara -9 kathmandu , Kathmandu",
+    "phone": "Doctors House Call Service Nepal",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Om Samyog Dental Clinic",
+    "address": "Bouddha tusal, Kathmandu,+977",
+    "phone": "Om Samyog Dental Clinic",
+    "hours": "Open· Closes 19:00",
+    "image_url": null
+  }
+]

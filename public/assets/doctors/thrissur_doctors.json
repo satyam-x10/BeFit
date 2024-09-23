@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Elite Mission Hospital",
+    "address": "Koorkenchery Road, Thrissur, Kerala 680007",
+    "phone": "Elite Mission Hospital",
+    "hours": null,
+    "image_url": "/th?id=OLC.KZc1eSNXRQVlIw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Daya General Hospital & Speciality Surgical Centre",
+    "address": "Near Viyyur Bridge, Trissur, Kerala 680022",
+    "phone": "Daya General Hospital & Speciality Surgical Centre",
+    "hours": "Open 24 hours",
+    "image_url": "/th?id=OLC.jnql2oOlI7DA6A480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "TIHANS Dr Arun Kumar P T",
+    "address": "Tihans Saroja Multispecialty Hospital Shornur Road Shornur, Road, Thrissur, Kerala",
+    "phone": "TIHANS Dr Arun Kumar P T",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.527849,76.210266;dfp"
+  },
+  {
+    "name": "Dr Haridas VT",
+    "address": "Karanath Complex, Patturaikkal, Thrissur, Kerala, Kerala 680002",
+    "phone": "Dr Haridas VT",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.532623,76.214561;dfp"
+  },
+  {
+    "name": "Doctors Clinic",
+    "address": "Ayyanthole, Thrissur, Kerala 680003",
+    "phone": "Doctors Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.WCaka%2fm1SSLUzA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Elixir Clinic Thrissur Doctors Clinic",
+    "address": "1st Floor, Zabs Fort, Collectorate Road, Civil Lines Rd, West Fort, Thrissur, Kerala",
+    "phone": "Elixir Clinic Thrissur Doctors Clinic",
+    "hours": "Open· Closes 19:00",
+    "image_url": "/th?id=OLC.rXv3MkwJGiGVFg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Batra's Positive Clinic",
+    "address": "1st Floor, E Town Shopping Complex, Near Reliance Supermarket Above Address, E Fort Jct, Thrissur, Kerala",
+    "phone": "Dr. Batra's Positive Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.522341,76.241158;dfp"
+  },
+  {
+    "name": "Dr.Girija Venugpal, Aswini Hospital",
+    "address": "A-2, Aiswarya Gardens, Koorkanchery, Thrissur, Kerala 680020",
+    "phone": "Dr.Girija Venugpal, Aswini Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.52,76.209999;dfp"
+  },
+  {
+    "name": "Dr. Uma Devi K",
+    "address": "Mazhavancheri Mana, Paliyam Rd, Patturaikkal, Thrissur, Kerala",
+    "phone": "Dr. Uma Devi K",
+    "hours": "Closed· Opens 14:30",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Sunil K Menon",
+    "address": "Vellat Ln, Naikkanal, Thrissur, Kerala 680020, India, Thrissur, Kerala 680005",
+    "phone": "Dr. Sunil K Menon",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.530642,76.210136;dfp"
+  },
+  {
+    "name": "Dr. Paul Pudukadan",
+    "address": "S. V. Road, Near Girija Theatre, Thrissur, Kerala",
+    "phone": "Dr. Paul Pudukadan",
+    "hours": "Closed· Opens 15:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. P K Sukumaran",
+    "address": "Behind Canara Bank Atm Red Tiled Road, Sankarayya Road, West Fort, Thrissur 680004",
+    "phone": "Dr. P K Sukumaran",
+    "hours": "Open· Closes 11:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.527642,76.214432;dfp"
+  },
+  {
+    "name": "Dr. Manesh Chacko Philip",
+    "address": "Karanath Complex, Shornur Road, Patturaikal, Thrissur, Kerala",
+    "phone": "Dr. Manesh Chacko Philip",
+    "hours": "Closed· Opens 17:30",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Raja's Ayurveda Hospital",
+    "address": "Thrissur Road, Near Telephone Exchange, Edapal, Kerala 679576",
+    "phone": "Dr. Raja's Ayurveda Hospital",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr Sapna Sridhar’s Clinic Thrissur",
+    "address": "Ambady Ln, Veliyannur, Thrissur, Kerala",
+    "phone": "Dr Sapna Sridhar’s Clinic Thrissur",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.529897,76.209641;dfp"
+  },
+  {
+    "name": "Dr Joseph Nadakkavukaran's Ent Care",
+    "address": "Main Road, Kuriachira, Thrissur, Kerala 680006",
+    "phone": "Dr Joseph Nadakkavukaran's Ent Care",
+    "hours": "Closed· Opens 19:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=10.498132,76.232948;dfp"
+  },
+  {
+    "name": "Westfort Homoeo Clinic, Thrissur",
+    "address": "Xxi/573-4, Skyline Building, M.g Road, Westfort Jn. Thrissur, Kerala, India, Thrissur, Kerala, Kerala 680004",
+    "phone": "Westfort Homoeo Clinic, Thrissur",
+    "hours": "Open· Closes 19:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr Ranjith's Thyroid clinic",
+    "address": "Opposite Nithya Sahaya Matha Church, Companypadi Stop, Viyyur, Thrissur, Kerala",
+    "phone": "Dr Ranjith's Thyroid clinic",
+    "hours": null,
+    "image_url": null
+  }
+]

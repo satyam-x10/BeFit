@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Tenzin Hospital",
+    "address": "NH-22 Bye Pass Rd. Panthaghati, Kasumpti, Shimla, Himachal Pradesh 171009",
+    "phone": "Tenzin Hospital",
+    "hours": null,
+    "image_url": "/th?id=OLC.PFXDoJPI%2feUrcA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Shuddhi Clinic Shimla",
+    "address": "Sushant Bhavan, 1st Floor, Chota Shimla, Near Co-Operative Bank, Shimla, Himachal Pradesh 171002",
+    "phone": "Shuddhi Clinic Shimla",
+    "hours": "Open· Closes 18:00",
+    "image_url": "/th?id=OLC.91WM38VyL75JKQ480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Chamandeep Kamboj",
+    "address": "Bist Stand, Sparsh Multi-Speciality Hospital, New, Isbt Tutikandi, Shimla, Himachal Pradesh",
+    "phone": "Dr. Chamandeep Kamboj",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=31.098364,77.150887;dfp"
+  },
+  {
+    "name": "Dr. Pulkit Sharma",
+    "address": "Igmc, Lakkar Bazaar, Shimla, Himachal Pradesh 171001",
+    "phone": "Dr. Pulkit Sharma",
+    "hours": "Open· Closes 18:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=31.106489,77.180061;dfp"
+  },
+  {
+    "name": "Dr Batra's Homeopathy",
+    "address": "Shop No 6, Kotgarh House, New Shimla, Sector 2, Shimla Rural, Himachal Pradesh 171009",
+    "phone": "Dr Batra's Homeopathy",
+    "hours": "Closed· Opens 11:00",
+    "image_url": "/th?id=OLC.vMKWh7jc7KbQvw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Jagat Ram Polyclinic",
+    "address": "Lower Bazar, Near C Office, Shimla, Himachal Pradesh 171001",
+    "phone": "Dr. Jagat Ram Polyclinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=31.104309,77.17466;dfp"
+  },
+  {
+    "name": "Dr. Maratha Clinic | Top/Best Sexologist  | Ayurvedic Doctor",
+    "address": "Gunj Rd, Near District Administration, Lower Bazar, Shimla, Himachal Pradesh",
+    "phone": "Dr. Maratha Clinic | Top/Best Sexologist  | Ayurvedic Doctor",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=31.104593,77.172218;dfp"
+  },
+  {
+    "name": "The Clinic - Dr Swati Patial / Dr Rk Patial",
+    "address": "Shimla, North Oak, Sanjauli, Himachal Pradesh 171006, India, Shimla, Himachal Pradesh 171006",
+    "phone": "The Clinic - Dr Swati Patial / Dr Rk Patial",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=31.102501,77.197716;dfp"
+  },
+  {
+    "name": "Dr Ishank Goel | Headache and stroke specialist |DM| Neurologist",
+    "address": "Hari Tara Hospital and Paediatric Center, North Oak, Sanjauli, Shimla, Himachal Pradesh",
+    "phone": "Dr Ishank Goel | Headache and stroke specialist |DM| Neurologist",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=31.103813,77.185799;dfp"
+  },
+  {
+    "name": "Dr Veena Sood Clinic",
+    "address": "Lakkar Bazar, Shimla, Himachal Pradesh 171001",
+    "phone": "Dr Veena Sood Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=31.103157,77.176811;dfp"
+  },
+  {
+    "name": "Dr. Shalini Dhadwal Clinic",
+    "address": "RK Counselling Center, 62, The Mall, Shimla, Himachal Pradesh",
+    "phone": "Dr. Shalini Dhadwal Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=31.100189,77.169571;dfp"
+  },
+  {
+    "name": "Vishal Clinic",
+    "address": "Cart Road, Shilli, Shimla, Himachal Pradesh 171001",
+    "phone": "Vishal Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=31.103792,77.169838;dfp"
+  },
+  {
+    "name": "Dr. Prabhudas Clinic",
+    "address": "Main Bazar, Totu, Shimla, Himachal Pradesh 171011",
+    "phone": "Dr. Prabhudas Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=31.10409,77.169151;dfp"
+  },
+  {
+    "name": "Life Is Bliss (dr Suren Sharma )",
+    "address": "B-21, Sector 1, Shimla Bypass, Brahm Kutir, New Shimla, Himachal Pradesh 171009",
+    "phone": "Life Is Bliss (dr Suren Sharma )",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr Lal PathLabs Panthaghati – Patient Service Centre",
+    "address": "Shanti Clinic Nursing Home, Opposite Hrtc Work Shop, Roharu (h.p.)- 171207, Shimla, Himachal Pradesh 1712…",
+    "phone": "Dr Lal PathLabs Panthaghati – Patient Service Centre",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr Lal PathLabs - Patient Service Centre",
+    "address": "Ground Floor, Shimla 171207",
+    "phone": "Dr Lal PathLabs - Patient Service Centre",
+    "hours": "Open· Closes 19:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=31.20454,77.752525;dfp"
+  },
+  {
+    "name": "Acharya Manish Ji Ayurveda Center",
+    "address": "Sushant Bhavan 2nd Floor, Near Cooperative Bank Chota Shimla, Shimla - 171002, Shimla, Himachal Prad…",
+    "phone": "Acharya Manish Ji Ayurveda Center",
+    "hours": "Open· Closes 18:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Aditya",
+    "address": "B-42, Ground Floor, Shimla, Himachal Pradesh",
+    "phone": "Dr. Aditya",
+    "hours": "Open· Closes 19:00",
+    "image_url": null
+  }
+]

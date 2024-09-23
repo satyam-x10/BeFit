@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Patel Hospital",
+    "address": "Civil Lines, Jalandhar City, Jalandhar, Punjab 144001",
+    "phone": "Patel Hospital",
+    "hours": null,
+    "image_url": "/th?id=OLC.vrb%2bPMSqNTPbIQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Shrimann Hospital",
+    "address": "Jalandhar Pathankhot Road, Near Reru Chowk, Jalandhar, Punjab Region 144012",
+    "phone": "Shrimann Hospital",
+    "hours": null,
+    "image_url": "/th?id=OLC.kt3k4X8ZoCTI0Q480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Jains Health Care",
+    "address": "Backside MC, Office Near Shastri Market Chowk, Jalandhar",
+    "phone": "Dr. Jains Health Care",
+    "hours": null,
+    "image_url": "/th?id=OLC.c2Di9hlKP5cBog480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Manish Bansal - Joint Replacement & Arthroscopic Surgeon",
+    "address": "The Joint Clinic, Inside Caremax Hospital, Near Guru Nanak Mission Chowk, Lajpat Nagar, Jalandhar 144001",
+    "phone": "Dr. Manish Bansal - Joint Replacement & Arthroscopic Surgeon",
+    "hours": null,
+    "image_url": "/th?id=OLC.yIWNlKFh2ePRvA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Shuddhi Clinic Jalandhar",
+    "address": "Shop No .10 First Floor Shaheed Major, Kapil Vinayak Chowk, Near Kidney Hospital Cool Road, Jalandhar, P…",
+    "phone": "Shuddhi Clinic Jalandhar",
+    "hours": "Open· Closes 18:00",
+    "image_url": "/th?id=OLC.fYULFd3Ui5xbpQ480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Lakhvinder Singh",
+    "address": "607-l, Mall Rd, Jalandhar, Punjab 144003",
+    "phone": "Dr Lakhvinder Singh",
+    "hours": "Open· Closes 19:00",
+    "image_url": "/th?id=OLC.Z8Oi4u1zcCOApw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Vipin Talwar",
+    "address": "613-la, Mall Road, Jalandhar 144003",
+    "phone": "Dr. Vipin Talwar",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=31.307852,75.572098;dfp"
+  },
+  {
+    "name": "Dr Manish Mehta Clinic",
+    "address": "Vasant Vihar Road, Waryam Nagar, Jalandhar, Punjab 144003",
+    "phone": "Dr Manish Mehta Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=31.304424,75.585869;dfp"
+  },
+  {
+    "name": "Sudesh Homoeo Clinic",
+    "address": "16- L Model Town, Near Modern Hospital, Jalandhar 144003",
+    "phone": "Sudesh Homoeo Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Ravinder Homeopathic Clinic",
+    "address": "Moti Nagar, Maqsudan, Jalandhar 144008",
+    "phone": "Ravinder Homeopathic Clinic",
+    "hours": "Closed· Opens 11:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr Darshpreet Kaur",
+    "address": "Model Town Road, Mata Rani Chowk, Model Town, Jalandhar, Punjab 144003",
+    "phone": "Dr Darshpreet Kaur",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. S.S.Dhingra | DMC Hospital & Trauma Centre",
+    "address": "57 SUS, Jalandhar, Punjab 144001",
+    "phone": "Dr. S.S.Dhingra | DMC Hospital & Trauma Centre",
+    "hours": "Open· Closes 13:30",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Uppal Saurabh",
+    "address": "663, Guru Teg Bahadur Naggar, Near Guru Ravidass Chowk, Jalandhar, Punjab",
+    "phone": "Dr. Uppal Saurabh",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "NASA Neuro Care Centre",
+    "address": "Kapurthala Road, Jalandhar 144008",
+    "phone": "NASA Neuro Care Centre",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. K K Guglani",
+    "address": "59, Market Bandha, Bahadur Nagar, Jalandhar, Punjab",
+    "phone": "Dr. K K Guglani",
+    "hours": "Open· Closes 14:30",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Paras Khullar",
+    "address": "663, Guru Teg Bahadur Naggar, Near Guru Ravidass Chowk, Jalandhar, Punjab",
+    "phone": "Dr. Paras Khullar",
+    "hours": "Closed· Opens tomorrow 08:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=31.307049,75.567795;dfp"
+  },
+  {
+    "name": "Capitol Hospital",
+    "address": "Jalandhar- Pathankot Road (NH-44), Near Reru Chowk, Jalandhar, Punjab 144012",
+    "phone": "Capitol Hospital",
+    "hours": "Open 24 hours",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Neeti Chhabra Gupta",
+    "address": "18 Gujral Nagar, Jalandhar, Punjab",
+    "phone": "Dr. Neeti Chhabra Gupta",
+    "hours": "Closed· Opens 16:15",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=31.323261,75.566422;dfp"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Madina Medical Clinic Poonch",
+    "address": "Hathi Than Bazaar, Near Momin Palace., Poonch, Jammu and Kashmir 185101",
+    "phone": "Madina Medical Clinic Poonch",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=33.769424,74.095016;dfp"
+  },
+  {
+    "name": "Dr Owais Pain Management Centre",
+    "address": "New, District Hospital Rd, Kamsar, Poonch",
+    "phone": "Dr Owais Pain Management Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=33.780998,74.087486;dfp"
+  },
+  {
+    "name": "Dr. Swati's Dental Clinic - Home | Facebook",
+    "address": "D C Office Road Near Manjit Filling Station Petroleum Pump, Punch 185101",
+    "phone": "Dr. Swati's Dental Clinic - Home | Facebook",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=33.77113,74.097252;dfp"
+  },
+  {
+    "name": "Shree Diagnostic Clinical Laboratory",
+    "address": "Near Degree College, Poonch 185101",
+    "phone": "Shree Diagnostic Clinical Laboratory",
+    "hours": "Open· Closes 20:00",
+    "image_url": "/th?id=OLC.voIQnHgPlZN%2fdg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  }
+]

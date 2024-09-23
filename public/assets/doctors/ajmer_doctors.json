@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Ankur Clinic Dr Arun Sharma",
+    "address": "Lohagal Road, Ajmer, Rajasthan, Rajasthan 305001",
+    "phone": "Ankur Clinic Dr Arun Sharma",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.483713,74.64785;dfp"
+  },
+  {
+    "name": "Dr. Anil K Sharma",
+    "address": "Aarogyam, N2, Near Sigma Lab, Vaishali Nagar, Ajmer, Rajasthan 305001",
+    "phone": "Dr. Anil K Sharma",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.465611,74.63166;dfp"
+  },
+  {
+    "name": "Dr. Nidhi Goyal",
+    "address": "Amma Mansion, Kaiser Ganj Rd, Near Police Pest, Ajmer, Rajasthan",
+    "phone": "Dr. Nidhi Goyal",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.458811,74.636452;dfp"
+  },
+  {
+    "name": "R R Clinic",
+    "address": "G-4 Amar Plaza Complex, Bajrang Garh, Ajmer, Rajasthan, Rajasthan 305001",
+    "phone": "R R Clinic",
+    "hours": "Closed · Opens 17:30",
+    "imageUrl": "https://www.bing.com/th?id=OLC.nFN2rWo5iDFC7A480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Mukesh Bagari",
+    "address": "5 Bunglow Road, Ajmer, Rajasthan",
+    "phone": "Dr. Mukesh Bagari",
+    "hours": "Closed · Opens 08:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.Qret7DV7NEXesQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Mediciti Clinic",
+    "address": "2/209, B Block, Panchsheel B Block Near Govt Dispensary, Ajmer, Rajasthan, Rajasthan 305004",
+    "phone": "Mediciti Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.509411,74.630287;dfp"
+  },
+  {
+    "name": "Dr Deepak Soni And Dr Ankita",
+    "address": "Fj5j+8fh, Khajana Gali, Naya Bazaar, Rajasthan 305001",
+    "phone": "Dr Deepak Soni And Dr Ankita",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.458994,74.636421;dfp"
+  },
+  {
+    "name": "Dr. Manish Verma",
+    "address": "Iw/3/7, Ajmer, Ajmer 305001",
+    "phone": "Dr. Manish Verma",
+    "hours": "Closed · Opens 17:00",
+    "imageUrl": "https://th.bing.com/th?id=OLC.DcoWtNYysNVF4g480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Mukesh Singhal",
+    "address": "23, Sardul Colony, Xray Gali, Near Syndicate Bank Atm, Bikaner, Rajasthan, Rajasthan 334001",
+    "phone": "Dr Mukesh Singhal",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.474354,74.648537;dfp"
+  },
+  {
+    "name": "Chirayu Ayurveda And Panchkarma Hospital",
+    "address": "Deedwania House, Near Fire Brigade Station, Azad Park, Ajmer, Rajasthan 305001",
+    "phone": "Chirayu Ayurveda And Panchkarma Hospital",
+    "hours": null,
+    "imageUrl": "https://th.bing.com/th?id=OLC.qbf4uJrEXjSGXw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Ankur Clinic",
+    "address": "Lohagal Road, Ajmer, Rajasthan 305001",
+    "phone": "Ankur Clinic",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://th.bing.com/th?id=OLC.xc39x9%2fV%2bAancw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Clinic Dr. M P Sharma",
+    "address": "Front Of Hotel Khadim Savitri Girl's College Rd Civil Lines, Ajmer, Rajasthan 305001",
+    "phone": "Clinic Dr. M P Sharma",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.458994,74.636421;dfp"
+  },
+  {
+    "name": "Dr. Om Prakash Tholiya Clinic",
+    "address": "Near Janan Hospital, Ajmer, Madhya Pradesh 305001",
+    "phone": "Dr. Om Prakash Tholiya Clinic",
+    "hours": "Closed · Opens 17:00",
+    "imageUrl": "https://th.bing.com/th?id=OLC.p71HTI307uuFkg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Janana Hospital",
+    "address": "Makarwali, Ajmer, Rajasthan 305011",
+    "phone": "Janana Hospital",
+    "hours": null,
+    "imageUrl": "https://th.bing.com/th?id=OLC.7R7TUtONHYdQUQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Astha Clinic",
+    "address": "Prakash Road, Nagra, Ajmer, Ajmer 305001",
+    "phone": "Astha Clinic",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.440163,74.6464;dfp"
+  },
+  {
+    "name": "Dr Nandlal",
+    "address": "Nala Bazar Road, Dargah Sharif, Sukhariya Nagar, Ajmer, Rajasthan 305001",
+    "phone": "Dr Nandlal",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.457897,74.628006;dfp"
+  },
+  {
+    "name": "Dr. Mahendra Dutt Dadhich",
+    "address": "101-A, Ajmer, Rajasthan",
+    "phone": "Dr. Mahendra Dutt Dadhich",
+    "hours": "Closed · Opens 09:00",
+    "imageUrl": "https://th.bing.com/th?id=OLC.YFHCIUEbFAOlLg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Sanjeevani Clinic",
+    "address": "20, Bholeshwar Colony, Ajay Nagar, Ajmer, Rajasthan 305003",
+    "phone": "Sanjeevani Clinic",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://th.bing.com/th?id=OLC.VHM2j6Rrw6IO1g480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Ankur Clinic Dr Arun Sharma",
+    "address": "Lohagal Road, Ajmer, Rajasthan, Rajasthan 305001",
+    "phone": "Ankur Clinic Dr Arun Sharma",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.483713,74.64785;dfp"
+  },
+  {
+    "name": "Dr. Anil K Sharma",
+    "address": "Aarogyam, N2, Near Sigma Lab, Vaishali Nagar, Ajmer, Rajasthan 305001",
+    "phone": "Dr. Anil K Sharma",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.465611,74.63166;dfp"
+  }
+]

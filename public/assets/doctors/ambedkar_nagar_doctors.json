@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Dr Pavan Kumar",
+    "address": "Sec A H. I. G. - B 35 Priyadarshini Nagar, Unnao, Uttar Pradesh, Uttar Pradesh 209801",
+    "phone": "Dr Pavan Kumar",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/th?id=OLC.qyzcWtHYiEtcDw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Rakesh Clinic",
+    "address": "Lal Bahadur Shastri Marg, Near Durga Mandir, Tunda Nagar, Johripur, Delhi 110094",
+    "phone": "Dr. Rakesh Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.716133,77.285393;dfp"
+  },
+  {
+    "name": "Kolkata Clinic",
+    "address": "Lal Bahadur Shastri Marg, Shiv Vihar, Karawal Nagar, Delhi 110094",
+    "phone": "Kolkata Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.718782,77.282021;dfp"
+  },
+  {
+    "name": "Bangali Clinic",
+    "address": "Lal Bahadur Shastri Marg, Tunda Nagar, Johripur, Delhi 110094",
+    "phone": "Bangali Clinic",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.714453,77.287254;dfp"
+  },
+  {
+    "name": "Janta Clinic",
+    "address": "100 Futa Road, Near Chaudhary Vayan Singh Market, Roop Nagar, Ghaziabad, Uttar Pradesh 201102",
+    "phone": "Janta Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/th?id=OLC.pmxrbPqLo8B7oA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Anil Kumar Mahendru",
+    "address": "A 357 Govindpuram, Ghaziabad, Uttar Pradesh",
+    "phone": "Dr. Anil Kumar Mahendru",
+    "hours": "Closed · Opens 08:30",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.725599,77.287384;dfp"
+  },
+  {
+    "name": "Dr. Praveen Clinic",
+    "address": "Karawal Nagar Road, Near Harsh Beauty Parlour, Bhagat Vihar, Karawal Nagar, Delhi 110094",
+    "phone": "Dr. Praveen Clinic",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.73011,77.272148;dfp"
+  },
+  {
+    "name": "Dr. Chaudhary Clinic",
+    "address": "Sardar Patel School Road, Near Gouri Shankar Enterprises, Bhagat Vihar, Karawal Nagar, Delhi 110094",
+    "phone": "Dr. Chaudhary Clinic",
+    "hours": "Closed · Opens 09:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.729036,77.272354;dfp"
+  },
+  {
+    "name": "Dr.Shweta's Homeopathic clinic.",
+    "address": "B-Pocket, Main Market, NH-58, Near Harsh Dairy, Sainik Vihar, Meerut, Uttar Pradesh",
+    "phone": "Dr.Shweta's Homeopathic clinic.",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.721172,77.291046;dfp"
+  },
+  {
+    "name": "Rana Clinic",
+    "address": "Delhi Saharanpur Road, Near Jenison Public Schools, Balraj Nagar, Jawahar Nagar, Ghaziabad, Uttar Prades…",
+    "phone": "Rana Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.715324,77.290703;dfp"
+  },
+  {
+    "name": "Dr. Arun Agarwal",
+    "address": "Delhi Saharanpur Road, Near Shiv Electronics, Indrapuri Colony, Lalbag Colony, Ghaziabad, Uttar Pradesh 201102",
+    "phone": "Dr. Arun Agarwal",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.72613,77.288605;dfp"
+  },
+  {
+    "name": "Dr. Alka Gupta",
+    "address": "B 1/5, Phase 3, Delhi",
+    "phone": "Dr. Alka Gupta",
+    "hours": "Closed · Opens tomorrow 09:30",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.72366,77.280823;dfp"
+  },
+  {
+    "name": "Dr. Sudesh Clinic",
+    "address": "Karawal Nagar Road, Near Kalpana Jewelers, New Chauhanpur, Karawal Nagar, Delhi 110094",
+    "phone": "Dr. Sudesh Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.723934,77.268768;dfp"
+  },
+  {
+    "name": "Giri Clinic",
+    "address": "Nala Side Road, Near Shri Shani Mandir, Shiv Vihar, Karawal Nagar, Delhi 110094",
+    "phone": "Giri Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.723883,77.276115;dfp"
+  },
+  {
+    "name": "Raj Clinic",
+    "address": "Pipeline Road, Near Thakur Hotel, Raj Nagar, Gokalpur, Ghaziabad, Uttar Pradesh 110094",
+    "phone": "Raj Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.710539,77.292351;dfp"
+  },
+  {
+    "name": "Dr. Dipti Gupta",
+    "address": "C-3/63-A, 64-A, Wazirabad Road, Delhi",
+    "phone": "Dr. Dipti Gupta",
+    "hours": "Closed · Opens 11:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.720739,77.262474;dfp"
+  },
+  {
+    "name": "Shishu Mangal Clinic - Dr. Usha Mohan",
+    "address": "B-2/30 A, Block B, Yamuna Vihar, Shahdara, Delhi 110053",
+    "phone": "Shishu Mangal Clinic - Dr. Usha Mohan",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.702749,77.267815;dfp"
+  },
+  {
+    "name": "Dr. Ashok Kumar",
+    "address": "C3/51A, Service Lane, Delhi",
+    "phone": "Dr. Ashok Kumar",
+    "hours": "Closed · Opens 20:00",
+    "imageUrl": "https://th.bing.com/th?id=OLC.GU59HgWPmkyP8Q480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Pavan Kumar",
+    "address": "Sec A H. I. G. - B 35 Priyadarshini Nagar, Unnao, Uttar Pradesh, Uttar Pradesh 209801",
+    "phone": "Dr Pavan Kumar",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/th?id=OLC.qyzcWtHYiEtcDw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Rakesh Clinic",
+    "address": "Lal Bahadur Shastri Marg, Near Durga Mandir, Tunda Nagar, Johripur, Delhi 110094",
+    "phone": "Dr. Rakesh Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.716133,77.285393;dfp"
+  }
+]

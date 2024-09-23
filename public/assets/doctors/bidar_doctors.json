@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Dr. Somnath Patil",
+    "address": "Gaitond Complex, bus Stand Road, Bidar, Karnataka 585401",
+    "phone": "Dr. Somnath Patil",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=17.913523,77.519745;dfp"
+  },
+  {
+    "name": "Dr Abhijeet S Patil",
+    "address": "Behind Water Tank, Janwada Rd, Near Balaji Skin Hospital, Bidar, Karnataka",
+    "phone": "Dr Abhijeet S Patil",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=17.909731,77.515778;dfp"
+  },
+  {
+    "name": "Dr. Abhishek S S",
+    "address": "Hudgeer Road, Bidar, Karnataka",
+    "phone": "Dr. Abhishek S S",
+    "hours": "Closed · Opens 15:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.uqOSnoasgrqkDg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Raghu Krishnamurthy",
+    "address": "Nayakman. Landmark: Near Basveshwarnagar Circle, Bidar, Karnataka",
+    "phone": "Dr. Raghu Krishnamurthy",
+    "hours": "Closed · Opens 11:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=17.914881,77.504608;dfp"
+  },
+  {
+    "name": "Dr Ss Patil Homoepthy Clinic",
+    "address": "DR SS Patil Clinic Door.No.76, Near Venkateshwar Filling Station, Dand Sholapur, Karnataka",
+    "phone": "Dr Ss Patil Homoepthy Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=17.90864,77.528214;dfp"
+  },
+  {
+    "name": "Sedamkar Hospital",
+    "address": "Aruna Nilaya New Apostolic Road, Bidar, Karnataka 585401",
+    "phone": "Sedamkar Hospital",
+    "hours": "Open 24 hours",
+    "imageUrl": "https://www.bing.com/th?id=OLC.Kr9mdmGJJ3NX9A480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Bidar Clinic",
+    "address": "Old Bus Stand Road, Bidar, Karnataka 585401",
+    "phone": "Bidar Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=17.916466,77.515938;dfp"
+  },
+  {
+    "name": "Sardar Clinic",
+    "address": "Bidar Main Road, Bidar, Karnataka 585401",
+    "phone": "Sardar Clinic",
+    "hours": null,
+    "imageUrl": "https://th.bing.com/th?id=OLC.2trtYXAoKbXyhA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Apeksha Clinic",
+    "address": "Bvb College Road, Havegery Kaman, Gandhi Ganj, Bidar, Karnataka 585401",
+    "phone": "Apeksha Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=17.910042,77.516533;dfp"
+  },
+  {
+    "name": "Dr. Sybil D Meshramkar",
+    "address": "Dr Salins Eye Hospital old City Golekhana, Bidar, Karnataka, India, 585401, Bidar, Madhya Pradesh 585401",
+    "phone": "Dr. Sybil D Meshramkar",
+    "hours": "Closed · Opens 09:00",
+    "imageUrl": "https://th.bing.com/th?id=OLC.cHSMIMbrWbEFwQ480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. D.Shiva Prasad",
+    "address": "Shop No-5 and 6, Raghavendra Swamy Mutt Complex, KEB Road, Bidar, Karnataka",
+    "phone": "Dr. D.Shiva Prasad",
+    "hours": "Closed · Opens Sep 28 at 10:00",
+    "imageUrl": "https://th.bing.com/th?id=OLC.iYwaeJ%2bpPi5c0A480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Krishna Clinic",
+    "address": "Osmaniya Masjid Road, Bidar, Karnataka 585401",
+    "phone": "Krishna Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=17.91588,77.521431;dfp"
+  },
+  {
+    "name": "Arpita Poly Clinic (Lady Dr Skin Specialist, Lady Piles Specialist & Surgeon and Gynac)",
+    "address": "At Jai Bhavani Pharma, Mailur Rd, Bidar, Karnataka",
+    "phone": "Arpita Poly Clinic (Lady Dr Skin Specialist, Lady Piles Specialist & Surgeon and Gynac)",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=17.900547,77.511131;dfp"
+  },
+  {
+    "name": "Dr Subhash Patil Child Clinic",
+    "address": "Janwade Road, Bidar, Karnataka 585401",
+    "phone": "Dr Subhash Patil Child Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=17.921858,77.516922;dfp"
+  },
+  {
+    "name": "Specialist Skin and Bone Clinic",
+    "address": "Nandi Colony, Bidar, Madhya Pradesh 585401",
+    "phone": "Specialist Skin and Bone Clinic",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://th.bing.com/th?id=OLC.2sn7VgWCHjLZ8w480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "K H Dental Clinic",
+    "address": "Chowbara Road, Chowbara, Old City Fort Area, Bidar, Karnataka 585401",
+    "phone": "K H Dental Clinic",
+    "hours": null,
+    "imageUrl": "https://th.bing.com/th?id=OLC.U%2bhrp0u%2fJY2S%2bA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Somnath Patil",
+    "address": "Gaitond Complex, bus Stand Road, Bidar, Karnataka 585401",
+    "phone": "Dr. Somnath Patil",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=17.913523,77.519745;dfp"
+  },
+  {
+    "name": "Dr Abhijeet S Patil",
+    "address": "Behind Water Tank, Janwada Rd, Near Balaji Skin Hospital, Bidar, Karnataka",
+    "phone": "Dr Abhijeet S Patil",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=17.909731,77.515778;dfp"
+  },
+  {
+    "name": "Dr. Abhishek S S",
+    "address": "Hudgeer Road, Bidar, Karnataka",
+    "phone": "Dr. Abhishek S S",
+    "hours": "Closed · Opens 15:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.uqOSnoasgrqkDg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Raghu Krishnamurthy",
+    "address": "Nayakman. Landmark: Near Basveshwarnagar Circle, Bidar, Karnataka",
+    "phone": "Dr. Raghu Krishnamurthy",
+    "hours": "Closed · Opens 11:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=17.914881,77.504608;dfp"
+  }
+]

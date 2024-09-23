@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Dr. Dharmendra Kumar- General Physician",
+    "address": "Sanjeevni Hospital, Gandhinagar, Godda, Jharkhand 814133",
+    "phone": "Dr. Dharmendra Kumar- General Physician",
+    "hours": "Open· Closes 19:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.825544,87.213409;dfp"
+  },
+  {
+    "name": "Dr. Majeed Ansari",
+    "address": "Godda, Ranchi, Madhya Pradesh 814133",
+    "phone": "Dr. Majeed Ansari",
+    "hours": "Closes in 10 mins",
+    "image_url": "/th?id=OLC.HuKQYdbGJi7C0A480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Mahesh Memorial Hospital",
+    "address": "C/O Shri Mahesh Kant JHA Gram- Susti, Post- A D Maheshpur, Godda, Jharkhand 814133",
+    "phone": "Dr Mahesh Memorial Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.831287,87.210312;dfp"
+  },
+  {
+    "name": "Sadar Hospital",
+    "address": "Sadar Hospital Road, Behind Bus Stand, Godda, Jharkhand 814133, India, Godda, Jharkhand 814133",
+    "phone": "Sadar Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.824125,87.214241;dfp"
+  },
+  {
+    "name": "Dr. Ajay Kumar Jha",
+    "address": "Professor Colony, Godda, Jharkhand 814133",
+    "phone": "Dr. Ajay Kumar Jha",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.828522,87.210777;dfp"
+  },
+  {
+    "name": "Bam Bhola Clinic",
+    "address": "Kechuwa Chowk, No, Mahagama, Godda Pirpant Road, Godda, Jharkhand 814154",
+    "phone": "Bam Bhola Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.807312,87.214058;dfp"
+  },
+  {
+    "name": "Dr. Abhishek Kumar- Dentist",
+    "address": "Sanjeevni Hospital, Gandhi Nagar, Near St Thomas School, Godda, Jharkhand 814133",
+    "phone": "Dr. Abhishek Kumar- Dentist",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.826077,87.213814;dfp"
+  },
+  {
+    "name": "Salni Speech and Hearing Care Clinic",
+    "address": "Asanbani Godda Hansdiha Road Asanbani, Godda, Jharkhand 814133",
+    "phone": "Salni Speech and Hearing Care Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.802401,87.218803;dfp"
+  },
+  {
+    "name": "Dr. Ravi Kumar Yashvant- Dentist",
+    "address": "Basuki Dental Clinic, Routara Chowk, Near Lic Office, Pirpainti Road, Godda, Jharkhand 814133",
+    "phone": "Dr. Ravi Kumar Yashvant- Dentist",
+    "hours": "Open· Closes 20:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Shruti Priyanka- Dentist",
+    "address": "Dental Hub, Jharkhand State Highway 16, Fasia Dangal, Godda, Jharkhand 814133",
+    "phone": "Dr. Shruti Priyanka- Dentist",
+    "hours": "Open· Closes 19:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.815872,87.208939;dfp"
+  },
+  {
+    "name": "Life Care X-Ray",
+    "address": "Life Care Hospital, Godda, Bhagalpur Road, Godda, Jharkhand 814133",
+    "phone": "Life Care X-Ray",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.83066,87.211609;dfp"
+  },
+  {
+    "name": "Shyam Patanjali Chikitsalaya",
+    "address": "592, Laheri Tola, Godda, Jharkhand 814133",
+    "phone": "Shyam Patanjali Chikitsalaya",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.832027,87.208061;dfp"
+  },
+  {
+    "name": "Agri Clinic",
+    "address": "Godda, Pirpainti Road Godda, Hatia Chowk, Godda, Jharkhand 814133",
+    "phone": "Agri Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.802401,87.218803;dfp"
+  },
+  {
+    "name": "Nidan Ultrasound",
+    "address": "Bhagalpur Road, Near Sbi Branch, Godda, Jharkhand 814133",
+    "phone": "Nidan Ultrasound",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.830141,87.212776;dfp"
+  },
+  {
+    "name": "Jerath Path Labs & Allergy Testing Centre",
+    "address": "Durga Mandir, Near Sarkanda, Godda, Jharkhand",
+    "phone": "Jerath Path Labs & Allergy Testing Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.796803,87.222366;dfp"
+  }
+]

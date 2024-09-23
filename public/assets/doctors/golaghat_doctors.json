@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Aarogya Ent Clinic",
+    "address": "Ambari, Pavoi Road, Biswanath Chariali, Assam, Assam 784176",
+    "phone": "Aarogya Ent Clinic",
+    "hours": "Open· Closes 13:00",
+    "image_url": "/th?id=OLC.bT3GxhQIFTYayg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Lal PathLabs",
+    "address": "Tokani Circle, Civil Road, Ward No.5, Golaghat:785621, Golaghat, Assam 785621",
+    "phone": "Dr Lal PathLabs",
+    "hours": "Open· Closes 19:30",
+    "image_url": "/th?id=OLC.KUg6jOCm4l7jtw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Golaghat Polyclinic and Diagnostic Centre",
+    "address": "327, Drugs Emporium, Hospital Road, Golaghat, Assam 785621",
+    "phone": "Golaghat Polyclinic and Diagnostic Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.509624,93.965164;dfp"
+  },
+  {
+    "name": "Chasma Ghar",
+    "address": "Main Road, Chawk Bazar, Dhodar ALI, Golaghat, Assam 785621",
+    "phone": "Chasma Ghar",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.51,93.964813;dsp"
+  },
+  {
+    "name": "Bapan Medical Doctors Chamber",
+    "address": "Golaghat, Assam 785615",
+    "phone": "Bapan Medical Doctors Chamber",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.663992,93.981964;dfp"
+  },
+  {
+    "name": "Meditree Clinic and Diagnostic Centre Llp",
+    "address": "Ward NO 13 Golaghat, Golaghat, Assam 785621",
+    "phone": "Meditree Clinic and Diagnostic Centre Llp",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.500084,93.972504;dfp"
+  },
+  {
+    "name": "MEDINOVA",
+    "address": "Ward No-01, Near Kushal Konwar Hospital, Hospital Road, Golaghat, Assam 785621",
+    "phone": "MEDINOVA",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.510803,93.966782;dfp"
+  },
+  {
+    "name": "Poly X-Ray Clinic Digital",
+    "address": "Hospital Road, Golaghat, Assam 785621",
+    "phone": "Poly X-Ray Clinic Digital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.510904,93.964005;dfp"
+  },
+  {
+    "name": "Medicable Drugs Centre",
+    "address": "Ward No 4, Hospital Road, Golaghat, Assam 785621",
+    "phone": "Medicable Drugs Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.511023,93.964943;dfp"
+  }
+]

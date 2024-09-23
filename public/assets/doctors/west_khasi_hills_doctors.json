@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dr Lal PathLabs - Patient Service Centre",
+    "address": "Ground Floor, Main Market, Nongbah, Nongstoin, West Khasi Hills, Meghalaya 793119",
+    "phone": "Dr Lal PathLabs - Patient Service Centre",
+    "hours": "Open· Closes 20:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.51939,91.26458;dfp"
+  },
+  {
+    "name": "Dr Miraz Mahmud, Homoeopathy Clinic",
+    "address": "GS Rd, Near yem Bhai Gym, Guwahati, Meghalaya",
+    "phone": "Dr Miraz Mahmud, Homoeopathy Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.535414,91.277687;dfp"
+  }
+]

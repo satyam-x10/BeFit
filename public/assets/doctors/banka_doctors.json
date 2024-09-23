@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Dr Hemant Kumar Das Clinic",
+    "address": "Sh-19, Banka, Bihar 813102",
+    "phone": "Dr Hemant Kumar Das Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/th?id=OLC.usw9KpvxSIHpLw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Neha Clinic",
+    "address": "Banka Rd, Banka, Banka, Bihar, Bihar 813101",
+    "phone": "Neha Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.885975,86.929382;dfp"
+  },
+  {
+    "name": "Pallavi Clinic",
+    "address": "01, Guru Bhawan, Bamdeo, Rajoun, Banka, Bihar 813107",
+    "phone": "Pallavi Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.885569,86.929054;dfp"
+  },
+  {
+    "name": "Dr. Suresh Prashad",
+    "address": "Gopalpur, Bihar 813101, India, Banka, Bihar 813101",
+    "phone": "Dr. Suresh Prashad",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.951788,86.893875;dfp"
+  },
+  {
+    "name": "Srikant Clinic",
+    "address": "Tola Butwaria, Bihar 813102, India, Banka, Bihar, Bihar 813102",
+    "phone": "Srikant Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.789171,86.850372;dfp"
+  },
+  {
+    "name": "Jeevan Jyoti Clinic",
+    "address": "Rajoun, Rajoun Road Bhagalpur, Banka, Bihar 813107",
+    "phone": "Jeevan Jyoti Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.9986,86.990372;dfp"
+  },
+  {
+    "name": "Dr Lal PathLabs - Patient Service Centre",
+    "address": "Md Plaza, Katoria Road, Banka, Bihar 813102",
+    "phone": "Dr Lal PathLabs - Patient Service Centre",
+    "hours": "Opens in 2 mins",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.887466,86.919861;dfp"
+  },
+  {
+    "name": "Jerath Path Labs & Allergy Testing Centre",
+    "address": "Sidhi Vinyak Hospital, Banka Rd, Near Baba Market, Banka, Bihar",
+    "phone": "Jerath Path Labs & Allergy Testing Centre",
+    "hours": null,
+    "imageUrl": "https://th.bing.com/th?id=OLC.uwww%2b84bN261PA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Apex Diagnostic Centre",
+    "address": "Meharpur, Banka, Bihar 813102",
+    "phone": "Apex Diagnostic Centre",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.860888,86.911659;dfp"
+  },
+  {
+    "name": "Bhagritham Care and Cure Clinic",
+    "address": "Dame Road Bounsi, Banka, Bihar 813104",
+    "phone": "Bhagritham Care and Cure Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.804554,87.023735;dfp"
+  },
+  {
+    "name": "Ajay Kumar Sharma",
+    "address": "S/O - Shree Dhar Sharma, AT - Hazipur, P.O. -Ratangunj, Shakund, P.S.- Sajour, Bhagalpur, Bihar 812006",
+    "phone": "Ajay Kumar Sharma",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.87977,86.920135;dfp"
+  },
+  {
+    "name": "New Suchi Ultrasound Center and Digital X-Ray",
+    "address": "Ground Floor, C/O-Kailash Choudhary, Rajoun, SH-19 Main Road, Banka, Bihar 813107",
+    "phone": "New Suchi Ultrasound Center and Digital X-Ray",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.889803,86.931946;dfp"
+  },
+  {
+    "name": "Krishak Krishi Clinic",
+    "address": "Rajeev Prasad Singh, Rajoun, Banka, Bihar 813107",
+    "phone": "Krishak Krishi Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.242826,86.972397;dfp"
+  },
+  {
+    "name": "Dr Hemant Kumar Das Clinic",
+    "address": "Sh-19, Banka, Bihar 813102",
+    "phone": "Dr Hemant Kumar Das Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/th?id=OLC.usw9KpvxSIHpLw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Neha Clinic",
+    "address": "Banka Rd, Banka, Banka, Bihar, Bihar 813101",
+    "phone": "Neha Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.885975,86.929382;dfp"
+  },
+  {
+    "name": "Pallavi Clinic",
+    "address": "01, Guru Bhawan, Bamdeo, Rajoun, Banka, Bihar 813107",
+    "phone": "Pallavi Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.885569,86.929054;dfp"
+  },
+  {
+    "name": "Dr. Suresh Prashad",
+    "address": "Gopalpur, Bihar 813101, India, Banka, Bihar 813101",
+    "phone": "Dr. Suresh Prashad",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.951788,86.893875;dfp"
+  },
+  {
+    "name": "Srikant Clinic",
+    "address": "Tola Butwaria, Bihar 813102, India, Banka, Bihar, Bihar 813102",
+    "phone": "Srikant Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.789171,86.850372;dfp"
+  },
+  {
+    "name": "Jeevan Jyoti Clinic",
+    "address": "Rajoun, Rajoun Road Bhagalpur, Banka, Bihar 813107",
+    "phone": "Jeevan Jyoti Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.9986,86.990372;dfp"
+  },
+  {
+    "name": "Dr Lal PathLabs - Patient Service Centre",
+    "address": "Md Plaza, Katoria Road, Banka, Bihar 813102",
+    "phone": "Dr Lal PathLabs - Patient Service Centre",
+    "hours": "Opens in 2 mins",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.887466,86.919861;dfp"
+  }
+]

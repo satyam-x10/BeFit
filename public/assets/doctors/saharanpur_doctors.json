@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr. Rana Clinic",
+    "address": "Delhi Road, Saharanpur, Uttar Pradesh 247001",
+    "phone": "Dr. Rana Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.972717,77.544388;dfp"
+  },
+  {
+    "name": "Dr. Rakesh Agarwal",
+    "address": "Beribagh, Jail Road, Saharanpur, Uttar Pradesh",
+    "phone": "Dr. Rakesh Agarwal",
+    "hours": "Open· Closes 13:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.967222,77.558273;dfp"
+  },
+  {
+    "name": "Dr. Avneesh Singhal- Consultant Physician and Diabetologist",
+    "address": "A-19 Church Compound, Opposite Tarawati Hospital, Bajoria Road, Saharanpur, Uttar Pradesh 247001",
+    "phone": "Dr. Avneesh Singhal- Consultant Physician and Diabetologist",
+    "hours": "Open· Closes 15:00",
+    "image_url": "/th?id=OLC.RVj0kvUfAoWTVw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Shuddhi Clinic By Acharya Manish - Best Ayurveda Doctor & Ayurvedic Treatment",
+    "address": "Shop No. 2 C, Church Road, Opp. Sadar Police Station, Near Shri Ram Dairy, Saharanpur, Uttar Pradesh 247001",
+    "phone": "Shuddhi Clinic By Acharya Manish - Best Ayurveda Doctor & Ayurvedic Treatment",
+    "hours": "Open· Closes 18:00",
+    "image_url": "/th?id=OLC.kU3kmjjXRZ4EOw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Naresh Clinic",
+    "address": "Bajaria Road, Janak Nagar, Saharanpur, Uttar Pradesh 247001",
+    "phone": "Dr Naresh Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.956934,77.557076;dfp"
+  },
+  {
+    "name": "Shuddhi Clinic Saharanpur",
+    "address": "Shop No. 2 C, Church Road, Near Shri Ram Dairy, Opposite Sadar Police Station, Saharanpur, Uttar Prad…",
+    "phone": "Shuddhi Clinic Saharanpur",
+    "hours": "Open· Closes 18:00",
+    "image_url": "/th?id=OLC.l605X2UGJKmD6Q480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Batra's Clinic",
+    "address": "2B/1617, Samsung Plaza, Delhi Road, Saharanpur, Uttar Pradesh 247001",
+    "phone": "Dr Batra's Clinic",
+    "hours": "Closed· Opens 12:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.947939,77.546371;dfp"
+  },
+  {
+    "name": "Dr Rahul Singh",
+    "address": "35, Lane 2, Saharanpur, Uttar Pradesh 247001",
+    "phone": "Dr Rahul Singh",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.957462,77.556046;dfp"
+  },
+  {
+    "name": "Dr S Kumar",
+    "address": "Court Road, Saharanpur, Uttar Pradesh 247001",
+    "phone": "Dr S Kumar",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.961954,77.546486;dfp"
+  },
+  {
+    "name": "Dr Anuj Kumar Clinic",
+    "address": "Bajaria Road, Janak Nagar, Saharanpur, Uttar Pradesh 247001",
+    "phone": "Dr Anuj Kumar Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.957644,77.556259;dfp"
+  },
+  {
+    "name": "Dr.a.k.jain Multi Speciality Clinic",
+    "address": "Court Rd, Opp. Hdfc Bank, Saharanpur, Uttar Pradesh 247001",
+    "phone": "Dr.a.k.jain Multi Speciality Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.953691,77.547447;dfp"
+  },
+  {
+    "name": "Dr Priyanshu Jain ADVANCE ENT and THYROID Clinic",
+    "address": "Bajoria Road, Saharanpur, Uttar Pradesh, Uttar Pradesh 247001",
+    "phone": "Dr Priyanshu Jain ADVANCE ENT and THYROID Clinic",
+    "hours": "Open· Closes 17:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr Ganesh Gond Prakriti E.N.T Hospital",
+    "address": "Near Government Hospital, Hetimpur, Uttar Pradesh",
+    "phone": "Dr Ganesh Gond Prakriti E.N.T Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.960911,77.528976;dfp"
+  },
+  {
+    "name": "Dr. Sanjeev Mittal",
+    "address": "Xh65+jpf, Saharanpur, Uttar Pradesh 247001",
+    "phone": "Dr. Sanjeev Mittal",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.961624,77.559174;dfp"
+  },
+  {
+    "name": "Arogyadham Clinic | Ayurvedic Sexologist",
+    "address": "Jail Road, Beribagh, Saharanpur, Uttar Pradesh 247001",
+    "phone": "Arogyadham Clinic | Ayurvedic Sexologist",
+    "hours": "Open· Closes 22:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Ayush Clinic | Best Sexologist  | Top Ayurvedic Doctor | Best sexual health specialist",
+    "address": "XHG2+CGH, Near Khumran Road, Nawabganj, Saharanpur, Uttar Pradesh 247001",
+    "phone": "Dr. Ayush Clinic | Best Sexologist  | Top Ayurvedic Doctor | Best sexual health specialist",
+    "hours": "Open 24 hours",
+    "image_url": null
+  },
+  {
+    "name": "Shri Hari Ayurvedic Clinic Saharanpur",
+    "address": "Opposite Gosala, Saharanpur, Uttar Pradesh 247001",
+    "phone": "Shri Hari Ayurvedic Clinic Saharanpur",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.978489,77.547989;dfp"
+  },
+  {
+    "name": "Saharanpur Cancer Clinic",
+    "address": "Xh54+562, Bajoria Rd, Saharanpur, Uttar Pradesh 247001",
+    "phone": "Saharanpur Cancer Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.957714,77.555771;dfp"
+  }
+]

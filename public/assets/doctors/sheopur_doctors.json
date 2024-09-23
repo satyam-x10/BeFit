@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Syopur Clinic",
+    "address": "Sector 6, Sector 6 Opposite, Sheopur Road, Pratap Nagar, Jaipur, Rajasthan",
+    "phone": "Syopur Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.808153,75.814522;dfp"
+  },
+  {
+    "name": "Government Ayurvedic Hospital",
+    "address": "Govarda Khurd, Sh6 Ss Road, Sheopur, Madhya Pradesh 476355",
+    "phone": "Government Ayurvedic Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.498322,77.064072;dfp"
+  },
+  {
+    "name": "Dr Anil Pahadia | Neuro - Psychiatrist  (SMS HOSPITAL JAIPUR)",
+    "address": "Dispensary, SK Medical, Sheopur Rd, in Front of Sector 6, Sanganer, Pratap Nagar, Jaipur, Rajasthan",
+    "phone": "Dr Anil Pahadia | Neuro - Psychiatrist  (SMS HOSPITAL JAIPUR)",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.809628,75.810287;dfp"
+  },
+  {
+    "name": "Shri Durga Krishi Clinic",
+    "address": "01, Infront Of Bada Bag Sheopur Road, Baroda, Sheopur, Madhya Pradesh 476339",
+    "phone": "Shri Durga Krishi Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.65958,76.67543;dfp"
+  }
+]

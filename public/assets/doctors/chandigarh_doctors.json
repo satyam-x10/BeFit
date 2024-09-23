@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr. Rishi Raj",
+    "address": "House Number 5, Chandigarh",
+    "phone": "Dr. Rishi Raj",
+    "hours": "Open· Closes 20:00",
+    "image_url": "/th?id=OLC.Q%2fm2Txd5ko3hhw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Mahesh Hiranandani",
+    "address": "1204, Sector 18D Road, 18D, Sector 18, Chandigarh 160018",
+    "phone": "Dr. Mahesh Hiranandani",
+    "hours": "Closed· Opens 17:00",
+    "image_url": "/th?id=OLC.fVCAdbnJ3p5qKw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Sandeep Sharma",
+    "address": "Sco 144-145, Sector 34-a Chandigarh, Chandigarh 160022",
+    "phone": "Dr. Sandeep Sharma",
+    "hours": "Open· Closes 13:30",
+    "image_url": "/th?id=OLC.%2b3UEkqfjJYRiQQ480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Gunjan Baweja",
+    "address": "3031, Sector 19 D, Chandigarh",
+    "phone": "Dr. Gunjan Baweja",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.728716,76.787537;dfp"
+  },
+  {
+    "name": "Dr Yogi Clinic",
+    "address": "Dr Yogi Clinic at Ground Floor Only, SCO 1030, Sector 22 B, Opposite Bus Stand Sector 17, Next to Airtel, Ch…",
+    "phone": "Dr Yogi Clinic",
+    "hours": "Opens in 15 mins",
+    "image_url": "/th?id=OLC.iAAWVnpLJik13w480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Right Chest Clinic",
+    "address": "Hno 5, Sec 19 A, Chandigarh 160019",
+    "phone": "Right Chest Clinic",
+    "hours": "Open· Closes 16:30",
+    "image_url": "/th?id=OLC.CaD%2fEsIobbAxpA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Puneet Mittal Clinic",
+    "address": "Sector 44, Chandigarh 160047",
+    "phone": "Dr Puneet Mittal Clinic",
+    "hours": "Closed· Opens 13:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Karun Singla Urologist",
+    "address": "Healing Hospital Chandigarh, Sector 34, Chandigarh 160034",
+    "phone": "Dr. Karun Singla Urologist",
+    "hours": "Open· Closes 19:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. J P Singh",
+    "address": "3031, GF, Sarovar Path, Sector 19D, Sector 19, Chandigarh 160019",
+    "phone": "Dr. J P Singh",
+    "hours": "Open· Closes 13:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.728607,76.787476;dfp"
+  },
+  {
+    "name": "Dr. Aastha Likhyani",
+    "address": "House no 1599, Ground Floor, 22B, Chandigarh",
+    "phone": "Dr. Aastha Likhyani",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Gursimran Singh",
+    "address": "SCO 10, Apollo Clinic, 11, Madhya Marg, Sector 8C, Sector, Chandigarh",
+    "phone": "Dr. Gursimran Singh",
+    "hours": "Open· Closes 13:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.73307,76.797501;dfp"
+  },
+  {
+    "name": "Dr. Shabnam's Arogya Clinic",
+    "address": "Namdhari Gurudwara, Sector 30, C, Chandigarh 160030",
+    "phone": "Dr. Shabnam's Arogya Clinic",
+    "hours": "Closed· Opens 16:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Hemant Sharma",
+    "address": "2932, Ground Floor, Chandigarh",
+    "phone": "Dr. Hemant Sharma",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.728659,76.767242;dfp"
+  },
+  {
+    "name": "DR. Sonal Homeopathic Clinic",
+    "address": "442 Sukhna Path, Chandigarh 160020",
+    "phone": "DR. Sonal Homeopathic Clinic",
+    "hours": "Open· Closes 14:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. P.S. Aulakh",
+    "address": "Near Shanti Path, Block C, Sector 35, Chandigarh 160022",
+    "phone": "Dr. P.S. Aulakh",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.723356,76.756439;dfp"
+  },
+  {
+    "name": "Duggal's Homoeopathic Clinic",
+    "address": "S.c.o. 2469, Sector 22-c, Chandigarh 160022",
+    "phone": "Duggal's Homoeopathic Clinic",
+    "hours": "Open· Closes 21:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Sanjeev Bhatia",
+    "address": "2164, Sector 21 c, Sector 21C, Chandigarh",
+    "phone": "Dr. Sanjeev Bhatia",
+    "hours": "Open· Closes 14:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Sandeep Singh Chhatwal",
+    "address": "343, 345, Sector-34 A, Landmark : Back Of Helix Institute, Sector, Chandigarh",
+    "phone": "Dr. Sandeep Singh Chhatwal",
+    "hours": "Opens in 15 mins",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.721701,76.766823;dfp"
+  }
+]

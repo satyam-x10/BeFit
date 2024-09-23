@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Clinic Dr.gurdit Singh Surjit Singh",
+    "address": "Makhu Gate, Firozpur 152001",
+    "phone": "Clinic Dr.gurdit Singh Surjit Singh",
+    "hours": null,
+    "image_url": "/th?id=OLC.zgpAsZu7Ovj0fw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Taran Pal Kaur Sodhi",
+    "address": "House No.1, Veer Nagar St no.1, Church, Ekta Nagar, Firozpur, Punjab 152002",
+    "phone": "Dr. Taran Pal Kaur Sodhi",
+    "hours": "Open· Closes 20:00",
+    "image_url": "/th?id=OLC.lK4ShDZNw5BI5A480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Gursimran Kaur",
+    "address": "Kothi, Street Number 17, Firozpur, Punjab",
+    "phone": "Dr Gursimran Kaur",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.956266,74.619453;clcp"
+  },
+  {
+    "name": "Dr. Wajieha Saeed",
+    "address": "Ground Malwala Road, Firozpur, Punjab 152001",
+    "phone": "Dr. Wajieha Saeed",
+    "hours": "Closed· Opens 17:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.955149,74.612625;dfp"
+  },
+  {
+    "name": "Happy Clinic Dr.Gagan Arora",
+    "address": "Happy Clinic, Malwal Road, opp Baba Enclave, Near Gurudwara Baba Ramlal, Firozpur, Punjab",
+    "phone": "Happy Clinic Dr.Gagan Arora",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.947975,74.624527;dfp"
+  },
+  {
+    "name": "Shital Clinic",
+    "address": "Street Number 10, Basti Tankan Wali, Firozpur, Punjab",
+    "phone": "Shital Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.94099,74.617043;dfp"
+  },
+  {
+    "name": "Talwar Clinic",
+    "address": "Ekta Nagar, Near Punjab And Sind Bank, Firozpur, Punjab 152002",
+    "phone": "Talwar Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Sethi",
+    "address": "95, 96, Bazar Number 2, Cantonment Area, Punjab 152001",
+    "phone": "Dr. Sethi",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.955229,74.620377;dfp"
+  },
+  {
+    "name": "Dr JP Malhotra Homoeo Clinic",
+    "address": "Near Bhagat HP Gas Agency..Ichehhewala, Firozpur 152001",
+    "phone": "Dr JP Malhotra Homoeo Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.93367,74.612511;dfp"
+  },
+  {
+    "name": "Deep Ayurved Clinic",
+    "address": "Main Street, Dhawan Colony, Ferozepur, Punjab 152002",
+    "phone": "Deep Ayurved Clinic",
+    "hours": "Open· Closes 20:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Neerja Puri- Dermatologist in Ludhiana",
+    "address": "Model Clinic, House no 52, New Model Town, Firozpur, Punjab 152002",
+    "phone": "Dr. Neerja Puri- Dermatologist in Ludhiana",
+    "hours": "Closed· Opens 17:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.955044,74.614929;dfp"
+  },
+  {
+    "name": "Dr. Ankita | Special Child",
+    "address": "183, Bazar no1. Ferozpur Cantt, Firozpur, Punjab, India, 152001, Firozpur, Madhya Pradesh 152001",
+    "phone": "Dr. Ankita | Special Child",
+    "hours": "Open· Closes 18:00",
+    "image_url": null
+  },
+  {
+    "name": "Hid Homoeo Clinic",
+    "address": "Opp Baba Noor Shash Wali, Ferozepur City, Firozpur 152002",
+    "phone": "Hid Homoeo Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Puja's Skin Laser And Cosmetology Clinic",
+    "address": "Cantonment Area, Ferozepur Cantt, Punjab 152001, India, Firozpur, Punjab 152001",
+    "phone": "Dr. Puja's Skin Laser And Cosmetology Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.902905,75.837234;dfp"
+  },
+  {
+    "name": "Chhabra Diagnostic Centre",
+    "address": "Kabadi Bazar Road, Ghasi Ram Chowk, Sadar Bazar Firozpur Cannt, Firozpur, Punjab 152001",
+    "phone": "Chhabra Diagnostic Centre",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Sh Ram Sunder Ayurvedic Neurospine Hospital & Research Center Ferozepur",
+    "address": "New Abadi Ring Road Near Dera Radha Swami Opp Chakki Banta Singh, Firozpur 152002",
+    "phone": "Sh Ram Sunder Ayurvedic Neurospine Hospital & Research Center Ferozepur",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=31.14847,75.978996;dfp"
+  },
+  {
+    "name": "Gupta Clinic",
+    "address": "Gupta Clinic Ward NO.1 Samadhi Road Zira, Ferozepur, Punjab 142047",
+    "phone": "Gupta Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.971067,74.973381;dfp"
+  },
+  {
+    "name": "Dr. Yogesh Pathak- General Physician",
+    "address": "Yogesh Clinic, Old Court Road, Opp. Shiv Darbar Chowk, Zira, Punjab 142047",
+    "phone": "Dr. Yogesh Pathak- General Physician",
+    "hours": "Open· Closes 21:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.96907,74.968735;dfp"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr Bachcha Prasad Memorial Clinic",
+    "address": "Bhagwan Bazar, Dr Bachcha Prasad, Chapra, Saran, Bihar 841301",
+    "phone": "Dr Bachcha Prasad Memorial Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.784,84.728424;dfp"
+  },
+  {
+    "name": "Dr. Baban Kumar Singh",
+    "address": "Kashi Bazar Bhagwan Bazar, Saran, Bihar",
+    "phone": "Dr. Baban Kumar Singh",
+    "hours": "Closed· Opens Sep 27 at 09:00",
+    "image_url": "/th?id=OLC.1HyfHX6mhJ7TaQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Ramratan Clinic",
+    "address": "Near Sbi Bank, Chirand Road Garkha, Garkha, Chandrama Market, Saran, Bihar 841311",
+    "phone": "Ramratan Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.806101,84.792786;dfp"
+  },
+  {
+    "name": "Shyam Health Clinic",
+    "address": "Katesar Bujurg Shyam Health Clinic, Nagra RD Nagra, Saran, Bihar 841442",
+    "phone": "Shyam Health Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.904312,84.757339;dfp"
+  },
+  {
+    "name": "Dr. Vijan Sharan",
+    "address": "Sona Centre, 103, West of Main, Saguna More, Golambar, Patna, Bihar",
+    "phone": "Dr. Vijan Sharan",
+    "hours": "Closed· Opens 11:00",
+    "image_url": "/th?id=OLC.7aVOwSk7FR1xqQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Op Singh Clinic",
+    "address": "Gay Bazar, Chapra Road, Sonpur, Bihar 841101",
+    "phone": "Dr Op Singh Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.693424,85.184418;dfp"
+  },
+  {
+    "name": "Dr. Sandeep Shrivastva | General",
+    "address": "Kishunpur, Bihar, India, 841460, Kishunpur, Madhya Pradesh 841460",
+    "phone": "Dr. Sandeep Shrivastva | General",
+    "hours": "Open· Closes 18:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Akhil Raj | General Physician | astha hospital",
+    "address": "Garkha Saran, Raipura Garkha Saran, Raipura, Bihar, India, 841311, Raipura, Madhya Pradesh 841311",
+    "phone": "Dr. Akhil Raj | General Physician | astha hospital",
+    "hours": "Open· Closes 19:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Priyanka Shahi",
+    "address": "Vrindawan Colony Kashi Bazar, Chhapra, Bihar 841301",
+    "phone": "Dr. Priyanka Shahi",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.783257,84.721413;dfp"
+  },
+  {
+    "name": "Dr Mishra Homeo Clinic & Research Center",
+    "address": "Nehru Chowk, Opp. Petrol Pump Chapra- Garkha Road, Chhapra, Bihar 841301",
+    "phone": "Dr Mishra Homeo Clinic & Research Center",
+    "hours": "Closed· Opens 15:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Birendra Ray Institute of Medical Sciences - Brims Hospitals",
+    "address": "73 SH73, Marhaura, Bihar 841401",
+    "phone": "Dr. Birendra Ray Institute of Medical Sciences - Brims Hospitals",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Shaligram Vishwakarma | Physician | Final Diagnosis Centre and Diabetes Clinic",
+    "address": "5, Zila School, Sadar Asptal KE Samane, Saran, Chapra, Bihar 841301, Chapra, Madhya Pradesh 841301",
+    "phone": "Dr. Shaligram Vishwakarma | Physician | Final Diagnosis Centre and Diabetes Clinic",
+    "hours": "Open· Closes 15:00",
+    "image_url": null
+  },
+  {
+    "name": "Ranjan Poly Clinic",
+    "address": "Gaura Bazar Gaura, Sh90 Chhapra Mohammadpur Road, Chhapra, Bihar 841443",
+    "phone": "Ranjan Poly Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.968801,84.776588;dfp"
+  },
+  {
+    "name": "Skin And Laser Clinic ( Dr. Ashutosh Ranjan)",
+    "address": "Bhagwan Bazar Main Road Infront Of Prakash X-ray (Near Gharbhunjwa, Chapra, Bihar",
+    "phone": "Skin And Laser Clinic ( Dr. Ashutosh Ranjan)",
+    "hours": "Closed· Opens 11:00",
+    "image_url": null
+  },
+  {
+    "name": "Prince Homoeo Clinic",
+    "address": "Station Road, Near Central Bank Of India, Mashrakh Saran Chhapra, Mashrakh, Bihar 841417",
+    "phone": "Prince Homoeo Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.100895,84.803993;dfp"
+  },
+  {
+    "name": "Dr. Prakash Kumar",
+    "address": "Malmaliya Jalalpur Road, Near Mansa Devi Mandir, Baniyapur Saran, Chhapra, Bihar 841403",
+    "phone": "Dr. Prakash Kumar",
+    "hours": "Closed· Opens 15:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.980524,84.686996;dfp"
+  },
+  {
+    "name": "Dr. Sarita Sinha",
+    "address": "Shamal Hospital Road, Magistrate Colony, Rukanpura, Patna, Bihar 800025",
+    "phone": "Dr. Sarita Sinha",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.612818,85.081169;dfp"
+  },
+  {
+    "name": "Dr. Abhishek Tiwari",
+    "address": "Jeevan Nagar Main Road, Near Hanuman Mandir, Keshri Nagar, Indrapuri, Patna, Bihar 800024",
+    "phone": "Dr. Abhishek Tiwari",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.630419,85.099945;dfp"
+  }
+]

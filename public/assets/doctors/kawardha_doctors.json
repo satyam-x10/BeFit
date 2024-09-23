@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Sneha Clinic",
+    "address": "Near Bus Stand, Kawardha, Chhattisgarh, Chhattisgarh 491995",
+    "phone": "Sneha Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.aTD4vc6KwXNZTA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Sai Sanjivani Hospital",
+    "address": "Rajmahal Chowk- Samnapur Road, Kawardha, Chhattisgarh 491995, India, Kawardha, Chhattisgarh 49…",
+    "phone": "Sai Sanjivani Hospital",
+    "hours": null,
+    "image_url": "/th?id=OLC.SssuS8CdXRiq9Q480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Pranjal Jain",
+    "address": "Raipur Rajnandgaon, Kawardha, Chhattisgarh",
+    "phone": "Dr. Pranjal Jain",
+    "hours": "Open· Closes 14:00",
+    "image_url": "/th?id=OLC.7%2fmYxT3SS3SHxw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Beauti Clinic",
+    "address": "Bodla, Babu Kumar Vishvas House, Baijalpur, Main Road, Kawardha, Chhattisgarh 491995",
+    "phone": "Beauti Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.011909,81.233711;dfp"
+  },
+  {
+    "name": "Kawardha Fracture Hospital And Trauma Center",
+    "address": "By Pass Road, Kawardha, Chhattisgarh 491995",
+    "phone": "Kawardha Fracture Hospital And Trauma Center",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.000116,81.243645;dfp"
+  },
+  {
+    "name": "Dr.Raje Physiotherapy and Rehab Clinic",
+    "address": "Shahid Kaushal Yadav Chowk, Math Para, Ward No 12, Kawardha, Chhattisgarh",
+    "phone": "Dr.Raje Physiotherapy and Rehab Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.005699,81.232498;dfp"
+  },
+  {
+    "name": "Anshul Dev Clinic",
+    "address": "Beside Radha Krishna Bade Mandir, Kawardha, Chhattisgarh",
+    "phone": "Anshul Dev Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.094572,82.120331;dfp"
+  }
+]

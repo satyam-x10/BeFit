@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Yashoda Hospital",
+    "address": "Gandhinagar Road, Near Jawaharlal Nehru Cricket Stadium, Block C, Nehru Nagar, Ghaziabad, Uttar Prad…",
+    "phone": "Yashoda Hospital",
+    "hours": null,
+    "image_url": "/th?id=OLC.7Tu6fIOD%2f4tI%2bA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Rahul Poddar",
+    "address": "Poddar Nursing Home, 62, Hapur Road, Block J, Patel Nagar 1, Patel Nagar, Ghaziabad, Uttar Pradesh 201001",
+    "phone": "Dr. Rahul Poddar",
+    "hours": "Open· Closes 14:00",
+    "image_url": "/th?id=OLC.XC6OtKD%2fVZfz7w480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Deepankar Verma",
+    "address": "1, MIG Houses, Sector 3, Vasundhara, Ghaziabad 201012",
+    "phone": "Dr. Deepankar Verma",
+    "hours": "Closed· Opens 18:30",
+    "image_url": "/th?id=OLC.hk94%2bPpeGk5oBA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Manish Goyal",
+    "address": "Ambedkar Road, Near Balaji IAS Academy, Pocket L, Nehru Nagar, Ghaziabad, Uttar Pradesh 201001",
+    "phone": "Dr. Manish Goyal",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.661636,77.43573;dfp"
+  },
+  {
+    "name": "Dr. Sandeep Goel",
+    "address": "105, Vasant Road, Nehru Nagar 2, Nehru Nagar, Ghaziabad, Uttar Pradesh 201001",
+    "phone": "Dr. Sandeep Goel",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.662874,77.437538;dfp"
+  },
+  {
+    "name": "Dr. Rakesh Gupta",
+    "address": "1/417C, Sector 1, Ghaziabad, Uttar Pradesh",
+    "phone": "Dr. Rakesh Gupta",
+    "hours": "Open· Closes 12:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.671911,77.473129;dfp"
+  },
+  {
+    "name": "Dr Swapnil Jain Clinic Nehru Nagar",
+    "address": "Iii-b/17, Ghaziabad, Uttar Pradesh 201001",
+    "phone": "Dr Swapnil Jain Clinic Nehru Nagar",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.659784,77.446938;dfp"
+  },
+  {
+    "name": "Dr. Neeraj Agrawal | Best Neurologist",
+    "address": "NH 24, Hapur Road, Near Landcraft Golflinks, Ghaziabad, Ghaziabad 201012",
+    "phone": "Dr. Neeraj Agrawal | Best Neurologist",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.666059,77.423019;dfp"
+  },
+  {
+    "name": "Dr. Rashmi Aggarwal",
+    "address": "Navyug Market, Hapur Road, Naya Ganj, Ghaziabad, Uttar Pradesh 201001",
+    "phone": "Dr. Rashmi Aggarwal",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.668633,77.429932;dfp"
+  },
+  {
+    "name": "Dr. Shivani Bansal",
+    "address": "3rd A-32 Vaishali Apartment, Rakesh Marg, Nehru Nagar, Ghaziabad, Uttar Pradesh",
+    "phone": "Dr. Shivani Bansal",
+    "hours": "Closed· Opens 17:30",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Shashank Tripathi- General Physician",
+    "address": "Tripathi Hospital & Trauma Hospital, E14, Sector 9, New Vijay Nagar, Ghaziabad, Uttar Pradesh 201009",
+    "phone": "Dr. Shashank Tripathi- General Physician",
+    "hours": "Open· Closes 13:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. R. Gupta",
+    "address": "Hapur Road, Near Ganesh Mandir, Patel Nagar 1, Patel Nagar, Ghaziabad, Uttar Pradesh 201001",
+    "phone": "Dr. R. Gupta",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.670237,77.428879;dfp"
+  },
+  {
+    "name": "Dr. Shiv Kumar",
+    "address": "107, Patel Marg, Patel Nagar 3, Patel Nagar, Ghaziabad, Uttar Pradesh 201003",
+    "phone": "Dr. Shiv Kumar",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.67111,77.429993;dfp"
+  },
+  {
+    "name": "Dr. Mudit Mohan - General Physician  - Diabetologist",
+    "address": "Clinic Address:2A-205, Nehru Nagar, Ghaziabad, Uttar Pradesh",
+    "phone": "Dr. Mudit Mohan - General Physician  - Diabetologist",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr.R.B Pathak",
+    "address": "Sector 2 Road, Near Lakshmi Vilas Bank, Nehru Nagar 2, Nehru Nagar, Ghaziabad, Uttar Pradesh 201001",
+    "phone": "Dr.R.B Pathak",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.666605,77.436234;dfp"
+  },
+  {
+    "name": "Doctor Goyal Clinic",
+    "address": "Plot No, 166, A2, Shakti Khand 2, Indirapuram, Ghaziabad, Uttar Pradesh 201014",
+    "phone": "Doctor Goyal Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.643841,77.372002;dfp"
+  },
+  {
+    "name": "Dr. Rajeev Goel",
+    "address": "2/6, G T RD, Daulat Pura, Nehru Nagar, Loni. Landmark: Near Pawan Cinema & Opposite Bata Show Room, Gh…",
+    "phone": "Dr. Rajeev Goel",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.652473,77.43544;dfp"
+  },
+  {
+    "name": "EzHealth Heart & Diabetes Care (Dr Col DK Gupta)",
+    "address": "RTF-004 (First Floor, Royal Tower, Commercial, Shipra Suncity, Indirapuram, Ghaziabad, Uttar Pradesh",
+    "phone": "EzHealth Heart & Diabetes Care (Dr Col DK Gupta)",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.643,77.376427;dfp"
+  }
+]

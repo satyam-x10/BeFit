@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr. Shashidhar M Patil",
+    "address": "Sath Kachery Road, Utsav Garden Compound, Basaveshwara Circle, Raichur, Karnataka",
+    "phone": "Dr. Shashidhar M Patil",
+    "hours": "Open· Closes 15:00",
+    "image_url": "/th?id=OLC.MMSDDl7q2OrKSw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Amarjeet Patil- General Physician",
+    "address": "Sri Amareshwara Hospital, Bangi Kunta, City Talkies Road, Raichur, Karnataka 584103",
+    "phone": "Dr. Amarjeet Patil- General Physician",
+    "hours": "Closed· Opens 11:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=16.206312,77.356003;dfp"
+  },
+  {
+    "name": "Dr. Ramesh C Sagar",
+    "address": "Tipu Sultan Road, Landmark: Near Bus Stand, Raichur, Karnataka",
+    "phone": "Dr. Ramesh C Sagar",
+    "hours": "Closed· Opens 12:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=16.20557,77.348251;dfp"
+  },
+  {
+    "name": "Dr.padhye Homoeo Clinic",
+    "address": "11-3-143 Beroon Quilla, Jain Temple Road, Raichur, Karnataka 584101",
+    "phone": "Dr.padhye Homoeo Clinic",
+    "hours": "Closed· Opens 11:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=16.203272,77.357048;dfp"
+  },
+  {
+    "name": "Dr. Shahziya - Best General Physician | Raichur",
+    "address": "Dr. Shahziya Clinic, I D S M T Colony 1/4-154-2A, Mangampeta, Ram Raheem Colony, Raichur, Karnataka",
+    "phone": "Dr. Shahziya - Best General Physician | Raichur",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=16.189507,77.346039;dfp"
+  },
+  {
+    "name": "Mahabaleshwar Clinic ( Multispeciality Clinic )",
+    "address": "Utsav Garden Compound, 12-11-76 New, Ground Floor, Basaveshwar Circle, Raichur, Karnataka 584101",
+    "phone": "Mahabaleshwar Clinic ( Multispeciality Clinic )",
+    "hours": null,
+    "image_url": "/th?id=OLC.vcc%2fi%2beNQnGBAA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. V J Kataria Clinic",
+    "address": "Darwaja Road, Sri Guru Datta Lodge, Beroon Killa, Raichur, Karnataka 584101",
+    "phone": "Dr. V J Kataria Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=16.203613,77.351868;dfp"
+  },
+  {
+    "name": "Dr Naseer",
+    "address": "2-5-103, Moti Masjid Rd, Navrang Darwaza Rd, Raichur, Karnataka",
+    "phone": "Dr Naseer",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=16.202229,77.361084;dfp"
+  },
+  {
+    "name": "Dr. Varsha Padhye",
+    "address": "11-3- 143, Jain Temple Road, Raichur, Karnataka",
+    "phone": "Dr. Varsha Padhye",
+    "hours": "Closed· Opens 11:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. C P Ravi Kumar",
+    "address": "Siya Talaab, Raichur, Karnataka",
+    "phone": "Dr. C P Ravi Kumar",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. N Niranjan | Narayna Clinic",
+    "address": "Beside Bharat Petrol Pump Station Road, Raichur, Karnataka, India, 584101, Raichur, Madhya Pradesh 58…",
+    "phone": "Dr. N Niranjan | Narayna Clinic",
+    "hours": "Opens in 5 mins",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Prakash R | Paediatric Cardiologist | Raichur",
+    "address": "New Amrutha Medical & Research Centre, 6953+VR4, Haji Colony, Raichur, Karnataka 584101",
+    "phone": "Dr. Prakash R | Paediatric Cardiologist | Raichur",
+    "hours": "Open· Closes 18:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=16.210466,77.356796;dfp"
+  },
+  {
+    "name": "Dr Mahalingappa Clinic",
+    "address": "Sathkachari Road, Raichur, Karnataka 584101",
+    "phone": "Dr Mahalingappa Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=16.208,77.350914;dfp"
+  },
+  {
+    "name": "Dr. Sathya Narayana D | Cardiologist | Raichur",
+    "address": "Mahabaleshwar Clinic, Utsav Garden Hotel Compound, Basaveshwara Rd, Raichur, Karnataka 584101",
+    "phone": "Dr. Sathya Narayana D | Cardiologist | Raichur",
+    "hours": "Open· Closes 18:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=16.208036,77.341812;dfp"
+  },
+  {
+    "name": "Dr. Sadanand Reddy",
+    "address": "Sath Kachery Road, Utsav Garden Compound, Basaveshwara Circle, Raichur, Karnataka",
+    "phone": "Dr. Sadanand Reddy",
+    "hours": "Closed· Opens 11:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=16.207994,77.34671;dfp"
+  },
+  {
+    "name": "Dr. Sandeep Patil",
+    "address": "City Talkies Road, Raichur, Karnataka 584101",
+    "phone": "Dr. Sandeep Patil",
+    "hours": "Closed· Opens 11:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=16.207985,77.358109;dfp"
+  },
+  {
+    "name": "Sri Kadsiddeshwar Clinic",
+    "address": "6p2x+7vv, Konnur, Karnataka 591231, India, Konnur, Karnataka 591231",
+    "phone": "Sri Kadsiddeshwar Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=16.198513,77.366943;dfp"
+  },
+  {
+    "name": "Rajiv Gandhi Superspeciality Hospital",
+    "address": "Hyderabad Road, Raichur, Karnataka 584101",
+    "phone": "Rajiv Gandhi Superspeciality Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=16.234465,77.35849;dfp"
+  }
+]

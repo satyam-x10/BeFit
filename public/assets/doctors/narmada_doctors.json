@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Dr. Sarfaraz Z. Khatri",
+    "address": "Dolat Bazar, Narmada, Gujarat",
+    "phone": "Dr. Sarfaraz Z. Khatri",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=21.86998,73.502304;dfp"
+  },
+  {
+    "name": "Shraddha Clinic",
+    "address": "Birsa Munda Chowk, Khocharpada Road, Selamba, Narmada, Gujarat 393025",
+    "phone": "Shraddha Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=21.48455,73.797134;dfp"
+  },
+  {
+    "name": "Dr. Naishadh Parmar- Orthopedist In Narmada",
+    "address": "Accident Fracture X Ray Clinic & Orthopaedic Hospital, Lal Tower Road, Opp. Pandya Street, Narmada, Near …",
+    "phone": "Dr. Naishadh Parmar- Orthopedist In Narmada",
+    "hours": "Open· Closes 13:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=21.86644,73.499321;dfp"
+  },
+  {
+    "name": "Shraddha Clinic",
+    "address": "Vgc2+4rg, Dolat Bazar, Bhattsheri, Gujarat 393145",
+    "phone": "Shraddha Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=21.870642,73.504288;dfp"
+  },
+  {
+    "name": "Government Ayurvedic Hospital",
+    "address": "Sh160 Narmda Road, Valia, Gujarat 393145",
+    "phone": "Government Ayurvedic Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=21.862226,73.51738;dfp"
+  }
+]

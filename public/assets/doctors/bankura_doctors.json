@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Dr. Arijit Kundu",
+    "address": "Rabindra Sarani, Bankura, West Bengal 722101",
+    "phone": "Dr. Arijit Kundu",
+    "hours": "Closed · Opens 09:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.8MUsaJi%2fPsmDuw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Curatio Clinic",
+    "address": "Aristrocate Building; 1st Floor, Bankura, West Bengal, West Bengal 722101",
+    "phone": "Curatio Clinic",
+    "hours": "Closed · Opens 18:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.AWlllxULPIxR%2fg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Prasanta Rays Clinic & Diagnostics",
+    "address": "Rabindra Sarani, Feeder Road Sub Post Office, Bankura, West Bengal 722101",
+    "phone": "Dr Prasanta Rays Clinic & Diagnostics",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.228003,87.068245;dfp"
+  },
+  {
+    "name": "Dr Atanu Mukhopadhya Clinic",
+    "address": "Bankura Zilla Saradamani Mahila Mahavidyapith, Jogeshpally, Bankura, West Bengal 722101",
+    "phone": "Dr Atanu Mukhopadhya Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.239807,87.056213;dfp"
+  },
+  {
+    "name": "Dr Coni Mahapatra Clinic",
+    "address": "Bakura Kishok Bazar, Paddapukur Pally, Bankura, West Bengal 722101",
+    "phone": "Dr Coni Mahapatra Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.24444,87.054832;dfp"
+  },
+  {
+    "name": "Dr Aniruddha Dey Clinic",
+    "address": "Nityananda Arogya Niketan, Bankura, West Bengal 722101",
+    "phone": "Dr Aniruddha Dey Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.234974,87.06794;dfp"
+  },
+  {
+    "name": "Dr Somnath Patra Clinic",
+    "address": "Shakhari Para Satighat Road, State Bank Of India Atm, Sukanta Pally, Bankura, West Bengal 722101",
+    "phone": "Dr Somnath Patra Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.231274,87.053215;dfp"
+  },
+  {
+    "name": "Dr Amlan Kumar Pan Clinic",
+    "address": "Natunchati Road, Jogeshpally, Bankura, West Bengal 722101",
+    "phone": "Dr Amlan Kumar Pan Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.239807,87.056236;dfp"
+  },
+  {
+    "name": "Dr Aparesh Patra Clinic",
+    "address": "Doltala Road, Bankura Banga Vidyalaya, Bankura, West Bengal 722101",
+    "phone": "Dr Aparesh Patra Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.244184,87.054375;dfp"
+  },
+  {
+    "name": "Dr Subir Mukherjee Clinic",
+    "address": "Chowk Bazar Lane, Bankura Banga Vidyalaya, Bankura, West Bengal 722101",
+    "phone": "Dr Subir Mukherjee Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.246141,87.064362;dfp"
+  },
+  {
+    "name": "Dr Satyabrata Musif Clinic",
+    "address": "Manasha Mandir, Paddapukur Pally, Bankura, West Bengal 722101",
+    "phone": "Dr Satyabrata Musif Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.244646,87.052299;dfp"
+  },
+  {
+    "name": "Dr Soumen Barik Clinic",
+    "address": "Madhya Kenduyadihi Sarbojanin Durga Mandir, Kenduadihi, Bankura, West Bengal 722102",
+    "phone": "Dr Soumen Barik Clinic",
+    "hours": null,
+    "imageUrl": "https://th.bing.com/th?id=OLC.yZvqsg%2bLLgtygg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Banibrata Dhabal (Ortho Clinic)",
+    "address": "63Q4+WCH, Nutanchati Rd, Jogeshpally, Bankura, West Bengal",
+    "phone": "Dr Banibrata Dhabal (Ortho Clinic)",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.233864,87.065735;dfp"
+  },
+  {
+    "name": "Dr Debargha Dhua",
+    "address": "Taragati Samanta Road, Maa Mahamaya Hospital, Kenduadihi, Bankura, West Bengal 722102",
+    "phone": "Dr Debargha Dhua",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.24295,87.042801;dfp"
+  },
+  {
+    "name": "Dr Sudeb Sinha Clinic",
+    "address": "Doletola, Bankura, West Bengal 722101",
+    "phone": "Dr Sudeb Sinha Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.238419,87.073708;dfp"
+  },
+  {
+    "name": "Dr Susanta Garai Clinic",
+    "address": "Second Feeder Road, Bankura Railway Station, Bankura, West Bengal 722101",
+    "phone": "Dr Susanta Garai Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.226343,87.072853;dfp"
+  },
+  {
+    "name": "Dr Partha Karmakar Clinic",
+    "address": "Natunchati Road, Jogeshpally, Bankura, West Bengal 722101",
+    "phone": "Dr Partha Karmakar Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.227835,87.075829;dfp"
+  },
+  {
+    "name": "Dr. Rajkumar Choudhury | Radiologist | New Turning Point",
+    "address": "New Turning Point, 2 nd Feeder Road., Bankura, West Bengal, India, 722101, Bankura, Madhya Pradesh 722101",
+    "phone": "Dr. Rajkumar Choudhury | Radiologist | New Turning Point",
+    "hours": null,
+    "imageUrl": "https://th.bing.com/th?id=OLC.5En4XQYzKYc05A480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Arijit Kundu",
+    "address": "Rabindra Sarani, Bankura, West Bengal 722101",
+    "phone": "Dr. Arijit Kundu",
+    "hours": "Closed · Opens 09:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.8MUsaJi%2fPsmDuw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Curatio Clinic",
+    "address": "Aristrocate Building; 1st Floor, Bankura, West Bengal, West Bengal 722101",
+    "phone": "Curatio Clinic",
+    "hours": "Closed · Opens 18:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.AWlllxULPIxR%2fg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  }
+]

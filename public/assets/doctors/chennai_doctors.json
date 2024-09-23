@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr Meeta Clinic",
+    "address": "No 17 Perumal Koil Street, Behind Mega Mart, Chennai, Tamil Nadu 600106",
+    "phone": "Dr Meeta Clinic",
+    "hours": "Open· Closes 12:00",
+    "image_url": "/th?id=OLC.kIVf%2bL0fIm44Bw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Harikrishnan Parthasarathy",
+    "address": "5, Kambar Salai Mogappair, Chennai, Tamil Nadu",
+    "phone": "Dr. Harikrishnan Parthasarathy",
+    "hours": "Closed· Opens 15:00",
+    "image_url": "/th?id=OLC.zfxFWBU%2fBCmDUg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Doctors Clinic",
+    "address": "No 62 /3, W College Rd, Jagannatha Nagar, Arumbakkam, Chennai, Tamil Nadu",
+    "phone": "Doctors Clinic",
+    "hours": "Open· Closes 22:00",
+    "image_url": "/th?id=OLC.cP%2bs3uCsOiUibg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. D Prabhakar",
+    "address": "AG Block 25/53, 4th Avenue, Shanthi Colony Main Road, Chennai, Tamil Nadu",
+    "phone": "Dr. D Prabhakar",
+    "hours": "Opens in 15 mins",
+    "image_url": "/th?id=OLC.GrNJJ7Yk%2bczQZQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Sivabalan",
+    "address": "No 2181, L Block, 12th Main Road, Anna Nagar, Landmark: Behind Nilgiris Super Market, Chennai, Tam…",
+    "phone": "Dr. Sivabalan",
+    "hours": "Opens in 15 mins",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=13.083767,80.203003;dfp"
+  },
+  {
+    "name": "Dr. Krishna Kartik | Dr. Krishna kartik Clinic",
+    "address": "Anna Nagar Chennai 603102, Chennai, Tamil Nadu, India, 603102, Chennai, Madhya Pradesh 603102",
+    "phone": "Dr. Krishna Kartik | Dr. Krishna kartik Clinic",
+    "hours": "Open· Closes 18:00",
+    "image_url": "/th?id=OLC.VMA6wkz0BUz30w480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr M Rajkumar",
+    "address": "No.2037, 15th Main Rd, Near Coffee Day, Anna Nagar West, Anna Nagar, Chennai, Tamil Nadu 600040",
+    "phone": "Dr M Rajkumar",
+    "hours": "Open· Closes 19:30",
+    "image_url": null
+  },
+  {
+    "name": "Dr. C.Sugumar",
+    "address": "103, Rajangam Middle Street, Kumaran Colony, Chennai, Tamil Nadu",
+    "phone": "Dr. C.Sugumar",
+    "hours": "Closed· Opens 18:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=13.052459,80.207085;dfp"
+  },
+  {
+    "name": "Dr Ramakrishnan S | Rheumatologist  | Apollo Hospitals",
+    "address": "30, 2nd Ave, F Block, Block F, Annanagar East, Chennai, Tamil Nadu",
+    "phone": "Dr Ramakrishnan S | Rheumatologist  | Apollo Hospitals",
+    "hours": "Open· Closes 12:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Subhashini Venkatesh",
+    "address": "AA-122, Shanthi Colony, Chennai, Tamil Nadu",
+    "phone": "Dr. Subhashini Venkatesh",
+    "hours": "Closed· Opens 18:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr.R.Krishnamoorthy MBBS, M.S.(General Surg), MCh.(Plastic)",
+    "address": "No.1, Jawaharlal Nehru Salai, Vadapalani, Chennai, Madhya Pradesh 600026",
+    "phone": "Dr.R.Krishnamoorthy MBBS, M.S.(General Surg), MCh.(Plastic)",
+    "hours": "Open· Closes 18:00",
+    "image_url": null
+  },
+  {
+    "name": "Doctor's Clinic",
+    "address": "No 11, Chandra Yogi Samadhi Road, Adhisesha Nagar, Ayanavaram, Chennai, Tamil Nadu 600012",
+    "phone": "Doctor's Clinic",
+    "hours": "Open· Closes 21:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=13.103653,80.24646;dfp"
+  },
+  {
+    "name": "Dr. Prof. Ravi Ramalingam",
+    "address": "4B/3, 4B/4, Mmda Colony, Maduravoyal. Landmark: Opposite Dr. M.G.R. Educational and Research Institut…",
+    "phone": "Dr. Prof. Ravi Ramalingam",
+    "hours": "Closed· Opens 12:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=13.068614,80.214516;dfp"
+  },
+  {
+    "name": "Neuro Life Hospital",
+    "address": "At 300 Metre's From Erikkarai Signal Bus Stop, Alappakkam Main Road, Maduravoyal, Chennai, Tamil …",
+    "phone": "Neuro Life Hospital",
+    "hours": "Open· Closes 13:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. K. Karthik Narayan",
+    "address": "New No. 2, Old No. 1911, 15th Main Road., Landmark, Chennai, Chennai 600037",
+    "phone": "Dr. K. Karthik Narayan",
+    "hours": "Open· Closes 13:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=13.086961,80.199005;dfp"
+  },
+  {
+    "name": "Dr.R.Kannan",
+    "address": "No 1051 Poonamallee High Road, Chennai, Tamil Nadu 600106",
+    "phone": "Dr.R.Kannan",
+    "hours": "Opens in 15 mins",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=13.07672,80.205772;dfp"
+  },
+  {
+    "name": "Dr. Ekta Bharti",
+    "address": "1267, Annai Indira Gandhi Street, Chennai- Bangalore Highway, Chennai, Tamil Nadu",
+    "phone": "Dr. Ekta Bharti",
+    "hours": "Open· Closes 13:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=13.09175,80.201996;dfp"
+  },
+  {
+    "name": "Dr. Senthilvelan.R",
+    "address": "No.527, Poonamalle High Road, Arumbakkam, Chennai, Tamil Nadu 600106, Chennai, Tamil Nadu",
+    "phone": "Dr. Senthilvelan.R",
+    "hours": "Closed· Opens 18:00",
+    "image_url": null
+  }
+]

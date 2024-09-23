@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr. G.Bhanu Prasad",
+    "address": "Hyderabad Road, Nizamabad, Telangana",
+    "phone": "Dr. G.Bhanu Prasad",
+    "hours": "Closed· Opens 12:00",
+    "image_url": "/th?id=OLC.TYmzVI71inIqSQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Manorama Super Speciality Hospital",
+    "address": "5-5-116, Khalilwadi, OPP BUS Stand, Nizamabad, Telangana 503001",
+    "phone": "Manorama Super Speciality Hospital",
+    "hours": "Open· Closes 17:00",
+    "image_url": "/th?id=OLC.o5LJur6ZFpCqyg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Am Reddy",
+    "address": "5-6-378, Bombay Nursing Home Lane, Yellammagutta, Nizamabad, Telangana",
+    "phone": "Dr. Am Reddy",
+    "hours": "Opens in 6 mins",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=18.672472,78.094078;dfp"
+  },
+  {
+    "name": "DR. Dattu Raj",
+    "address": "Medicover Hospital, 5-11-744 Beside LIC Building, Yellamma Gutta, Nizamabad, Telangana",
+    "phone": "DR. Dattu Raj",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=18.668219,78.107048;dfp"
+  },
+  {
+    "name": "Al- Hayatt Clinic",
+    "address": "Near A1 Rahman Medical, Beside S.A. Super Market, CM. Road, Auto Nagar, Arsapal, Nizamabad, Telangana",
+    "phone": "Al- Hayatt Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=18.6752,78.073402;dfp"
+  },
+  {
+    "name": "Dr Madhavi Clinic",
+    "address": "Dichpally To Nizamabad Road, Barkatpura, Nizamabad, Telangana 503001",
+    "phone": "Dr Madhavi Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=18.666931,78.090996;dfp"
+  },
+  {
+    "name": "Dr Karthik Clinic",
+    "address": "opp. Honda Showroom, Kanteshwar, Nizamabad, Telangana",
+    "phone": "Dr Karthik Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=18.671677,78.10305;dfp"
+  },
+  {
+    "name": "Divya Sai Clinic",
+    "address": "Surya Nagar Road, Surya Nagar, Nizamabad, Telangana 503001",
+    "phone": "Divya Sai Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=18.663231,78.096603;dfp"
+  },
+  {
+    "name": "Rahmath Clinic",
+    "address": "Ahmedpura Colony Road, Ahmed Pura Colony, Nizamabad, Telangana 503001",
+    "phone": "Rahmath Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=18.671989,78.087189;dfp"
+  },
+  {
+    "name": "Roshini Clinic",
+    "address": "Dichpally To Nizamabad Road, Shivaji Nagar, Nizamabad, Telangana 503001",
+    "phone": "Roshini Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Morlawar’s Homeopathy Clinic",
+    "address": "1st Floor, Near Tilak Garden Circle, Opp Hotel Haritha Inn, Bustand to Railway Station Road, Above Anantha …",
+    "phone": "Dr. Morlawar’s Homeopathy Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=18.672911,78.094711;dfp"
+  },
+  {
+    "name": "Sri Raja Clinic",
+    "address": "Gandhi Chowk, Ambarpet, Nizamabad, Telangana 503001",
+    "phone": "Sri Raja Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=18.669546,78.095802;dfp"
+  },
+  {
+    "name": "Sri Datta Clinic",
+    "address": "Varni To Nizamabad Road, Shivaji Statue, Barkatpura, Nizamabad, Telangana 503001",
+    "phone": "Sri Datta Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=18.663799,78.093414;dfp"
+  },
+  {
+    "name": "Shifaa Clinic",
+    "address": "Cm Road, Nizamabad, Telangana 503002",
+    "phone": "Shifaa Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=18.678501,78.086098;dfp"
+  },
+  {
+    "name": "Lakshmi Ramana Clinic",
+    "address": "Gayathri Nagar Road, Chaitanya High School, Gayathri Nagar, Nizamabad, Telangana 503001",
+    "phone": "Lakshmi Ramana Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=18.662947,78.099197;dfp"
+  },
+  {
+    "name": "Dr. Rajanikanth",
+    "address": "5-6-378, Bombay Nursing Home Lane, Yellammagutta, Nizamabad, Telangana",
+    "phone": "Dr. Rajanikanth",
+    "hours": "Closed· Opens 11:00",
+    "image_url": null
+  },
+  {
+    "name": "Shirdi Sai Clinic",
+    "address": "Pochammagalli Road, Pochammagalli, Nizamabad, Telangana 503001",
+    "phone": "Shirdi Sai Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=18.672436,78.101273;dfp"
+  },
+  {
+    "name": "Dr. KOUSHIK - Best Gastroenterologist",
+    "address": "5-11-744, Medicover Hospital, Beside LIC Building, Yellammagutta, Nizamabad, Telangana",
+    "phone": "Dr. KOUSHIK - Best Gastroenterologist",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=18.669157,78.106522;dfp"
+  }
+]

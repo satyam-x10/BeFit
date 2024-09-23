@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Medi Clinic",
+    "address": "Beltola Road, Jdds Super Market, Ag Office Guwahati, Guwahati, Assam 781028",
+    "phone": "Medi Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.tXlir9tSTYNKZQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Abrar Ahmed | Apollo Clinic Dispur | Best Senior Consultant Spine Surgeon",
+    "address": "Apollo Clinic, opp. Downtown Hospital, Near SBI ATM, Rukmini Gaon, Guwahati, Assam",
+    "phone": "Dr. Abrar Ahmed | Apollo Clinic Dispur | Best Senior Consultant Spine Surgeon",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.135798,91.802567;dfp"
+  },
+  {
+    "name": "Dr Anjan Kr Saikia Best Gastroenterologist  (Medicity Aditya GS Road)",
+    "address": "Medicity Guwahati, Sewali Path, Near, Hatigaon Main Rd, Dispur, Guwahati, Assam",
+    "phone": "Dr Anjan Kr Saikia Best Gastroenterologist  (Medicity Aditya GS Road)",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.136911,91.785774;dfp"
+  },
+  {
+    "name": "Dr. Gaurav Chayan Das | Best Interventional Radiologist | Guwahati Metro Hospital",
+    "address": "Uday Nagar, Khanapara, opp. Bodoland Guest, Guwahati, Assam",
+    "phone": "Dr. Gaurav Chayan Das | Best Interventional Radiologist | Guwahati Metro Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.120586,91.805855;dfp"
+  },
+  {
+    "name": "Dr Intekhab Alam Heart Care",
+    "address": "Excelcare Hospital, Boragaon, Nh 37, Near Ganesh Mandir, Gauhati 781033",
+    "phone": "Dr Intekhab Alam Heart Care",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.115761,91.716347;dfp"
+  },
+  {
+    "name": "GNRC Pain Clinic",
+    "address": "Supermarket, Dispur Lastgate, Gauhati, Assam 781006",
+    "phone": "GNRC Pain Clinic",
+    "hours": "Open· Closes 17:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.134359,91.804581;dfp"
+  },
+  {
+    "name": "Dr. Bhaskar Neog | Best Diabetologist & Medicine Doctor  | Apollo Clinic Dispur",
+    "address": "GS Rd, opp. Downtown Hospital, Dispur, Rukmini Gaon, Guwahati, Assam",
+    "phone": "Dr. Bhaskar Neog | Best Diabetologist & Medicine Doctor  | Apollo Clinic Dispur",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.138144,91.799614;dfp"
+  }
+]

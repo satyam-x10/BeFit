@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr Nandu Clinic",
+    "address": "Numaish Chouraha To Sandila Road, Bavan, Hardoi, Uttar Pradesh 241001",
+    "phone": "Dr Nandu Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.lOizNTo2Jsf5NQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Kartikeya Bajpai",
+    "address": "Radha Nagar Bilgram Chungi, Near Noor Mohammad Chakki, Hardoi, Uttar Pradesh",
+    "phone": "Dr Kartikeya Bajpai",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.383453,80.122902;dfp"
+  },
+  {
+    "name": "Dr Manoj Clinic",
+    "address": "Baddupur Mohabbatpur Road, Roadways Bus Stand, Mominabad, Hardoi, Uttar Pradesh 241001",
+    "phone": "Dr Manoj Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.383394,80.122803;dfp"
+  },
+  {
+    "name": "Dr Naveen Saxena Clinic",
+    "address": "Cinema Road, Sader Market, Hardoi, Uttar Pradesh 241001",
+    "phone": "Dr Naveen Saxena Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.393248,80.127304;dfp"
+  },
+  {
+    "name": "Kushraj Clinic",
+    "address": "Sandi Road, Hardoi, Uttar Pradesh 241001",
+    "phone": "Kushraj Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.GZ2LAmBOdBNY1w480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. R.k. Trivedi",
+    "address": "Cinema Rd, Hardoi, Uttar Pradesh 241001",
+    "phone": "Dr. R.k. Trivedi",
+    "hours": null,
+    "image_url": "/th?id=OLC.72wglHDCjx6xyQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Dhruv Agarwal",
+    "address": "Jail Road Opposite Police to Pared Ground, Hardoi, Uttar Pradesh, India, 242001, Hardoi, Madhya Pradesh 242001",
+    "phone": "Dr. Dhruv Agarwal",
+    "hours": "Open· Closes 18:00",
+    "image_url": null
+  },
+  {
+    "name": "Om Sai Clinic",
+    "address": "Dharamshala Road, Sadar Bazaar, Hardoi, Uttar Pradesh 241001",
+    "phone": "Om Sai Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr Anuraag Shukla Clinic",
+    "address": "Negheta Road To Sandi Road, Numaish Chouraha, Hardoi, Uttar Pradesh 241001",
+    "phone": "Dr Anuraag Shukla Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Abhishek Chauhan, Chauhan Skin Clinic Best Skin-Specialist Doctor (Dermatologist) , Uttar Pradesh",
+    "address": "H. No, 142, Dharamshala Rd, Natveer Puliya, Hardoi, Uttar Pradesh",
+    "phone": "Dr. Abhishek Chauhan, Chauhan Skin Clinic Best Skin-Specialist Doctor (Dermatologist) , Uttar Pradesh",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Trivedi Polyclinic",
+    "address": "Lucknow Rd, Bahloli, Hardoi, Uttar Pradesh 241001, India, Aligarh 241001",
+    "phone": "Trivedi Polyclinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.372078,80.153145;dfp"
+  },
+  {
+    "name": "Pankaj Clinic",
+    "address": "Hardoi Kanpur Road, Radha Nagar, Hardoi, Uttar Pradesh 241001",
+    "phone": "Pankaj Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.380051,80.122749;dfp"
+  },
+  {
+    "name": "Dr. Dr.Abhinav Bhanu Shukla",
+    "address": "Amogh Clinic, Near Kotwali City Sandi Road, Hardoi, Uttar Pradesh, India, 241001, Hardoi, Madhya Pradesh …",
+    "phone": "Dr. Dr.Abhinav Bhanu Shukla",
+    "hours": "Open· Closes 15:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr imran khan",
+    "address": "hri, Hardoi, Uttar Pradesh",
+    "phone": "Dr imran khan",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr Kapoor's Sharda Homeo Clinic",
+    "address": "Dharamshala Road, Hardoi, Uttar Pradesh, Uttar Pradesh 241001",
+    "phone": "Dr Kapoor's Sharda Homeo Clinic",
+    "hours": "Opens in 10 mins",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.399153,80.12796;dfp"
+  },
+  {
+    "name": "Satyam Diagnostic Center",
+    "address": "Dharamshala Road, Sadar Bazaar, Hardoi, Uttar Pradesh 241001",
+    "phone": "Satyam Diagnostic Center",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.388556,80.128609;dfp"
+  },
+  {
+    "name": "Dr. Manish Sharma",
+    "address": "Mo Nai Basti Near Bajariya Chauraha, Hardoi, Uttar Pradesh",
+    "phone": "Dr. Manish Sharma",
+    "hours": "Open· Closes 13:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.648638,79.933044;dfp"
+  },
+  {
+    "name": "Dr Lal PathLabs",
+    "address": "38, Civil Lines, Jail Road, Jail Road, Hardoi, Uttar Pradesh 241001, Hardoi, Uttar Pradesh 241001",
+    "phone": "Dr Lal PathLabs",
+    "hours": "Open· Closes 20:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.399073,80.13649;dfp"
+  }
+]

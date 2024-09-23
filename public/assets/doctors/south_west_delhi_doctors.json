@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr. Vijay's Multispeciality Clinic",
+    "address": "Shop No. 36, Chitra Market, Furniture Market, Najafgarh, Delhi 110043",
+    "phone": "Dr. Vijay's Multispeciality Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.NPeBi9rVDregUg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Dhananjay clinic",
+    "address": "Street Number 4, Qutub Vihar I, Goyla Village, Delhi",
+    "phone": "Dr. Dhananjay clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.591221,77.005318;dfp"
+  },
+  {
+    "name": "Prince Clinic",
+    "address": "Paprawat Road, Roshan Vihar, Najafgarh, Delhi 110043",
+    "phone": "Prince Clinic",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.604788,76.983673;dfp"
+  },
+  {
+    "name": "Dr. N.K. Das",
+    "address": "Durga Vihar Road, Near Dheeraj Jewelers, Durga Vihar I, Deenpur, Delhi 110043",
+    "phone": "Dr. N.K. Das",
+    "hours": "Open· Closes 20:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.592924,76.98764;dfp"
+  },
+  {
+    "name": "Maya Clinic",
+    "address": "28 Feet Road, Near Radha Krishna Mandir, Prem Nagar, Najafgarh, Delhi 110043",
+    "phone": "Maya Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.604389,76.975571;dfp"
+  },
+  {
+    "name": "Dr. Vinit Kumar",
+    "address": "Dharampura Road, Near Om Jewelers, Nawada Bazar, Najafgarh, Delhi 110043",
+    "phone": "Dr. Vinit Kumar",
+    "hours": "Open· Closes 14:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.609175,76.981819;dfp"
+  },
+  {
+    "name": "Dr Kailash Naath Gupta Best Asthma, TB, COPD, ILD, Chest Specialist, Pulmonologist, Physician Doctor, diab…",
+    "address": "Rz-138, New Roshanpura, Najafgarh, Delhi 110043",
+    "phone": "Dr Kailash Naath Gupta Best Asthma, TB, COPD, ILD, Chest Specialist, Pulmonologist, Physician Doctor, diab…",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Pankaj Singhal",
+    "address": "Main Thana Road, Near Hdfc Bank, Najafgarh, Delhi 110043",
+    "phone": "Dr. Pankaj Singhal",
+    "hours": "Open· Closes 19:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.610437,76.98214;dfp"
+  },
+  {
+    "name": "Dr. Bhardwaj Clinic",
+    "address": "Najafgarh Road, Mitraon, Najafgarh, Delhi 110043",
+    "phone": "Dr. Bhardwaj Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.608883,76.945396;dfp"
+  },
+  {
+    "name": "Aakash Healthcare",
+    "address": "Plot No 4, Sector 11, Mllj, Dwarka, New Delhi, Delhi 110075",
+    "phone": "Aakash Healthcare",
+    "hours": "Open 24 hours",
+    "image_url": null
+  },
+  {
+    "name": "Dr. A.N. Gupta Clinic",
+    "address": "Dharampura Road, Near Jully Jewelers, Nawada Bazar, Najafgarh, Delhi 110043",
+    "phone": "Dr. A.N. Gupta Clinic",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.612974,76.984375;dfp"
+  },
+  {
+    "name": "Sanjeevani Clinic",
+    "address": "RZ-48A, Dwarka Vihar Kakrola Road, Dharampura, Najafgarh, Delhi 110043",
+    "phone": "Sanjeevani Clinic",
+    "hours": "Open· Closes 21:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.602049,76.987312;dfp"
+  },
+  {
+    "name": "Dr. Pankaj Kumar Clinic",
+    "address": "Nangli Sankranti Road, Near Allahabad Bank, Najafgarh Extension, Najafgarh, Delhi 110043",
+    "phone": "Dr. Pankaj Kumar Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.612762,76.988388;dfp"
+  },
+  {
+    "name": "Dr. J D Singh- Pediatrician In Delhi",
+    "address": "Krishna Clinic, Shop No. 1475, First Floor, Saini Mohalla, Opposite Primary Health Centre, Najafgarh, New Delhi…",
+    "phone": "Dr. J D Singh- Pediatrician In Delhi",
+    "hours": "Open· Closes 20:00",
+    "image_url": null
+  },
+  {
+    "name": "Bangali Clinic",
+    "address": "Paprawat Road, Roshan Vihar 1, Delhi 110043",
+    "phone": "Bangali Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.599348,76.984299;dfp"
+  },
+  {
+    "name": "Usha Clinic",
+    "address": "Durga Vihar Road, Near Binas Beauty Parlour, Shyam Enclave, Deenpur, Delhi 110043",
+    "phone": "Usha Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.591112,76.995049;dfp"
+  },
+  {
+    "name": "Dr Gaurav Thukran General Physician",
+    "address": "Ashirwad Poly Clinic RZP-220, Sector 8 Dwarka, Raj Nagar, Delhi 110075",
+    "phone": "Dr Gaurav Thukran General Physician",
+    "hours": "Open· Closes 22:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. N. Gupta",
+    "address": "249-E, Nawada Bazar Road, Near Bansal Traders, Najafgarh, Delhi 110043",
+    "phone": "Dr. N. Gupta",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.610468,76.983421;dfp"
+  }
+]

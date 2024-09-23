@@ -1,0 +1,51 @@
+[
+  {
+    "name": "D Og Care Clinic",
+    "address": "Shop No 2-3, Plot No. 151, Ward 6, Gandhidham, Kachchh, Gujarat 370201",
+    "phone": "D Og Care Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.283138,70.762253;dfp"
+  },
+  {
+    "name": "Primary Health Centre",
+    "address": "Near Bus Station, Kachchh, Gujarat 388421",
+    "phone": "Primary Health Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.590757,72.801048;dfp"
+  },
+  {
+    "name": "Metropolis Healthcare Limited - Pathology Lab, Diagnostic Centre",
+    "address": "Shop No 2, Plot No 241/4B, Rambaug Hospital Road, Adipur, Kachchh, Gujarat 370205",
+    "phone": "Metropolis Healthcare Limited - Pathology Lab, Diagnostic Centre",
+    "hours": "Open· Closes 20:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.073746,70.092873;dfp"
+  },
+  {
+    "name": "Hirani Homeopathic Clinic",
+    "address": "Opposite Santoshi maa Temple, Near ncc, Kachchh, Gujarat 370001",
+    "phone": "Hirani Homeopathic Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.241871,69.66478;dfp"
+  },
+  {
+    "name": "Dr. Nita Visariya- Obstetrics & Gynecology in Vile Parle West",
+    "address": "Surya Hospital, C/O Surya Hospital, Lallubhai Park Road, Vile Parle West, Mumbai, Maharashtra 400056",
+    "phone": "Dr. Nita Visariya- Obstetrics & Gynecology in Vile Parle West",
+    "hours": "Closed· Opens 12:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.843256,70.411102;dfp"
+  },
+  {
+    "name": "Gauri Clinic",
+    "address": "9 106 60B, Gadhsisa, Mandvi, Kutch, Gujarat 370445",
+    "phone": "Gauri Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.257572,69.661812;dfp"
+  },
+  {
+    "name": "Dr. Piyush Pujara",
+    "address": "Anam Ring Road, Landmark: Near Kutch Bandhej, Kutch, Gujarat",
+    "phone": "Dr. Piyush Pujara",
+    "hours": "Open· Closes 13:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.251278,69.67083;dfp"
+  }
+]

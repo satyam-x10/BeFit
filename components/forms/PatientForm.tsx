@@ -41,11 +41,8 @@ export const PatientForm = () => {
     try {
       const existingUser = await checkUserExistsByEmail(values.email);
       if (existingUser) {
-        console.log("User already exists:");
-
         router.push(`/patients/${existingUser}`);
       } else {
-        console.log("User does not exist");
       }
 
       const user = {
@@ -53,10 +50,8 @@ export const PatientForm = () => {
         email: values.email,
         phone: values.phone,
       };
-      console.log("Creating new user:", user);
 
       const newUser = await createUser(user);
-      console.log("New user created:", newUser);
 
       if (newUser) {
         router.push(`/patients/${newUser.$id}/register`);

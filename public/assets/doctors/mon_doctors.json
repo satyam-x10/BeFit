@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Ramsey & District Cottage Hospital",
+    "address": "Cumberland Road, Ramsey, Im Im8 3rh",
+    "phone": "Ramsey & District Cottage Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=54.328331,-4.390498;dfp"
+  },
+  {
+    "name": "Dr C Garvey - Hailwood Medical Practice",
+    "address": "Hailwood Med Prac Llc 2 Hailwood Court, Isle Of Man IM2 7EA",
+    "phone": "Dr C Garvey - Hailwood Medical Practice",
+    "hours": "Closed· Opens 08:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=54.177647,-4.472645;dfp"
+  },
+  {
+    "name": "Snaefell Surgery",
+    "address": "Cushag Road Douglas, Douglas, Douglas IM2 2BZ",
+    "phone": "Snaefell Surgery",
+    "hours": null,
+    "image_url": "/th?id=OLC.V7Z9ho%2bkO%2bzMXQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Phi Clinic",
+    "address": "3, Howard Street, Douglas IM1 2EQ",
+    "phone": "Phi Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.vPmWPFLcEB%2fDhw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  }
+]

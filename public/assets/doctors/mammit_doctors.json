@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Mary Bassler, Md",
+    "address": "4 Oak Tree Way, Mammoth Lakes, CA 93546",
+    "phone": "Mary Bassler, Md",
+    "hours": null,
+    "image_url": "/th?id=OLC.3kvTySuYzAkHRA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Walker Jennie MD",
+    "address": "85 Sierra Park Rd, Mammoth Lakes, CA 93546",
+    "phone": "Walker Jennie MD",
+    "hours": "Closed· Opens tomorrow 09:00",
+    "image_url": "/th?id=OLC.WS9daFck3Yfv8w480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Thomas F. Mitts, MD, Inc.",
+    "address": "437 Old Mammoth Rd, Mammoth Lakes, CA 93546",
+    "phone": "Thomas F. Mitts, MD, Inc.",
+    "hours": null,
+    "image_url": "/th?id=OLC.0hLIfsvVJGn1jg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Brian Gilmer",
+    "address": "85 Sierra Park Rd Mammoth Lakes, CA 93546, Mammoth Lakes, CA 93546",
+    "phone": "Dr Brian Gilmer",
+    "hours": "Closed· Opens tomorrow 08:00",
+    "image_url": "/th?id=OLC.Ig2B7kjjWiKAoQ480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Akalin Murat Md",
+    "address": "85 Sierra Park Rd, Mammoth Lakes, Ca 93546",
+    "phone": "Akalin Murat Md",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=37.644135,-118.963577;dfp"
+  },
+  {
+    "name": "Dr. Sierra Michelle Bourne",
+    "address": "85 Sierra Park Rd, Mammoth Lakes, CA 93546",
+    "phone": "Dr. Sierra Michelle Bourne",
+    "hours": "Closed· Opens tomorrow 09:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=37.644524,-118.963921;dfp"
+  }
+]

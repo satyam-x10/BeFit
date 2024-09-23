@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr.Sunil's Clinic",
+    "address": "I Floor, Arkis Arcade, Main Road, Next to Vivekananda Hospital, Tilak Nagar, Shivamogga, Karnataka",
+    "phone": "Dr.Sunil's Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=13.937262,75.574402;dfp"
+  },
+  {
+    "name": "Dr. Srinath Bhave- General Physician",
+    "address": "Krishna Clinic, Prabhu Complex, B H Road, Shimoga Market, Shimonga, Karnataka 577202",
+    "phone": "Dr. Srinath Bhave- General Physician",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=13.932371,75.584908;dfp"
+  },
+  {
+    "name": "Vishwanath Clinic",
+    "address": "Gandhi Bazar Shimoga 577202, Shivamogga, Karnataka 577202",
+    "phone": "Vishwanath Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=13.924645,75.577576;dfp"
+  },
+  {
+    "name": "Narayana Clinic, Shimoga",
+    "address": "No 93, Ground Floor, Nambala Atriium, Kuvempu Road, Shivamogga, Karnataka 577201",
+    "phone": "Narayana Clinic, Shimoga",
+    "hours": "Open· Closes 21:00",
+    "image_url": "/th?id=OLC.0VMG2KxVwz4%2bsw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Aparna Sreevatsa",
+    "address": "664, Kuvempu Rd, Hosamane, Karnataka 577201",
+    "phone": "Dr Aparna Sreevatsa",
+    "hours": null,
+    "image_url": "/th?id=OLC.IDahx4KodMv8tQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Sagar Bhattad",
+    "address": "Rattans Madhava Rao Rd, Tilak Nagar, Durgigudi, Shivamogga, Karnataka",
+    "phone": "Dr. Sagar Bhattad",
+    "hours": "Closed· Opens tomorrow 11:00",
+    "image_url": "/th?id=OLC.RC5QkJ7z5K4Qtw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr S Shimikore",
+    "address": "1st Floor Room 17 Kle City Polyclinic Sama Devi Gali, Belagavi, Karnataka 590001",
+    "phone": "Dr S Shimikore",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=13.936134,75.570915;dfp"
+  },
+  {
+    "name": "Dr. Vishalakshi Moogi- Gynaecologist & Obstetrician Doctors",
+    "address": "Nanjappa Hospital, #660, Tilak Nagar, Kuvempu Road, Shimoga, Karnataka 577201",
+    "phone": "Dr. Vishalakshi Moogi- Gynaecologist & Obstetrician Doctors",
+    "hours": "Open· Closes 21:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=13.938862,75.569305;dfp"
+  },
+  {
+    "name": "Dr. Gopalakrishna Shanbhag",
+    "address": "1st Floor, Vishwakarma Building, Durgi Gudi, Shivamogga, Karnataka",
+    "phone": "Dr. Gopalakrishna Shanbhag",
+    "hours": "Opens in 4 mins",
+    "image_url": null
+  },
+  {
+    "name": "Dr. H G Bharathi- Obstetrics & Gynaecologist In Shimonga",
+    "address": "Ganga Clinic, 1St Cross, Gandhi Bazar, Savarkar Nagar, Lashkar Mohalla, Kr Puram, Shivamogga, Karnataka 5…",
+    "phone": "Dr. H G Bharathi- Obstetrics & Gynaecologist In Shimonga",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=13.928493,75.575394;dfp"
+  },
+  {
+    "name": "Dr.jain's Health Care Services",
+    "address": "Jayanagar 4th Cross, Shivamogga, Karnataka 577201",
+    "phone": "Dr.jain's Health Care Services",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=13.93431,75.586113;dfp"
+  },
+  {
+    "name": "Dr. Deepak Cl",
+    "address": "Kuvempu Road, Shivamogga, Karnataka",
+    "phone": "Dr. Deepak Cl",
+    "hours": "Open· Closes 18:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=13.938895,75.57132;dfp"
+  },
+  {
+    "name": "Dr. Prithvi Raj K A Dermatologist in Shimoga",
+    "address": "1st Floor, Malnad Skin Cllinic, Santhosh Building, Jail Road, Near Jail Circle, Shivamogga, Karnataka 577201",
+    "phone": "Dr. Prithvi Raj K A Dermatologist in Shimoga",
+    "hours": "Open· Closes 14:30",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Mahesh Murthy | Best Cardiologist Near Me Durgigudi Shivamogga",
+    "address": "Hruday Specialty Clinic, Durgigudi, Shivamogga, Karnataka 577201",
+    "phone": "Dr. Mahesh Murthy | Best Cardiologist Near Me Durgigudi Shivamogga",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=13.937296,75.570091;dfp"
+  },
+  {
+    "name": "Dr. Mahendra M",
+    "address": "Savalanga Road, Shivamogga, Karnataka",
+    "phone": "Dr. Mahendra M",
+    "hours": "Closed· Opens 12:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Amitha Hegde- C/O Mahajan Nursing Home, Basavanagudi Shimoga, Shimoga - 577201",
+    "address": "Dr. Amitha Hegde's Kalapurna Sawlanga, Road, Near Karnataka Bank, Shivamogga, Karnataka 577201",
+    "phone": "Dr. Amitha Hegde- C/O Mahajan Nursing Home, Basavanagudi Shimoga, Shimoga - 577201",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=13.938486,75.58007;dfp"
+  },
+  {
+    "name": "Apollo Dialysis Clinic",
+    "address": "Apollo Dialysis Clinics, Park Extension, Opp Mahatma Gandhi Park, Shivamogga, Karnataka 577201",
+    "phone": "Apollo Dialysis Clinic",
+    "hours": "Open· Closes 23:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=13.935308,75.574112;dfp"
+  },
+  {
+    "name": "R R Mahendra",
+    "address": "R R Complex, Gandhi Bazar, Main Road, Shivamogga, Karnataka 577201",
+    "phone": "R R Mahendra",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=13.934781,75.572586;dfp"
+  }
+]

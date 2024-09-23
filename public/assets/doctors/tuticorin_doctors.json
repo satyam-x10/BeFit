@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Dr. Antony Judy",
+    "address": "1A/20, Bryant Nagar, 5th Middle Street. Landmark: Near to Thoothkudi Government Hospital, Thoothukudi",
+    "phone": "Dr. Antony Judy",
+    "hours": "Closed· Opens 17:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=8.791411,78.131767;dfp"
+  },
+  {
+    "name": "Dr. Samuel Prapthik",
+    "address": "213-C, V.E Road, Near Hotel Sugam/dil Computers opp Theiva Nursing Home/ Balagi x-Rays, Thoothukudi",
+    "phone": "Dr. Samuel Prapthik",
+    "hours": "Open· Closes 13:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=8.801565,78.1446;dfp"
+  },
+  {
+    "name": "Vinayaga Polyclinic",
+    "address": "5th Street, North Rajiv Nagar, Near Teachers Colony, Tuticorin, Tamil Nadu, Tamil Nadu 628002",
+    "phone": "Vinayaga Polyclinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.VJrNOX1m1uSvYA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Divakar clinic",
+    "address": "130, Jayaleni St, Thoothukudi, Tamil Nadu",
+    "phone": "Dr Divakar clinic",
+    "hours": "Closed· Opens 18:00",
+    "image_url": "/th?id=OLC.SoTgnqwpyHL2Hw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. R Saravanan | R R Hospital",
+    "address": "46 3rd Street, Thoothukudi, Tamil Nadu 628002",
+    "phone": "Dr. R Saravanan | R R Hospital",
+    "hours": null,
+    "image_url": "/th?id=OLC.14CO16YbsWpx9w480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Kingson John David",
+    "address": "9/3-5 Kootampuli Main Road, Thoothukudi, Tamil Nadu",
+    "phone": "Dr. Kingson John David",
+    "hours": "Closed· Opens 16:30",
+    "image_url": "/th?id=OLC.wWNRh9zPu3Wa7Q480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Laxmi Polyclinic",
+    "address": "152/18, West Pole Pettai Near Ulavar Santhai, Thoothukudi 628002",
+    "phone": "Laxmi Polyclinic",
+    "hours": "Closed· Opens 12:00",
+    "image_url": null
+  },
+  {
+    "name": "Sri Lakshmi Sai Dhanvanthri Clinic",
+    "address": "106J\\32, 2Nd Street, Millerpuram, D, Thoothukudi, Tamil Nadu 628008",
+    "phone": "Sri Lakshmi Sai Dhanvanthri Clinic",
+    "hours": "Open· Closes 21:00",
+    "image_url": null
+  },
+  {
+    "name": "B.KANNAN., M.D., D.M (Neuro) -Neurologist Thoothukudi",
+    "address": "145, 5B, Jeyaraj Rd, Toovipuram, Thoothukudi, Tamil Nadu",
+    "phone": "B.KANNAN., M.D., D.M (Neuro) -Neurologist Thoothukudi",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=8.807121,78.13298;dfp"
+  },
+  {
+    "name": "Dr. Mohan's Diabetes Specialities Centre - Tuticorin",
+    "address": "38 Jairaj Road, Thoothukudi, Tamil Nadu 628002",
+    "phone": "Dr. Mohan's Diabetes Specialities Centre - Tuticorin",
+    "hours": "Open· Closes 17:30",
+    "image_url": null
+  },
+  {
+    "name": "Sri Krishna Ayurveda Clinic - Tuticorin",
+    "address": "30, Kanagasabapathy Street, Melur, Thoothukudi, Tamil Nadu, Tamil Nadu 628002",
+    "phone": "Sri Krishna Ayurveda Clinic - Tuticorin",
+    "hours": "Closed· Opens 18:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr.Arul's Diabetes & Lifestyle Centre",
+    "address": "145/5B, Jeyaraj Road, Thoothukudi, Tamil Nadu 628002",
+    "phone": "Dr.Arul's Diabetes & Lifestyle Centre",
+    "hours": "Open 24 hours",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=8.817526,78.144653;clcp"
+  },
+  {
+    "name": "Dr Shankara Narayana Ent Hospital",
+    "address": "215, New Colony Road, Pudugramam, Thoothukudi, Tamil Nadu 628003, India, Tamil Nadu 628003",
+    "phone": "Dr Shankara Narayana Ent Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=8.799982,78.144981;dfp"
+  },
+  {
+    "name": "Fertinova - Kondapur - Dr. Radhika Reddy Pingili - Consultant Infertility specialist and Gynecologists",
+    "address": "2nd Floor, 61B, 3rd St, Opposite SBI Bank, Near Chirec International School, Sri Ram Nagar, Kondapur, Telang…",
+    "phone": "Fertinova - Kondapur - Dr. Radhika Reddy Pingili - Consultant Infertility specialist and Gynecologists",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=8.812332,78.144501;dfp"
+  },
+  {
+    "name": "Shree Shastha Homoeo Clinic",
+    "address": "Briyant Nagar, 5th Street West Side, Tuticorin(Thoothukudi), Tamil Nadu 628002",
+    "phone": "Shree Shastha Homoeo Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=8.7642,78.134804;dfp"
+  },
+  {
+    "name": "Dr. Sujith Pandiaraj. J",
+    "address": "50/A1, Laxmi Complex, VVD Main Road, Anna Nagar 3RD Street, Thoothukudi, Tamil Nadu",
+    "phone": "Dr. Sujith Pandiaraj. J",
+    "hours": "Open· Closes 13:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr Agarwals Eye Hospital",
+    "address": "No 138/4, Palayamkottai Main Road, Tuticorin, Tamil Nadu 628003",
+    "phone": "Dr Agarwals Eye Hospital",
+    "hours": "Open· Closes 20:00",
+    "image_url": null
+  }
+]

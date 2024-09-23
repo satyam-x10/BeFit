@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr. Kalyanaraman",
+    "address": "no 1 Bashyam Street, Cuddalore, Tamil Nadu",
+    "phone": "Dr. Kalyanaraman",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.764204,79.772118;dfp"
+  },
+  {
+    "name": "Dr. Krishnan",
+    "address": "2, Wigilmier Street, Sorakalpet, Cuddalore, Tamil Nadu, India, 607001, Cuddalore, Madhya Pradesh 607001",
+    "phone": "Dr. Krishnan",
+    "hours": "Open· Closes 19:30",
+    "image_url": "/th?id=OLC.DCzGTL6j%2fS6UVA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Siva Ranganathan Green Internal Medicine",
+    "address": "Dr. Siva Clinic 164, Nethaji Road, Manjakuppam, Cuddalore, Tamil Nadu 607001",
+    "phone": "Dr. Siva Ranganathan Green Internal Medicine",
+    "hours": "Closed· Opens 18:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.761303,79.764183;dfp"
+  },
+  {
+    "name": "ABC HOSPITAL, Dr.SRINIVASAN, Dr. Padma Priya D. G. o.",
+    "address": "27, Pattunool Kara St, Near Anuba Gas Station, Rajajinagar, Ariyalur, Tamil Nadu",
+    "phone": "ABC HOSPITAL, Dr.SRINIVASAN, Dr. Padma Priya D. G. o.",
+    "hours": null,
+    "image_url": "/th?id=OLC.rSXJdxcMj%2fDwgg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr.namakshivayam Clinic",
+    "address": "Nh32, Cuddalore, Tamil Nadu 607001",
+    "phone": "Dr.namakshivayam Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.768006,79.762886;dfp"
+  },
+  {
+    "name": "Dr. Thirumurugan S",
+    "address": "Number 33, Murugan Street, Cuddalore, Tamil Nadu",
+    "phone": "Dr. Thirumurugan S",
+    "hours": "Closed· Opens 17:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.769812,79.764221;dfp"
+  },
+  {
+    "name": "St Hospital",
+    "address": "123 Irusapan Street, Cuddalore, Tamil Nadu 607003",
+    "phone": "St Hospital",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr.Mani Clinic",
+    "address": "21, Nethaji Rd, Rajambal Nagar, Allpettai, Manjakuppam, Cuddalore, Tamil Nadu",
+    "phone": "Dr.Mani Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.761017,79.764336;dfp"
+  },
+  {
+    "name": "Anand Clinic",
+    "address": "Cuddalore Road, Cuddalore, Tamil Nadu 607001",
+    "phone": "Anand Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.758913,79.763786;dfp"
+  },
+  {
+    "name": "Dr Vikas Babu - Best Oncologist  & Pondicherry",
+    "address": "Anvika Hospitals, Pondy Main Road, Near Alpet Checkpost, Manjakuppam, Cuddalore, Tamil Nadu",
+    "phone": "Dr Vikas Babu - Best Oncologist  & Pondicherry",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "S. R. Ent Hospital",
+    "address": "25, A. L.c. Campus, Cuddalore 607001",
+    "phone": "S. R. Ent Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.755948,79.761322;dfp"
+  },
+  {
+    "name": "Dr. M Elanchezhian- Pediatrician",
+    "address": "Sri Shruthi Clinic, No. 44, Kumar A Koil Street, Cuddalore Old Town, Cuddalore, Tamil Nadu 607003",
+    "phone": "Dr. M Elanchezhian- Pediatrician",
+    "hours": "Closed· Opens 11:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.715075,79.767883;dfp"
+  },
+  {
+    "name": "Vinayakaa Ortho Care Clinic",
+    "address": "No, 21 Pondy, East Coast Rd, Allpettai, Manjakuppam, Cuddalore, Tamil Nadu",
+    "phone": "Vinayakaa Ortho Care Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Heart clinic",
+    "address": "No 1 Bashyam Street, Cuddalore, Cuddalore 607001",
+    "phone": "Heart clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Rahman's Trust",
+    "address": "Gummath Palli Street, Parangipettai, Cuddalore, Tamil Nadu",
+    "phone": "Dr. Rahman's Trust",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. S. Vasudevan",
+    "address": "44, Aishwarya Complex, Sankara Naidu Street, Opposite to Agarwal Sweets, Thirupapuliyur, Cuddalore, Tamil N…",
+    "phone": "Dr. S. Vasudevan",
+    "hours": "Open· Closes 16:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.746622,79.746536;dfp"
+  },
+  {
+    "name": "Karpagavalli Skin Clinic",
+    "address": "Skin Care Specialist, Sakthi Illam, No.20, Chairman Sundaram Nagar, Semmandalam, Cuddalore, Tamil Na…",
+    "phone": "Karpagavalli Skin Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.748876,79.739471;dfp"
+  },
+  {
+    "name": "Building Doctor Cuddalore",
+    "address": "No.32, Swarnapuri Nagar, (Opp.To Raj Vijay TVS Imperial Road, Chellangkuppam, Cuddalore, Tamil Nadu",
+    "phone": "Building Doctor Cuddalore",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.734878,79.763405;pfp"
+  }
+]

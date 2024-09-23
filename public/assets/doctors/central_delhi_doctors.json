@@ -1,0 +1,142 @@
+[
+  {
+    "name": "SIR Ganga Ram Hospital",
+    "address": "Sarhadi Gandhi Marg, New Delhi, Delhi 110060",
+    "phone": "SIR Ganga Ram Hospital",
+    "hours": "Closed · Opens 08:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.acqD%2bYQwAnO1EA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Akhlaq Clinic ( Unani ) Ex. Hony. Physician to the President of India, 45 yrs experience",
+    "address": "2478, Ballimaran Rd, Bazar Sirkiwalan, Baradari, Old Delhi, Delhi",
+    "phone": "Dr. Akhlaq Clinic ( Unani ) Ex. Hony. Physician to the President of India, 45 yrs experience",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/th?id=OLC.uAP8ylXOxaCtuA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Shobha Sikarwar",
+    "address": "St. Stephen's Hospital, Delhi",
+    "phone": "Dr. Shobha Sikarwar",
+    "hours": "Closed · Opens 09:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.v9OoI5rbXntXFg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Thakur Dr Vijay Kumar",
+    "address": "23, Rani Jhansi Marg, Malka Ganj, Civil Lines, Delhi 110007",
+    "phone": "Thakur Dr Vijay Kumar",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.666155,77.209328;dfp"
+  },
+  {
+    "name": "Dr Pritam Singh (B I M S) (Regd)",
+    "address": "727, Nawab Road, Sarai Khalil, Sadar Bazaar, Delhi 110006",
+    "phone": "Dr Pritam Singh (B I M S) (Regd)",
+    "hours": "Closed · Opens 11:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.655891,77.211304;dfp"
+  },
+  {
+    "name": "Dr B K Gupta Clinic",
+    "address": "3580, Nicholson Road, South Indian Madrasi Colony, Mori Gate, Delhi 110006",
+    "phone": "Dr B K Gupta Clinic",
+    "hours": "Closed · Opens 09:30",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.664272,77.222252;dfp"
+  },
+  {
+    "name": "Dr. D.P. Gupta Clinic",
+    "address": "1741, Naya Bazar, SP Mukherjee Marg, Khari Baoli, Chandni Chowk, Delhi 110006",
+    "phone": "Dr. D.P. Gupta Clinic",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.661152,77.219643;dfp"
+  },
+  {
+    "name": "Shuddhi Clinic",
+    "address": "19-B/2 New Market, New Rohtak Road, Karol Bagh, New Delhi Near Liberty Cinema, Delhi 110005",
+    "phone": "Shuddhi Clinic",
+    "hours": "Closed · Opens 09:00",
+    "imageUrl": "https://th.bing.com/th?id=OLC.XFNviUCMMRvO4g480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Sharma Clinic",
+    "address": "1732, SP Mukhargi Marg, Nai Basti, Naya Bazaar, New Delhi, Delhi",
+    "phone": "Dr Sharma Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.66197,77.219246;dfp"
+  },
+  {
+    "name": "Dr. Suri Clinic",
+    "address": "3005, Ram Bazar, Ram Bazar Road, Tilak Gali, Mori Gate, Delhi 110006",
+    "phone": "Dr. Suri Clinic",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.663622,77.224831;dfp"
+  },
+  {
+    "name": "Dr. Pawan Kumar Bansal",
+    "address": "St. Stephen's Hospital Marg, Tis Hazari, New Delhi 110054",
+    "phone": "Dr. Pawan Kumar Bansal",
+    "hours": "Closed · Opens 09:00",
+    "imageUrl": "https://th.bing.com/th?id=OLC.VvF7hOC5M6Y%2fVQ480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Sonal Clinic",
+    "address": "8564, East Park Road, Model Basti, Kishan Ganj, Delhi 110006",
+    "phone": "Dr. Sonal Clinic",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.65831,77.202652;dfp"
+  },
+  {
+    "name": "Dr. Balbeer Clinic",
+    "address": "Desh Raj Bhatia Marg, Near Shiv Shakti Temple, Bagichi Allauddin, Paharganj, Delhi 110055",
+    "phone": "Dr. Balbeer Clinic",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.648821,77.212181;dfp"
+  },
+  {
+    "name": "Dr. Gulmoz Akhtar",
+    "address": "Ring Road, Near Bank Of Baroda, Katra Neel, Chandni Chowk, Delhi 110006",
+    "phone": "Dr. Gulmoz Akhtar",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.660196,77.226357;dfp"
+  },
+  {
+    "name": "Dr S C Nijhawan Clinic",
+    "address": "A-834, Nabi Karim, Pahar Ganj. Landmark: Near Pahar Ganj Post Office, Delhi 110055",
+    "phone": "Dr S C Nijhawan Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.649529,77.21299;dfp"
+  },
+  {
+    "name": "Dr. Samir Tawakley",
+    "address": "St. Stephen's Hospitallandmark : Near Kashmiri Gate, Tis Hazari, Delhi 110054",
+    "phone": "Dr. Samir Tawakley",
+    "hours": "Closed · Opens 09:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.666389,77.214447;dfp"
+  },
+  {
+    "name": "Dr. Yashpal Arora",
+    "address": "18/7, LGF, Main Round About, Old Rajendra Nagar. Landmark: Behind Nijthawan Mandir & Opp. to Aggarw…",
+    "phone": "Dr. Yashpal Arora",
+    "hours": "Closed · Opens 10:30",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=28.639664,77.178261;dfp"
+  },
+  {
+    "name": "Dr. Pradeep Gupta",
+    "address": "2510, Churi Walan Gully, Churiwalan, Chandni Chowk, Delhi 110006",
+    "phone": "Dr. Pradeep Gupta",
+    "hours": "Closed · Opens 09:30",
+    "imageUrl": "https://th.bing.com/th?id=OLC.Xlnz2HKlbcwcIg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "SIR Ganga Ram Hospital",
+    "address": "Sarhadi Gandhi Marg, New Delhi, Delhi 110060",
+    "phone": "SIR Ganga Ram Hospital",
+    "hours": "Closed · Opens 08:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.acqD%2bYQwAnO1EA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Akhlaq Clinic ( Unani ) Ex. Hony. Physician to the President of India, 45 yrs experience",
+    "address": "2478, Ballimaran Rd, Bazar Sirkiwalan, Baradari, Old Delhi, Delhi",
+    "phone": "Dr. Akhlaq Clinic ( Unani ) Ex. Hony. Physician to the President of India, 45 yrs experience",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/th?id=OLC.uAP8ylXOxaCtuA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  }
+]

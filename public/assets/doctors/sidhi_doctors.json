@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Dr. P.K.'s Alka Homoeopathic Clinic",
+    "address": "State Bank Rd, Hospital Chauraha, Sidhi, Madhya Pradesh",
+    "phone": "Dr. P.K.'s Alka Homoeopathic Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.332218,75.047813;dfp"
+  },
+  {
+    "name": "Dr.Ranjana mishra Dental Clinic",
+    "address": "Mishra Dental Care, NH39, Near Govt. Hospital, Sidhi, Madhya Pradesh",
+    "phone": "Dr.Ranjana mishra Dental Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.413002,81.882301;dfp"
+  },
+  {
+    "name": "Metropolis Healthcare Limited - Pathology Lab, Diagnostic Centre",
+    "address": "Divya Pathology, Hospital Chowk, Near District Hospital, Sidhi, Madhya Pradesh 486661",
+    "phone": "Metropolis Healthcare Limited - Pathology Lab, Diagnostic Centre",
+    "hours": "Open· Closes 20:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.411509,81.87999;dfp"
+  }
+]

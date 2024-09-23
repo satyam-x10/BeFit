@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Patanjali Chikitsalaya",
+    "address": "Departmental Store, Patthalgaon, Jashpur, Chhattisgarh",
+    "phone": "Patanjali Chikitsalaya",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.557167,83.486969;dfp"
+  },
+  {
+    "name": "Government Hospital",
+    "address": "Main Road Duldula, Duldula, Jashpur, Chhattisgarh 496334",
+    "phone": "Government Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.711683,84.105461;dfp"
+  },
+  {
+    "name": "Dr Pankaj Kumar Garg's Advance Dental Care & Implant Center",
+    "address": "Panchayati Dharmshala Complex, Jashpur Road, Pathalgaon, Chhattisgarh, Chhattisgarh 496118",
+    "phone": "Dr Pankaj Kumar Garg's Advance Dental Care & Implant Center",
+    "hours": "Open· Closes 20:00",
+    "image_url": "/th?id=OLC.d0zW2lkEoLwh0g480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Das Gupta Clinic",
+    "address": "Main Road Gumla, Near Shahid Tower Chowk, Gumla, Jharkhand 835207",
+    "phone": "Dr Das Gupta Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.041739,84.542404;dfp"
+  },
+  {
+    "name": "Dr S Sinha Clinic",
+    "address": "Jaspur Road, Near Sadar Hospital, Gumla, Jharkhand 835207",
+    "phone": "Dr S Sinha Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.035748,84.538857;dfp"
+  },
+  {
+    "name": "Patanjali Chikitsalaya",
+    "address": "Ambikapur Road, Pathalgaon, Jashpur, Chhattisgarh 496118",
+    "phone": "Patanjali Chikitsalaya",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.796709,83.700089;dfp"
+  },
+  {
+    "name": "Dr S K Jha",
+    "address": "Gumla Lohardaga Road, Near Thana Chowk, Gumla, Jharkhand 835207",
+    "phone": "Dr S K Jha",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.04978,84.541519;dfp"
+  }
+]

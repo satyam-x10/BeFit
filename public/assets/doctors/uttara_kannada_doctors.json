@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Dr. Ravi Bhat Clinic",
+    "address": "Sh93, Nataraj Movie Theater, Sirsi, Karnataka 581401",
+    "phone": "Dr. Ravi Bhat Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=14.617059,74.833984;dfp"
+  },
+  {
+    "name": "Durga Clinic",
+    "address": "Pattan Panchayat, Shop NO 1, Main Road, Ankola, Uttara Kannada, Karnataka 581314",
+    "phone": "Durga Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=14.659631,74.306541;dfp"
+  },
+  {
+    "name": "Sirsi Clinic",
+    "address": "Court Road, Devikeri Lake, Guru Nagar, Sirsi, Karnataka 581401",
+    "phone": "Sirsi Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=14.620401,74.832497;dfp"
+  },
+  {
+    "name": "Dr. Niranjan",
+    "address": "23\\2\\23\\19, 96\\30, Seetha Building, Vidhyanagar Main Road, 3RD Cross, Uttara Kannada, Karnataka 581402",
+    "phone": "Dr. Niranjan",
+    "hours": "Closed· Opens tomorrow 09:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=12.97252,77.573799;dfp"
+  },
+  {
+    "name": "Shree Sai Clinic",
+    "address": "Tempo Stand Road, Tempo Stand, Sirsi, Karnataka 581401",
+    "phone": "Shree Sai Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=14.614773,74.835983;dfp"
+  },
+  {
+    "name": "Dr Agarwals Eye clinic",
+    "address": "No 14/3/86/1, Survey No 3B, Bankapur Road, Mundgod, Next to Vishwas Supermarket, Uttara Kannada, Karnat…",
+    "phone": "Dr Agarwals Eye clinic",
+    "hours": "Open· Closes 20:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=14.969856,75.042152;dfp"
+  },
+  {
+    "name": "DR.Janu Mankikars Maternity Nursing Home",
+    "address": "DR Janu Mankikars Maternity Nursing Home, 1, OPP S B I, Subhash, Road, Kumta, Uttara Kannada, Karnataka 5…",
+    "phone": "DR.Janu Mankikars Maternity Nursing Home",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=14.424846,74.40876;dfp"
+  },
+  {
+    "name": "Shiva Clinic",
+    "address": "Devikere Road, Devikere, Sirsi, Karnataka 581401",
+    "phone": "Shiva Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=14.618761,74.832748;dfp"
+  },
+  {
+    "name": "Star Clinic",
+    "address": "Sirsi - Hubli - Belgaum Rd, Sirsi 581401",
+    "phone": "Star Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=14.613782,74.836594;dfp"
+  },
+  {
+    "name": "Suraksha Orthopaedic Hospital",
+    "address": "Pwd Road, City Muncipal Council, Koppal Colony, Sirsi, Karnataka 581401",
+    "phone": "Suraksha Orthopaedic Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=14.625829,74.833328;dfp"
+  },
+  {
+    "name": "National Clinic",
+    "address": "1332, Naseem Manzil, Jail Bhatkal, Madina Colony, Uttara Kannada, Karnataka 581320",
+    "phone": "National Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=15.475468,75.002678;dfp"
+  },
+  {
+    "name": "Dr L G Krishna Ultrasound Clinic",
+    "address": "Opposite Municipality Office Old Vivek Hospital Building, Beside Yamaha Showroom, Sirsi, Karnataka",
+    "phone": "Dr L G Krishna Ultrasound Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=14.6209,74.833603;dfp"
+  },
+  {
+    "name": "Dr. G M Hegde- Gynecologist & Fertility Specialist",
+    "address": "G M Hegde Clinic, Market Road, Uttara Kannada, Sirsi, Karnataka 581401",
+    "phone": "Dr. G M Hegde- Gynecologist & Fertility Specialist",
+    "hours": "Open· Closes 12:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=14.621406,74.832947;dfp"
+  },
+  {
+    "name": "Government Ayurvedic Hospital",
+    "address": "Yellapur Sirsi Road, Bhairumbe, Sirsi, Karnataka 581402",
+    "phone": "Government Ayurvedic Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=14.700744,74.822853;dfp"
+  }
+]

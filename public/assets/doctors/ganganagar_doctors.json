@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr. Paramjeet Kaur",
+    "address": "H-4, Model Town, Near Government Hospital, Sriganganagar, Rajasthan 335001",
+    "phone": "Dr. Paramjeet Kaur",
+    "hours": "Open· Closes 14:00",
+    "image_url": "/th?id=OLC.JcQdahkk04SpjA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Navjeevan Clinic",
+    "address": "453 Indra Colony, Sri Ganganagar, Rajasthan, Rajasthan 335001",
+    "phone": "Navjeevan Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.uOxSGZYAvX4CRg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Sourabh Aggarwal",
+    "address": "C/O Arpan Multispeciality Hospital, Near Roop Sidana Hospital, 1-B-2 Sukharia Nagar, Sri Ganganagar-Rajast…",
+    "phone": "Dr Sourabh Aggarwal",
+    "hours": "Open· Closes 14:00",
+    "image_url": "/th?id=OLC.m0HNQVriJcPClg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Yash Health Clinic",
+    "address": "Railway, Station Rd, Railway Colony, Bachhawara, Bihar",
+    "phone": "Yash Health Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.931665,73.870811;dfp"
+  },
+  {
+    "name": "Dr.opneja krishan",
+    "address": "Shakuntla Nursing Home, Ganganagar, Rajasthan 334001",
+    "phone": "Dr.opneja krishan",
+    "hours": null,
+    "image_url": "/th?id=OLC.CKmQDKML3Bnb2w480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Ajay Kumar Singla",
+    "address": "15 Suratgarh Road, Ganganagar, Rajasthan 335001",
+    "phone": "Dr. Ajay Kumar Singla",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.912848,73.873085;dfp"
+  },
+  {
+    "name": "Dr Fazal Elahi Clinic",
+    "address": "House # 5/244 Commetti Bazar, Mandi Bahauddin, 50400, Pakistan, Ganganagar 335001",
+    "phone": "Dr Fazal Elahi Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.928942,73.871468;dfp"
+  },
+  {
+    "name": "ENT Consultant at Bikaner Shishu & ENT Hospital Sriganganagar",
+    "address": "Bikaner Shishu & Ent Hospital, Sri Ganganagar, Rajasthan, Rajasthan 335001",
+    "phone": "ENT Consultant at Bikaner Shishu & ENT Hospital Sriganganagar",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr Uma Dutt Sharma Gaur Clinic",
+    "address": "Near Gaushala Road, Near Hdfc Bank, Ganganagar, Rajasthan 335901",
+    "phone": "Dr Uma Dutt Sharma Gaur Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.924694,73.875153;dfp"
+  },
+  {
+    "name": "Dr.shivani Homoeopathic Clinic - Dshc",
+    "address": "Shop No.2 Gurudawara Building Railway Station Road, Sri Ganganagar, Rajasthan, Rajasthan 335001",
+    "phone": "Dr.shivani Homoeopathic Clinic - Dshc",
+    "hours": "Closed· Opens 11:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr Sourabh Sharma Nephrologist",
+    "address": "4-e-6, Jawaharnagar, Sri Ganganagar, Rajasthan, Rajasthan 335001",
+    "phone": "Dr Sourabh Sharma Nephrologist",
+    "hours": "Open· Closes 14:00",
+    "image_url": null
+  },
+  {
+    "name": "Shuddhi Hiims ( Sri Ganganagar) Ayurveda Clinic",
+    "address": "Kochar Property Advisor, Basanti Chowk, Near Paani Tanki Road, Opposite Lakdi Aara, Sri Ganganagar, Raj…",
+    "phone": "Shuddhi Hiims ( Sri Ganganagar) Ayurveda Clinic",
+    "hours": "Open· Closes 18:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr.Kuldeep Yadav",
+    "address": "63, Payal Cinema Rd, Near SBI Bank, H Block, P Block, Sri Ganganagar, Rajasthan",
+    "phone": "Dr.Kuldeep Yadav",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.924025,73.866936;dfp"
+  },
+  {
+    "name": "Ahuja Homoeopathic Clinic",
+    "address": "100 Ahuja Homoeopathic Clinic, Adarsh Nagar, Sriganganagar, Rajasthan 335001",
+    "phone": "Ahuja Homoeopathic Clinic",
+    "hours": "Open· Closes 20:00",
+    "image_url": null
+  },
+  {
+    "name": "Gurukripa Homoeo Clinic Dr. Kavita Nagpal",
+    "address": "38 Adarsh Nagar, Opposite Adarsh Nagar Park, West Side, Near Durga Mandir, Sri Ganganagar, Rajasthan",
+    "phone": "Gurukripa Homoeo Clinic Dr. Kavita Nagpal",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.922522,73.864403;dfp"
+  },
+  {
+    "name": "Dr Pranesh Singh",
+    "address": "Sriganganagr Homoeopathic Medical College, Sri Ganganagar, Rajasthan 335002",
+    "phone": "Dr Pranesh Singh",
+    "hours": "Open· Closes 19:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.869057,73.936958;dfp"
+  },
+  {
+    "name": "Shri Guru Nanak Clinical Laboratory & E.C.G Centre",
+    "address": "NH-15, Abohar, Punjab Region 152116",
+    "phone": "Shri Guru Nanak Clinical Laboratory & E.C.G Centre",
+    "hours": "Open· Closes 21:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Gopal Krishna Rai- Gynecologist In Ganganagar",
+    "address": "Gopal Krishna Clinic, D 79, Panchayat Samiti Road, Near Raisinghnagar Sahakari Bhoomi Vikas Bank Limited, G…",
+    "phone": "Dr. Gopal Krishna Rai- Gynecologist In Ganganagar",
+    "hours": "Closed· Opens 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=29.54048,73.445396;dfp"
+  }
+]

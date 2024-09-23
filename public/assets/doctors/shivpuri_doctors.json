@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr.Sukhdev's clinic",
+    "address": "Rajeshwari Rd, Mahal Colony, Shivpuri, Madhya Pradesh",
+    "phone": "Dr.Sukhdev's clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.Hd%2bGlp6v6l%2bivQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Sk Verma",
+    "address": "Chatripura Road, Shivpuri, Madhya Pradesh 473551",
+    "phone": "Dr. Sk Verma",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.422329,77.662895;dfp"
+  },
+  {
+    "name": "Dr Richa Dubey Clinic",
+    "address": "Takia Masjid, Govind Pura, Shivpuri, Madhya Pradesh 473551",
+    "phone": "Dr Richa Dubey Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.418686,77.663696;dfp"
+  },
+  {
+    "name": "Dr D.k. Bansal",
+    "address": "Shri Ram Colony, Shivpuri, Madhya Pradesh 473551",
+    "phone": "Dr D.k. Bansal",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.427799,77.649506;dfp"
+  },
+  {
+    "name": "Dr.Suresh Jain, Asha Clinic, Mahal Road, Shivpuri MP",
+    "address": "Mahal Road, Mahal Colony, Shivpuri, Madhya Pradesh",
+    "phone": "Dr.Suresh Jain, Asha Clinic, Mahal Road, Shivpuri MP",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.420122,77.654137;dfp"
+  },
+  {
+    "name": "Adarsh Clinic",
+    "address": "Stadium Govind Pura, Jawahar Colony, Shivpuri, Madhya Pradesh 473551",
+    "phone": "Adarsh Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.415215,77.664131;dfp"
+  },
+  {
+    "name": "Sankalp Clinic",
+    "address": "Rajeshwari Road, Gurudwara Chowk, Mahal Colony, Shivpuri, Madhya Pradesh 473551",
+    "phone": "Sankalp Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.423927,77.652504;dfp"
+  },
+  {
+    "name": "Mathur Clinic",
+    "address": "Physical College Road, Income Tax Office, Indira Colony, Shivpuri, Madhya Pradesh 473551",
+    "phone": "Mathur Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.426088,77.662125;dfp"
+  },
+  {
+    "name": "Godha Poly Clinic",
+    "address": "40, Raghunath, Pura, Madhya Pradesh",
+    "phone": "Godha Poly Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.414852,77.655045;dfp"
+  },
+  {
+    "name": "Shree Krishna Clinic",
+    "address": "Barai Road, Badarwash, Shivpuri, Madhya Pradesh 473551",
+    "phone": "Shree Krishna Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.419237,77.644096;dfp"
+  },
+  {
+    "name": "Gupta Clinic",
+    "address": "Jal Mandir Road, Shiv Mandir Talkies, Indira Colony, Shivpuri, Madhya Pradesh 473551",
+    "phone": "Gupta Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.429623,77.659203;dfp"
+  },
+  {
+    "name": "Puja Clinic",
+    "address": "Puja Clinic Jal Mandir Road, New Block Colony, Shivpuri, Madhya Pradesh 473551",
+    "phone": "Puja Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.424009,77.657791;dfp"
+  },
+  {
+    "name": "Biswas Clinic",
+    "address": "Nawab Sahab Road, Shiv Temple, Chandra Colony, Shivpuri, Madhya Pradesh 473551",
+    "phone": "Biswas Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.42235,77.648529;dfp"
+  },
+  {
+    "name": "Ayush clinic & ayurvedic panchkarma center shivpuri",
+    "address": "Ayush Clinic & Ayurvedic Panchkarma Center, Jhansi Road, Shivpuri, Madhya Pradesh 473551",
+    "phone": "Ayush clinic & ayurvedic panchkarma center shivpuri",
+    "hours": "Open· Closes 20:00",
+    "image_url": null
+  },
+  {
+    "name": "Pushkar physio clinic",
+    "address": "nai ki Bagiya Rajeshwari Road Shivpuri m.p., Shivpuri, Madhya Pradesh",
+    "phone": "Pushkar physio clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Baba Ramdev Patanjali Chikitsalaya",
+    "address": "Gurudwara Chowk, Shivpuri, Madhya Pradesh 473551",
+    "phone": "Baba Ramdev Patanjali Chikitsalaya",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.421442,77.656738;dfp"
+  },
+  {
+    "name": "Dr.Sanjay Sharma Homeopathy Shivpuri",
+    "address": "A B Road Badarwas, Badarwas, Near BY Gwal Mohalla, Shivpuri, Madhya Pradesh 473770",
+    "phone": "Dr.Sanjay Sharma Homeopathy Shivpuri",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr Lal Pathlabs Shivpuri",
+    "address": "Hospital Chauraha, Manglam Market, Kotwali Rd, Near Parashar Sport, Shivpuri, Madhya Pradesh",
+    "phone": "Dr Lal Pathlabs Shivpuri",
+    "hours": null,
+    "image_url": null
+  }
+]

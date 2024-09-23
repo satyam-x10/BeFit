@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Dhubri Clinic",
+    "address": "N S Road, Dhubri, Assam 783301",
+    "phone": "Dhubri Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.02319,89.983002;dfp"
+  },
+  {
+    "name": "Dr Lal PathLabs",
+    "address": "H.N.Road, Dhubri, Assam-783301, Dhubri, Assam 783301",
+    "phone": "Dr Lal PathLabs",
+    "hours": "Open· Closes 19:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.019484,89.987663;dfp"
+  },
+  {
+    "name": "Dr. Anes Diagnostic Centre",
+    "address": "2xcm+4v9, Cr Das Rd, Near Hari Sabha, Boro Bazar, Assam 783301",
+    "phone": "Dr. Anes Diagnostic Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.015062,89.980858;dfp"
+  },
+  {
+    "name": "Dhubri Homoeo Clinic",
+    "address": "Harirhat Bazar, Dhubri, Assam",
+    "phone": "Dhubri Homoeo Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.018999,89.996201;dfp"
+  },
+  {
+    "name": "Dr. N.Hussain",
+    "address": "Janifa Medical Store, Lakhiganj Main Road, P.O.Lakhiganj, Dhubri, Assam",
+    "phone": "Dr. N.Hussain",
+    "hours": "Closed· Opens 17:00",
+    "image_url": "/th?id=OLC.jRbjg0nKSVShjg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Apollo Dialysis Clinics",
+    "address": "Civil Hospital, Dhubri, Assam 783301",
+    "phone": "Apollo Dialysis Clinics",
+    "hours": "Open· Closes 21:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.035357,89.964615;dfp"
+  },
+  {
+    "name": "Asha Veterinary Poly Clinic",
+    "address": "NEW Market, Goaltuli Road, Goalpara, Assam 783101",
+    "phone": "Asha Veterinary Poly Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.024015,89.983177;dfp"
+  }
+]

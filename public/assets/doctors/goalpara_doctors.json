@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Solace Hospital And Research Centre",
+    "address": "Agia Road, Kismotpur, Goalpara, Assam 783121, India, Goalpara, Assam 783121",
+    "phone": "Solace Hospital And Research Centre",
+    "hours": null,
+    "image_url": "/th?id=OLC.gg7jt5KIzaLHKg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "বৰপেটা পলিক্লিনিক | Barpeta Polyclinic | a Multi Specialty Doctor Clinic",
+    "address": "Polyclinic RJP Road, Near Veterinary Hospital, Barpeta, Assam",
+    "phone": "বৰপেটা পলিক্লিনিক | Barpeta Polyclinic | a Multi Specialty Doctor Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.7MxU9ToU7iCeWQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Saiful Islam Bhuyan",
+    "address": "Udaynagar, Agla Road, Near Life Care Hospital, Goalpara, Assam 783121",
+    "phone": "Dr. Saiful Islam Bhuyan",
+    "hours": "Open· Closes 12:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.161478,90.619125;dfp"
+  },
+  {
+    "name": "Dr. Dipankar Das- Interventional Cardiologist",
+    "address": "Solace Hospital, Agia Road, Goalpara, Assam 783101",
+    "phone": "Dr. Dipankar Das- Interventional Cardiologist",
+    "hours": "Closed· Opens Wed 09:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.164644,90.625015;dfp"
+  },
+  {
+    "name": "Dr Hrishikesh Kalita, Psychiatrist",
+    "address": "Braincure, Bapujinagar, Near Bank of India, Assam, Pin-783101, Goalpara, Assam 783101",
+    "phone": "Dr Hrishikesh Kalita, Psychiatrist",
+    "hours": "Open· Closes 19:00",
+    "image_url": "/th?id=OLC.RoSeaoJGQ%2biM%2fg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Azharul Islam",
+    "address": "Agia, Road, Baladmari, Goalpara, Assam",
+    "phone": "Dr. Azharul Islam",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.149153,90.616028;dfp"
+  },
+  {
+    "name": "DR.Dulan Baglari",
+    "address": "Baladmari, Balijana, Agia Road, Goalpara, Assam 783101",
+    "phone": "DR.Dulan Baglari",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.146027,90.650879;dfp"
+  },
+  {
+    "name": "Dr APJ Abdul Kalam Science Academy",
+    "address": "Khalisabhita Road, Dhumerghat, Goalpara, Assam",
+    "phone": "Dr APJ Abdul Kalam Science Academy",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Patanjali Chikitsalaya",
+    "address": "Main Road, Barpeta Road, Near Central Bank, Barpeta Road, Assam",
+    "phone": "Patanjali Chikitsalaya",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.157843,90.619247;dfp"
+  },
+  {
+    "name": "Arogya Clinic Diagnostic Centre",
+    "address": "Ward NO 16, Agia Road, Hedayatpur, Goalpara, Assam 783101",
+    "phone": "Arogya Clinic Diagnostic Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.16877,90.624802;dfp"
+  },
+  {
+    "name": "Apollo Dialysis",
+    "address": "Apollo Dialysis Clinic National High way 37, Goalpara Civil Hospital, Bhalukdubi, Assam 783121",
+    "phone": "Apollo Dialysis",
+    "hours": "Open· Closes 22:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.141718,90.610008;dfp"
+  },
+  {
+    "name": "Goalpara Cancer care ACCF",
+    "address": "4JV6+4FW, Bhalukdubi, Assam",
+    "phone": "Goalpara Cancer care ACCF",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.14106,90.609161;dfp"
+  },
+  {
+    "name": "Dr. Dhulikana Medhi",
+    "address": "K.C.Das Nursing Home, Birubari, Guwahati, Assam, India, 783101, Guwahati, Madhya Pradesh 783101",
+    "phone": "Dr. Dhulikana Medhi",
+    "hours": "Open· Closes 14:00",
+    "image_url": null
+  },
+  {
+    "name": "Help care pharmacy and diagnostic centre",
+    "address": "Unnamed Road, Satra Kanara N.C, Assam",
+    "phone": "Help care pharmacy and diagnostic centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.144241,90.665977;dfp"
+  }
+]

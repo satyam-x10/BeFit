@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr Shah",
+    "address": "Gujarat Sh10, Idar, Gujarat 383430",
+    "phone": "Dr Shah",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.834112,73.000305;dfp"
+  },
+  {
+    "name": "Dr. Paresh Kumar Bhumilal Mehta- General Physician",
+    "address": "Pareshkumar Bhumilal Mehta Clinic, St Stand, Sabarkantha, Gujarat 383255",
+    "phone": "Dr. Paresh Kumar Bhumilal Mehta- General Physician",
+    "hours": "Open· Closes 12:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.59236,72.957214;dfp"
+  },
+  {
+    "name": "Dr. Parth Doshi- Orthopedist",
+    "address": "Parshwa Surgical Hospital, Sabarkantha Nh- 76A, Opp. Bus Stand Ider, Sabarkadha Road, Idar, Gujarat 383410",
+    "phone": "Dr. Parth Doshi- Orthopedist",
+    "hours": "Open· Closes 19:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.834019,72.999031;dfp"
+  },
+  {
+    "name": "Dr. Riya Suresh Chaudhary- BAMS in Ganthiyol",
+    "address": "Dr. Riya Suresh, Patel Fali, Ganthiyol, Idar, Gujarat 383410",
+    "phone": "Dr. Riya Suresh Chaudhary- BAMS in Ganthiyol",
+    "hours": "Open· Closes 18:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.839518,73.000687;dfp"
+  },
+  {
+    "name": "Dr. Kashyap Vora- General Physician",
+    "address": "Kashyap Clinic, Himatnagar, Sabarkatha, Gujarat 383001",
+    "phone": "Dr. Kashyap Vora- General Physician",
+    "hours": "Open· Closes 13:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.592672,72.948143;dfp"
+  },
+  {
+    "name": "Bhagyoday Clinic",
+    "address": "Pusri Road Rojad, Himatnagar, Gujarat 383307",
+    "phone": "Bhagyoday Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.59672,72.959602;dfp"
+  },
+  {
+    "name": "Runanubandh - Dr. Ruchira Trivedi",
+    "address": "Near, Second Floor Janta Super Market, Gopinala, Mehsana, Gujarat",
+    "phone": "Runanubandh - Dr. Ruchira Trivedi",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.5954,72.960297;dfp"
+  },
+  {
+    "name": "Dr.Hardik Ayurved Hospital",
+    "address": "Samved Complex, Near Pratapgadh Petrol Pump, Opposite To Post Office, Himatnagar, Gujarat, Gujarat …",
+    "phone": "Dr.Hardik Ayurved Hospital",
+    "hours": "Open· Closes 16:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Prajval Sorathia- Gynaecologist",
+    "address": "Vardaan Women's Hospital, Kavi Shree Umashankar Joshi Bridge, Near Mehta Petrol Pump, Vidhya Nagari, …",
+    "phone": "Dr. Prajval Sorathia- Gynaecologist",
+    "hours": "Closed· Opens 16:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.589846,72.954704;dfp"
+  },
+  {
+    "name": "JK Orthopaedic Hospital",
+    "address": "1012142/1/1-1995, Behind Mehta Petrol Pump, Near S.T. Stand, Near, Girdharnagar, Himmatnagar, Sabarkantha…",
+    "phone": "JK Orthopaedic Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.590378,72.956543;dfp"
+  },
+  {
+    "name": "Kotiyark Clinic",
+    "address": "Shreyas Vidhyalay, Himatnagar, Gujarat 383001",
+    "phone": "Kotiyark Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.592014,72.969009;dfp"
+  },
+  {
+    "name": "Shriji Clinic",
+    "address": "AT Post, Derol Derol Vilage Vadali, Sabarkantha, Gujarat 383255",
+    "phone": "Shriji Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.077984,73.123672;dfp"
+  },
+  {
+    "name": "Akshar Homoeopathic Clinic",
+    "address": "Gujarat Sh9, Himatnagar Bus Station, Hajipura, Himatnagar, Gujarat 383001",
+    "phone": "Akshar Homoeopathic Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.592817,72.958145;dfp"
+  },
+  {
+    "name": "Umiya Clinic Dr.harshad Patel",
+    "address": "22rx+2p8, Khedbrahma, Gujarat 383255, India, Khedbrahma, Gujarat 383255",
+    "phone": "Umiya Clinic Dr.harshad Patel",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=24.040054,73.049393;dfp"
+  },
+  {
+    "name": "Rakshati Ayurved & Homoeo Care Clinic.",
+    "address": "Rakshati Ayurved & Homoeo Care Clinic, A- 1, 2 Pavan City, opp. Umiya Mandir, Megharaj Road, Modasa, Guj…",
+    "phone": "Rakshati Ayurved & Homoeo Care Clinic.",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Gajanan Homoeo Clinic",
+    "address": "Safal Complex, Ground Floor, Near Aagwan TVS, Himatnagar, Gujarat",
+    "phone": "Gajanan Homoeo Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.59589,72.969147;dfp"
+  },
+  {
+    "name": "Jalaram Clinic",
+    "address": "15, Aproch Road, Prantij, Sabarkantha, Gujarat 383205",
+    "phone": "Jalaram Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.590073,72.974075;dfp"
+  },
+  {
+    "name": "Dr shukal brothers dental clinic",
+    "address": "Dr Shukal Dental Clinic Near Lic Office Approach Road Bhakhria Prantij, Prantij, Gujarat, Gujarat 383205",
+    "phone": "Dr shukal brothers dental clinic",
+    "hours": null,
+    "image_url": null
+  }
+]

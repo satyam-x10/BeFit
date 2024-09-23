@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr. Vishal Gandhi",
+    "address": "G53, Indiabulls Megamall, Jetalpur Road, Sayajigunj, Vadodara, Gujarat, Gujarat 390005",
+    "phone": "Dr. Vishal Gandhi",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.305405,73.179726;dfp"
+  },
+  {
+    "name": "Sri Sri Clinic Dr. Mehta.",
+    "address": "14, First Floor Kalpu Complex, Kalyan Hall Gipcl Circle Sama Road Vadodara, Vadodara, Gujarat, Gujarat 390…",
+    "phone": "Sri Sri Clinic Dr. Mehta.",
+    "hours": null,
+    "image_url": "/th?id=OLC.6JlJixd%2b9rnWSw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Bhagat's Clinic",
+    "address": "Vasna Road, Vadodara, Gujarat 390007",
+    "phone": "Dr. Bhagat's Clinic",
+    "hours": "Open· Closes 19:00",
+    "image_url": "/th?id=OLC.mJ3ceKBk9CYbdQ480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "POOJA CLINIC | Dr Jignesh Patel",
+    "address": "Opposite Polish Station, Waghodia, Gujarat",
+    "phone": "POOJA CLINIC | Dr Jignesh Patel",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.310204,73.181969;dfp"
+  },
+  {
+    "name": "Dr Mukesh Trivedi",
+    "address": "Snehsudha Apartment, Vip Road, Vadodara, Gujarat 390022",
+    "phone": "Dr Mukesh Trivedi",
+    "hours": "Open· Closes 12:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.327141,73.204483;dfp"
+  },
+  {
+    "name": "Dr. Rohan Desai",
+    "address": "S 36, Gyananand Greens, Landmark : Behind Kahna City, Beside Darsanam Villa Sayaji Township Road, Va…",
+    "phone": "Dr. Rohan Desai",
+    "hours": "Closed· Opens 16:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.318472,73.138634;dfp"
+  },
+  {
+    "name": "Dr Seema Bhatwadekar",
+    "address": "101, Berry Plaza, 11/a, Shinagar Society, Abv Samsung Showroom N, Vadodara, Gujarat 390020",
+    "phone": "Dr Seema Bhatwadekar",
+    "hours": "Closed· Opens 11:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.295675,73.175865;dfp"
+  },
+  {
+    "name": "Dr Rahul Shukla",
+    "address": "Pramukhswami Nagar, Old Padra Road Bh Reliance Mega Mall, Vadodara, Gujarat, Gujarat 390020",
+    "phone": "Dr Rahul Shukla",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Shreeji clinic ( Dr Naresh M Shah)",
+    "address": "Uncle Sams Pizza Lane, G 3&4, Shree Dwarkesh Complex, Behind Laxmi Hall, 92A, Sampatrao Colony, …",
+    "phone": "Shreeji clinic ( Dr Naresh M Shah)",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.309811,73.176041;dfp"
+  },
+  {
+    "name": "Dr Kirti Parikh",
+    "address": "Kirti Complex, Vadodara, Gujarat 390019",
+    "phone": "Dr Kirti Parikh",
+    "hours": "Open· Closes 12:30",
+    "image_url": null
+  },
+  {
+    "name": "Dr Manoj Yadav",
+    "address": "Kailash Hospital, Kailash Complex Near Mahadev Temple, Productivity Road, Alkapuri, Vadodara, Gujara…",
+    "phone": "Dr Manoj Yadav",
+    "hours": "Open· Closes 13:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.307049,73.173454;dfp"
+  },
+  {
+    "name": "Dr. Ashwin K. Seth Clinic",
+    "address": "98, Sampatrao Colony, Alkapuri, Landmark: Productivity Road, Vadodara, Gujarat",
+    "phone": "Dr. Ashwin K. Seth Clinic",
+    "hours": "Open· Closes 13:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr.n.c.thakkar",
+    "address": "Hathikhana Main Rd, Vadodara, Gujarat 390006",
+    "phone": "Dr.n.c.thakkar",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Shah Dr Rakesh B",
+    "address": "11, Amar Complex, Ground Floor, Baroda, Gujarat 390008",
+    "phone": "Shah Dr Rakesh B",
+    "hours": "Open· Closes 13:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.339779,73.193108;dfp"
+  },
+  {
+    "name": "Dr Amul S Pandya",
+    "address": "Pragati Apartment, Duttvihar Society, Race Course, Vadodara, Gujarat 390005",
+    "phone": "Dr Amul S Pandya",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. K C Patel",
+    "address": "15, Jetalpur Road, Vadodara, Gujarat 390005",
+    "phone": "Dr. K C Patel",
+    "hours": "Closed· Opens 12:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Reema Solanki Chauhan",
+    "address": "156 Prince Villa Phase 2, B/H Collabera, Gotri Sevasi Road, Vadodara, Gujarat",
+    "phone": "Dr. Reema Solanki Chauhan",
+    "hours": "Open· Closes 13:30",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Rajiv Shah",
+    "address": "Jail Road, S.S.G. Hospital, Vadodara, Gujarat 390001",
+    "phone": "Dr. Rajiv Shah",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.308884,73.18589;dfp"
+  }
+]

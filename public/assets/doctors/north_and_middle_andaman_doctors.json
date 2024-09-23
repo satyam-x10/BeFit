@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Marm Ayurveda Hospital",
+    "address": "Kamsaret Dam Road, Wimberlygunj, Andaman and Nicobar Islands",
+    "phone": "Marm Ayurveda Hospital",
+    "hours": null,
+    "image_url": "/th?id=OLC.4ghjMp9TnhKUpw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Nikhil's Multi Speciality Hospital",
+    "address": "Krishnapur Road, Subash Gram, Diglipur, North & Middle Andaman, Andaman & Nicobar Islands, India, Diglipur, …",
+    "phone": "Dr. Nikhil's Multi Speciality Hospital",
+    "hours": null,
+    "image_url": "/th?id=OLC.Un5mmh6tQ76mSA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Apollo Clinic",
+    "address": "No – 192, Garacharma Main Road, Port Blair 744103",
+    "phone": "Apollo Clinic",
+    "hours": "Open· Closes 20:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.606019,92.705841;dfp"
+  },
+  {
+    "name": "DR. Anand's Swasthya Hospital",
+    "address": "90\\3\\8, Near Rsn Godown, Old Pahargaon, Po Dollygunj, Atr, Port Blair, South Andaman 744103",
+    "phone": "DR. Anand's Swasthya Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=11.681599,92.724289;dfp"
+  },
+  {
+    "name": "Dr. Shanti's Dental Care Centre",
+    "address": "1st Floor, Bathu Basthi JN, Beside Axis Bank LTD, Port Blair, Andaman and Nicobar Islands 744105",
+    "phone": "Dr. Shanti's Dental Care Centre",
+    "hours": "Open· Closes 13:00",
+    "image_url": "/th?id=OLC.BwlHh%2fPkF9ULJg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  }
+]

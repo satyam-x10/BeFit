@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Dr. Vijay Shrivas",
+    "address": "Bilaspur City Centre, CMD Squar Link Road, Nehru Nagar, Bilaspur, Chhattisgarh",
+    "phone": "Dr. Vijay Shrivas",
+    "hours": "Closed · Opens 11:30",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.071651,82.159401;dfp"
+  },
+  {
+    "name": "Dr. Ashish Jaiswal",
+    "address": "Apollo Hospital, Seepat Road, Bilaspur, Chhattisgarh 495001",
+    "phone": "Dr. Ashish Jaiswal",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.8O6t7Za4oxF7jQ480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Deepti Mishra- General Physician",
+    "address": "Ladikar Hospital, Bus Stand Road, Beside Of Satya Automobile, Opp. Jeet Talkies, Bilaspur, Chhattisgarh 4…",
+    "phone": "Dr. Deepti Mishra- General Physician",
+    "hours": "Closed · Opens 11:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.075071,82.158035;dfp"
+  },
+  {
+    "name": "Dr. Mugdha Ladikar Jadhav- Obs & Gyane",
+    "address": "Ladikar Multi-Specilality Hospital, Besides Satya Automobiles, Old Busstand Road, Bilaspur, Chhattisgar…",
+    "phone": "Dr. Mugdha Ladikar Jadhav- Obs & Gyane",
+    "hours": "Closed · Opens 11:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.075056,82.158035;dfp"
+  },
+  {
+    "name": "Dr Akhilesh Deoras",
+    "address": "Wasudeo Clinic & Nursing Home Main Road, Tilak Nagar, Bilaspur 495001",
+    "phone": "Dr Akhilesh Deoras",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.RnOP34iAZiJrww480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Mohan Gupta",
+    "address": "Apollo Hospitals, Seepat Road, Bilaspur (c.g.), Apollo Hospitals Bilaspur, Bilaspur, Chhattisgarh 495006",
+    "phone": "Dr. Mohan Gupta",
+    "hours": "Closed · Opens 11:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.102404,82.173149;dfp"
+  },
+  {
+    "name": "Dr Batra’s Homeopathy, Hair & Skin Clinic",
+    "address": "1st Floor, CMD Chowk, Link Road, Bilaspur, Chhattisgarh 495001",
+    "phone": "Dr Batra’s Homeopathy, Hair & Skin Clinic",
+    "hours": "Closed · Opens 11:00",
+    "imageUrl": "https://th.bing.com/th?id=OLC.9CwvK6SmwfoLRA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Homoeo Health Clinic",
+    "address": "1ST Floor Pitrichhaya Tower Deorikhurd Ward NO. 43, Main Road Deorikhurd, Bilaspur, Chhattisgarh 495004",
+    "phone": "Homoeo Health Clinic",
+    "hours": null,
+    "imageUrl": null
+  },
+  {
+    "name": "Dr Sangeeta Verma Clinic",
+    "address": "Gaurav Path Road, Shanti Nagar, Bilaspur, Chhattisgarh 495001",
+    "phone": "Dr Sangeeta Verma Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.088291,82.125336;dfp"
+  },
+  {
+    "name": "Dr. Vijay Kupatkar (md)",
+    "address": "Cg Complex, Bilaspur, Chhattisgarh, Chhattisgarh 495001",
+    "phone": "Dr. Vijay Kupatkar (md)",
+    "hours": null,
+    "imageUrl": "https://th.bing.com/th?id=OLC.d%2b0pJ5JQXts9XA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Sushil Kumar",
+    "address": "Seepat Road, Bilaspur, Chhattisgarh",
+    "phone": "Dr. Sushil Kumar",
+    "hours": "Closed · Opens 09:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.071156,82.159286;dfp"
+  },
+  {
+    "name": "Dr. Vijay Shrivas - Best Diabetologist City Centre Bilaspur",
+    "address": "Apollo Sugar Clinic, Bilaspur(City Centre), Cmdsquar Link Road, Bilaspur, Chhattisgarh 495001",
+    "phone": "Dr. Vijay Shrivas - Best Diabetologist City Centre Bilaspur",
+    "hours": "Closed · Opens 08:30",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.077459,82.151848;dfp"
+  },
+  {
+    "name": "Dr. Atanu Bhattacharya - Best Emergency Care Physician",
+    "address": "Apollo Hospitals, Seepat Road, Bilaspur (c.g.), Apollo Hospitals Bilaspur, Bilaspur, Chhattisgarh",
+    "phone": "Dr. Atanu Bhattacharya - Best Emergency Care Physician",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.098307,82.143791;dfp"
+  },
+  {
+    "name": "Dr. Arun Kumar Balani",
+    "address": "Shubham Vihar, Mungeli Road, Bilaspur, Chhattisgarh",
+    "phone": "Dr. Arun Kumar Balani",
+    "hours": "Closed · Opens Sep 28 at 10:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.094116,82.121391;dfp"
+  },
+  {
+    "name": "Dr V Bhanumati Clinic",
+    "address": "Tikarapara Main Road, Tikrapara, Bilaspur, Chhattisgarh 495001",
+    "phone": "Dr V Bhanumati Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.069714,82.173729;dfp"
+  },
+  {
+    "name": "Dr. Anil Mokasdar",
+    "address": "Apollo Hospitals, Seepat Road, Bilaspur (c.g.), Apollo Hospitals Bilaspur, Bilaspur, Chhattisgarh 495006",
+    "phone": "Dr. Anil Mokasdar",
+    "hours": "Closed · Opens 09:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.102404,82.173149;dfp"
+  },
+  {
+    "name": "Dr. Vinay Gupta",
+    "address": "Ware House Road, Bilaspur, Chhattisgarh",
+    "phone": "Dr. Vinay Gupta",
+    "hours": "Closed · Opens 10:30",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.085136,82.138725;dfp"
+  },
+  {
+    "name": "Sai Clinic Bilaspur - Dr. Siddharth Kumar Orthopedic | Joint Replacement | Arthroscopy Surgeon",
+    "address": "HIG A23, Seepat Rd, Near Science College Road, Songanga Colony, Sarkanda, Bilaspur, Chhattisgarh",
+    "phone": "Sai Clinic Bilaspur - Dr. Siddharth Kumar Orthopedic | Joint Replacement | Arthroscopy Surgeon",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.0966,82.166237;dfp"
+  },
+  {
+    "name": "Dr. Vijay Shrivas",
+    "address": "Bilaspur City Centre, CMD Squar Link Road, Nehru Nagar, Bilaspur, Chhattisgarh",
+    "phone": "Dr. Vijay Shrivas",
+    "hours": "Closed · Opens 11:30",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=22.071651,82.159401;dfp"
+  },
+  {
+    "name": "Dr. Ashish Jaiswal",
+    "address": "Apollo Hospital, Seepat Road, Bilaspur, Chhattisgarh 495001",
+    "phone": "Dr. Ashish Jaiswal",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.8O6t7Za4oxF7jQ480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  }
+]

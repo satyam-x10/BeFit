@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Dr. Prabhat Kumar",
+    "address": "Sadar Hospital Road (In Front of red Cross Society, Khagaria, Bihar",
+    "phone": "Dr. Prabhat Kumar",
+    "hours": null,
+    "image_url": "/th?id=OLC.5zw5iNv%2fAlIoAw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Tarun Vijay Clinic",
+    "address": "Gopalpur, Motihari, Bihar 845401",
+    "phone": "Dr Tarun Vijay Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.638065,84.902725;dfp"
+  },
+  {
+    "name": "Dr Dinesh Kumar",
+    "address": "Pakari Dayal Road, Chhatauni Main Market, Motihari, Bihar 845401",
+    "phone": "Dr Dinesh Kumar",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.639545,84.902893;dfp"
+  },
+  {
+    "name": "Hariram clinic",
+    "address": "Opposite- Town Police Station, Hospital Road, Motihari Bihar, Bihar 845401",
+    "phone": "Hariram clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.Dobkbj%2beG9QosQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Basu Kumar Singh Clinic",
+    "address": "Hospital Road, Near Sadar Hospital, Sri Krishna Nagar, Motihari, Bihar",
+    "phone": "Dr Basu Kumar Singh Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.644545,84.918091;dfp"
+  },
+  {
+    "name": "Dr. GS Tripathi",
+    "address": "Hospital Road, Motihari, Bihar 845401",
+    "phone": "Dr. GS Tripathi",
+    "hours": null,
+    "image_url": "/th?id=OLC.M6%2bjmqiH0tgfww480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr.B.Pandey(Homoeopathic Clinic)",
+    "address": "Ward No. 30, Drs.Kumar Gaurav Sawarni, Khushboo Kumari, Sk Nagar, Shri Krishna Nagar, Motihari, East C…",
+    "phone": "Dr.B.Pandey(Homoeopathic Clinic)",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.649158,84.90094;dfp"
+  },
+  {
+    "name": "Vardhan's homoeopathic clinic",
+    "address": "Balua Sabji Bazar, Balua tal, East Champaran, Motihari, Bihar 845401",
+    "phone": "Vardhan's homoeopathic clinic",
+    "hours": "Open· Closes 20:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr R K Dubey Clinic",
+    "address": "Baudh Stupa, Road, Kesariya, A, East Champaran, Bihar 845424",
+    "phone": "Dr R K Dubey Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.645914,84.903587;dfp"
+  },
+  {
+    "name": "Sunaina Homoeo Clinic",
+    "address": "Room No -3, Chandmari Chock \"Inside the Motihari Co-Operative Development & Cane Union Ltd Motihari, Bih…",
+    "phone": "Sunaina Homoeo Clinic",
+    "hours": "Open· Closes 15:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr M P Verma Ortho Clinic",
+    "address": "Gopalpur, Motihari, Bihar 845401",
+    "phone": "Dr M P Verma Ortho Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.639641,84.903198;dfp"
+  },
+  {
+    "name": "Sri Baidyanath Diabetes Clinic",
+    "address": "Balua Tal, Azad Nagar Rd, Motihari, Bihar",
+    "phone": "Sri Baidyanath Diabetes Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.649279,84.901199;dfp"
+  },
+  {
+    "name": "Dr Sp Singh Ayurvedic College and Hospital",
+    "address": "Balganga, Motihari, Areraj Road, Motihari, Bihar 845401",
+    "phone": "Dr Sp Singh Ayurvedic College and Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.639311,84.894485;dfp"
+  },
+  {
+    "name": "Shree Ram Ayurvedic Clinic",
+    "address": "Ground Floor, Sukhalahiya, Chhauradano, Pipra Road Sukhalahiya, Darpa, East Champaran, Bihar 845302",
+    "phone": "Shree Ram Ayurvedic Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.632872,84.902702;dfp"
+  },
+  {
+    "name": "Dr.Lal Path Lab Motihari",
+    "address": "204, SH 54, Bhawanipur Zirat, Motihari, Bihar",
+    "phone": "Dr.Lal Path Lab Motihari",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.64448,84.908188;dfp"
+  },
+  {
+    "name": "Dr. Pratyush Kumar Mishra",
+    "address": "Manguraha, Areraj, District - East Champaran, Purba Champaran, Bihar",
+    "phone": "Dr. Pratyush Kumar Mishra",
+    "hours": "Closed· Opens Sep 29 at 10:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr.manish Motihari",
+    "address": "Vill Pipra Kothi Baltharwa, Motihari, Bihar 845429",
+    "phone": "Dr.manish Motihari",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.566071,84.944901;dfp"
+  }
+]

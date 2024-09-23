@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Dr. Nerish Kumar | Sri Ram Clinic",
+    "address": "Nagla Kali Samsavad Road Agra, Agra, Uttar Pradesh, India, 282001, Agra, Madhya Pradesh 282001",
+    "phone": "Dr. Nerish Kumar | Sri Ram Clinic",
+    "hours": "Closed · Opens 18:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.kpdvLaXJZpjuuA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr.Pengoria Hospital",
+    "address": "Rajpur Chungi, Agra, Uttar Pradesh 282001",
+    "phone": "Dr.Pengoria Hospital",
+    "hours": "Closed · Opens 11:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.153502,78.034164;dfp"
+  },
+  {
+    "name": "Dr. Pavan Jain",
+    "address": "6/106, Dakhnai Gate, Taj Ganj, Landmark: Churasia Chemist, Agra, Agra 282001",
+    "phone": "Dr. Pavan Jain",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.sLBbZYavX5NWUw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. A.K. Gupta",
+    "address": "Shamshabad Road, Near Shankar Temple, Kehari, Agra, Uttar Pradesh 282001",
+    "phone": "Dr. A.K. Gupta",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.151606,78.033806;dfp"
+  },
+  {
+    "name": "Dr Himanshu Yadav's Clinic",
+    "address": "Anupam Plaza Sitla Gali, Agra, Uttar Pradesh 282002",
+    "phone": "Dr Himanshu Yadav's Clinic",
+    "hours": "Closed · Opens 08:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.190056,78.011559;dfp"
+  },
+  {
+    "name": "Dr Nitish Gupta",
+    "address": "Shop No 8, Shiv Shanti Complex, Minto Rd, Shamshabad Road, Rajpur Chungi, Agra, Uttar Pradesh 282001",
+    "phone": "Dr Nitish Gupta",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.ot%2f2bSq99yj5pA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Y.P. Singh",
+    "address": "Dr Shyamlal Marg, Near Maa Durga Mandir, Paktola, Tajganj, Agra, Uttar Pradesh 282001",
+    "phone": "Dr. Y.P. Singh",
+    "hours": null,
+    "imageUrl": "https://th.bing.com/th?id=OLC.NjOG5YQu4%2biBgQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. K. D. Gupta",
+    "address": "14, Pachkuiya Chauraha. Landmark: Near Mathura Vaishya Mahasabha Bhawan, Agra, Agra 282010",
+    "phone": "Dr. K. D. Gupta",
+    "hours": "Closed · Opens 11:30",
+    "imageUrl": "https://th.bing.com/th?id=OLC.nfdQ0yg%2b8pWYfg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Varun Chaudhary's Clinic",
+    "address": "Dayal Bagh Poiya Ghat Road, Near Dr. Lal Bahadur Singh Chauhan, Indra Puri, New Agra Colony, Agra, Utt…",
+    "phone": "Dr Varun Chaudhary's Clinic",
+    "hours": "Closed · Opens 13:00",
+    "imageUrl": "https://th.bing.com/th?id=OLC.ee7k%2fDA8fb0Erg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Narayan Clinic",
+    "address": "Fatehabad Road, Near Shiv Temple, Paktola, Tajganj, Agra, Uttar Pradesh 282001",
+    "phone": "Dr. Narayan Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.162571,78.049438;dfp"
+  },
+  {
+    "name": "Dr Devashish Sharma",
+    "address": "Bone Hospital (Dr D.V. Sharma), Pratap Pura New Adarsh Nagar Colony, Mahatma Gandhi Road, Agra, Ut…",
+    "phone": "Dr Devashish Sharma",
+    "hours": "Open 24 hours",
+    "imageUrl": "https://th.bing.com/th?id=OLC.sBemy%2bguRq1qhw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Shalini Gupta Clinic",
+    "address": "Near Pakki Saraya Road, Tajganj, Shaheed Nagar, Agra, Uttar Pradesh 282001",
+    "phone": "Dr. Shalini Gupta Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.153959,78.03817;dfp"
+  },
+  {
+    "name": "Dr. Rakesh Gautam Clinic",
+    "address": "Dr Shyamlal Marg, Near Raj Jewelers, Paktola, Tajganj, Agra, Uttar Pradesh 282001",
+    "phone": "Dr. Rakesh Gautam Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.166035,78.042709;dfp"
+  },
+  {
+    "name": "Dr. Prabhat Agrawal",
+    "address": "27/144, Panchkuiyan Rd, Ashok Nagar, Shahganj, Agra, Agra 282002",
+    "phone": "Dr. Prabhat Agrawal",
+    "hours": "Closed · Opens 14:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.188953,77.998421;dfp"
+  },
+  {
+    "name": "Dr. Dipak Paruliya",
+    "address": "Maitri Urology & Stone Clinic, Shanti Madhuvan Plaza, Delhi Gate, Near Puspanjali Hospital, Agra, Uttar Prade…",
+    "phone": "Dr. Dipak Paruliya",
+    "hours": "Closed · Opens 11:30",
+    "imageUrl": "https://th.bing.com/th?id=OLC.6AWDYHdcZolZbA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Deepali Clinic",
+    "address": "Saheed Nagar Road, Shaheed Nagar, Tajganj, Agra, Uttar Pradesh 282001",
+    "phone": "Dr. Deepali Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.155535,78.034554;dfp"
+  },
+  {
+    "name": "Dr. Bengali Clinic",
+    "address": "Ukhara Road, Near Bollywood Dance Academy, Sainik Nagar, Agra, Uttar Pradesh 282001",
+    "phone": "Dr. Bengali Clinic",
+    "hours": null,
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.157507,78.044411;dfp"
+  },
+  {
+    "name": "KJ Homoeopathic clinic",
+    "address": "157, Akashwani Road Rajpur Chungi, Near Arti Manoj Hospital, Agra, Agra, Uttar Pradesh, Uttar Pradesh 282…",
+    "phone": "KJ Homoeopathic clinic",
+    "hours": "Closed · Opens 10:00",
+    "imageUrl": "https://th.bing.com/th?id=OLC.oakvfaTSQMr4eQ480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Nerish Kumar | Sri Ram Clinic",
+    "address": "Nagla Kali Samsavad Road Agra, Agra, Uttar Pradesh, India, 282001, Agra, Madhya Pradesh 282001",
+    "phone": "Dr. Nerish Kumar | Sri Ram Clinic",
+    "hours": "Closed · Opens 18:00",
+    "imageUrl": "https://www.bing.com/th?id=OLC.kpdvLaXJZpjuuA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr.Pengoria Hospital",
+    "address": "Rajpur Chungi, Agra, Uttar Pradesh 282001",
+    "phone": "Dr.Pengoria Hospital",
+    "hours": "Closed · Opens 11:00",
+    "imageUrl": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.153502,78.034164;dfp"
+  }
+]

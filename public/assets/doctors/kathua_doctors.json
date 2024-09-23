@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Pathak Medicos",
+    "address": "Ward No 04, Krishna Marg, Kathua 184101",
+    "phone": "Pathak Medicos",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=32.374088,75.522926;dfp"
+  },
+  {
+    "name": "Patanjali Chikitsalaya",
+    "address": "Ward No 5, College Road, Jammu 184101",
+    "phone": "Patanjali Chikitsalaya",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=32.376396,75.522514;dfp"
+  },
+  {
+    "name": "Kathua Homoeopathic Clinic",
+    "address": "Ward No 1, Kathua 184101",
+    "phone": "Kathua Homoeopathic Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=32.373699,75.520958;dfp"
+  },
+  {
+    "name": "Dr Lal PathLabs - Patient Service Centre",
+    "address": "Ground Floor, Kathua 184101",
+    "phone": "Dr Lal PathLabs - Patient Service Centre",
+    "hours": "Open· Closes 19:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=32.368176,75.522476;dfp"
+  },
+  {
+    "name": "Dr Bhanu's Multispeciality Dental Clinic And Implant Center",
+    "address": "Near DC Office, Ward No.16, Shiva Nagar, Kathua, Jammu and Kashmir 184101",
+    "phone": "Dr Bhanu's Multispeciality Dental Clinic And Implant Center",
+    "hours": "Open· Closes 14:00",
+    "image_url": "/th?id=OLC.ridIGxkAZ920vA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Rahul Dental Care and Implant Centre",
+    "address": "Ward No 2, Near Punjab National Bank, College Road, Kathua 184101",
+    "phone": "Dr Rahul Dental Care and Implant Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=32.369591,75.521385;dfp"
+  },
+  {
+    "name": "Kashyap Clinic",
+    "address": "'र'गढ़ Parmand Road, Pathankot, Punjab Region",
+    "phone": "Kashyap Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=32.269394,75.645035;dfp"
+  },
+  {
+    "name": "Kahlon Medical Clinic",
+    "address": "Azizpur Kalan, Sujanpur, Pathankot, Punjab 145023",
+    "phone": "Kahlon Medical Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=32.316975,75.608688;dfp"
+  }
+]

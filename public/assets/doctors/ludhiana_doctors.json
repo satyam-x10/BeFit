@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr. Puneet's Aastha Clinic",
+    "address": "Aastha Clinic, Churpur Road, Haibowal Kalan, Ludhiana, Punjab 141001",
+    "phone": "Dr. Puneet's Aastha Clinic",
+    "hours": "Open· Closes 13:00",
+    "image_url": "/th?id=OLC.ePOOXcarO1k6gw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Sidhu Clinic By Dr. Balwant Singh Sidhu",
+    "address": "Barewal, Ferozepur Road, Ludhiana 141012",
+    "phone": "Sidhu Clinic By Dr. Balwant Singh Sidhu",
+    "hours": "Open· Closes 21:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.908722,75.850899;dfp"
+  },
+  {
+    "name": "Dr. Kunal Jain",
+    "address": "Hero Dmch Heart Institute, Tagore Nagar, Civil Lines Near Rose Garden, Ludhiana, Punjab",
+    "phone": "Dr. Kunal Jain",
+    "hours": "Opens in 7 mins",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.915684,75.821449;dfp"
+  },
+  {
+    "name": "Dr. Neeraj Kumar Goyal",
+    "address": "730-i, Ludhiana, Punjab 141002",
+    "phone": "Dr. Neeraj Kumar Goyal",
+    "hours": "Open· Closes 19:00",
+    "image_url": "/th?id=OLC.9oNrUqVwhkSpig480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Sukhpreet Kaur",
+    "address": "Cloudnine Hospital, Ferozepur Rd, opp. to MBD Mall, Mahavir Nagar, Bhai Randhir Singh Nagar, Ludhiana, P…",
+    "phone": "Dr Sukhpreet Kaur",
+    "hours": "Open· Closes 16:00",
+    "image_url": "/th?id=OLC.3nqW5t4y1MXzlg480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Narinder Toor",
+    "address": "Main Road, Ludhiana, Punjab",
+    "phone": "Dr. Narinder Toor",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.920307,75.817238;dfp"
+  },
+  {
+    "name": "Dr. Atul Mishra",
+    "address": "44, G-Block, Ludhiana, Ludhiana 141001",
+    "phone": "Dr. Atul Mishra",
+    "hours": "Closed· Opens 16:00",
+    "image_url": null
+  },
+  {
+    "name": "DR. Gurpreet Singh",
+    "address": "449-G BRS Nagar, Ludhiana, Punjab 141001",
+    "phone": "DR. Gurpreet Singh",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Ashvind Bawa",
+    "address": "Hambran Road, Civil Lines, Ludhiana, Punjab",
+    "phone": "Dr. Ashvind Bawa",
+    "hours": "Closed· Opens 16:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr Savita Jain",
+    "address": "30, A Block, Bhai Randhir Singh Nagar, Ludhiana, Punjab 141012",
+    "phone": "Dr Savita Jain",
+    "hours": "Open· Closes 16:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Rajiv Verma",
+    "address": "39-GF, Pink Flats, Pakhowal Road, Ludhiana, Punjab",
+    "phone": "Dr. Rajiv Verma",
+    "hours": "Open· Closes 13:30",
+    "image_url": null
+  },
+  {
+    "name": "Healing Hands Clinic - Advanced Piles, Fissure, Fistula, Hernia Treatment Clinic | Doctor",
+    "address": "2117, 1457, Ferozepur Rd, opp. Hotel onn, Near Yes Bank, Gobind Nagar, Krishna Nagar, Ludhiana, Punjab",
+    "phone": "Healing Hands Clinic - Advanced Piles, Fissure, Fistula, Hernia Treatment Clinic | Doctor",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Tanveer Singh Bhutani",
+    "address": "40 New Lajpat Nagar, Pakhowal Road, Ludhiana, Punjab 141001",
+    "phone": "Dr. Tanveer Singh Bhutani",
+    "hours": "Opens in 7 mins",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.898359,75.831772;dfp"
+  },
+  {
+    "name": "Dr Kadambri Homoeopathy Clinic Ludhiana",
+    "address": "Sh20, Y Block Chowk, Haibowal Kalan, Ludhiana, Punjab 141001",
+    "phone": "Dr Kadambri Homoeopathy Clinic Ludhiana",
+    "hours": "Closed· Opens 11:00",
+    "image_url": null
+  },
+  {
+    "name": "Sharma Clinic",
+    "address": "22 Feet Rd, Durga Puri, Haibowal Kalan, Ludhiana, Punjab 141001, India, Ludhiana, Punjab 141001",
+    "phone": "Sharma Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Rakesh Goyal",
+    "address": "111-B, Landmark: Near Ishmeet Singh Music Academy, Ludhiana, Punjab",
+    "phone": "Dr. Rakesh Goyal",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.880239,75.782669;dfp"
+  },
+  {
+    "name": "Dr. A.P. Singh",
+    "address": "154, Panchsheel Enclave, Ferozpur Road, Landmark: Near Octroi Post, Ludhiana, Punjab",
+    "phone": "Dr. A.P. Singh",
+    "hours": "Open· Closes 14:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Praveen Gupta",
+    "address": "33-34, Landmark: Near Shree Raghunath Hospital, Ludhiana, Punjab",
+    "phone": "Dr. Praveen Gupta",
+    "hours": "Open· Closes 13:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.893946,75.837135;dfp"
+  }
+]

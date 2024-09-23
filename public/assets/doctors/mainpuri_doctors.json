@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr Kapoor Clinic",
+    "address": "Mainpuri Aliganj Road, Post Office, Panjabi Colony, Mainpuri, Uttar Pradesh 205001",
+    "phone": "Dr Kapoor Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.228617,79.027588;dfp"
+  },
+  {
+    "name": "Dr Madan Mohan Clinic",
+    "address": "Near Karhal Road Main Puri, Khadakjeet Nagar, Mainpuri, Uttar Pradesh 205001",
+    "phone": "Dr Madan Mohan Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.225777,79.025139;dfp"
+  },
+  {
+    "name": "Dr V K Mishra",
+    "address": "Awadh Nagar Station Road, Allahabad Bank, Devpura Banshi Gohara, Mainpuri, Uttar Pradesh 205001",
+    "phone": "Dr V K Mishra",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.22172,79.037018;dfp"
+  },
+  {
+    "name": "Dr Jitendra Singh Pajrut Clinic",
+    "address": "Kamla Guest House, Devi Road, Purohitana, Mainpuri, Uttar Pradesh 205001",
+    "phone": "Dr Jitendra Singh Pajrut Clinic",
+    "hours": "Open· Closes 21:30",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.236397,79.030716;dfp"
+  },
+  {
+    "name": "Dr Chiranji Lal Clinic",
+    "address": "Devi Road, Shiv Mandir, Chauthiyana Bhat Nagar, Mainpuri, Uttar Pradesh 205001",
+    "phone": "Dr Chiranji Lal Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.235191,79.029564;dfp"
+  },
+  {
+    "name": "Jain Clinic",
+    "address": "City Hospital, Tehsil Kacheri Road, Avas Vikas Colony, Mainpuri, Uttar Pradesh 205001",
+    "phone": "Jain Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.228912,79.028137;dfp"
+  },
+  {
+    "name": "Dr Nikhil Gupta Hospital",
+    "address": "Near Karhal Road Main Puri, Dharau, Mainpuri, Uttar Pradesh 205001",
+    "phone": "Dr Nikhil Gupta Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.226791,79.025124;dfp"
+  },
+  {
+    "name": "Dr Purang Hospital",
+    "address": "Devi Rd, Raja Ka Bagh, Bhat Nagar, Manipur, Uttar Pradesh 205001, India, Mainpuri, Uttar Pradesh 205001",
+    "phone": "Dr Purang Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.233315,79.028046;dfp"
+  },
+  {
+    "name": "Raj Clinic",
+    "address": "Police Station, Agra Road, Dharau, Mainpuri, Uttar Pradesh 205001",
+    "phone": "Raj Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Shri Ram Clinic",
+    "address": "New Tahasil Rui Bhongaon Mainpuri Road, NH2, Mainpuri, Uttar Pradesh",
+    "phone": "Shri Ram Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.216486,79.021011;dfp"
+  },
+  {
+    "name": "Jiva Ayurveda Clinic, Civil Line",
+    "address": "Fardpur Road, Golabazar, Civil Line, Mainpuri, Uttar Pradesh 205001",
+    "phone": "Jiva Ayurveda Clinic, Civil Line",
+    "hours": "Open· Closes 19:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr Laiq Dental Clinic",
+    "address": "Near Gandhi Ashram Or City Post Office, Sadar Bazar, Mainpuri, Uttar Pradesh, Uttar Pradesh 205001",
+    "phone": "Dr Laiq Dental Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.228556,79.027077;dfp"
+  },
+  {
+    "name": "Dr Ajay Baboo Shah Dispensary",
+    "address": "119, Karhal Road, Lohai, Mainpuri, Uttar Pradesh 205001",
+    "phone": "Dr Ajay Baboo Shah Dispensary",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.227154,79.02523;dfp"
+  },
+  {
+    "name": "Panacea homoeopathic clinic &d drug transmission research Center",
+    "address": "Esar Nadi pul, Mainpuri, Kurawali Rd, Mainpuri, Uttar Pradesh",
+    "phone": "Panacea homoeopathic clinic &d drug transmission research Center",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.228592,79.026169;dfp"
+  },
+  {
+    "name": "Krishna pathology",
+    "address": "In Front Of Kachha Aadti School Devi Road, Mainpuri, Uttar Pradesh, Uttar Pradesh 205001",
+    "phone": "Krishna pathology",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.236208,79.030556;dfp"
+  },
+  {
+    "name": "Rs Modern Pathology",
+    "address": "Station Road, Idbi Bank Branch Mainpuri, Station Mainpuri, Mainpuri, Uttar Pradesh 205001",
+    "phone": "Rs Modern Pathology",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.226036,79.033661;dfp"
+  },
+  {
+    "name": "Yadav Clinic",
+    "address": "Main Market Road, National Inter College Bhogaon Mainpuri, Bhongaon, Uttar Pradesh 205262",
+    "phone": "Yadav Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.255251,79.176567;dfp"
+  },
+  {
+    "name": "Khan Clinic",
+    "address": "Bypass KI Puliya G. T. Road Kurawali, Mainpuri, Uttar Pradesh 205265",
+    "phone": "Khan Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=27.400005,78.974594;dfp"
+  }
+]

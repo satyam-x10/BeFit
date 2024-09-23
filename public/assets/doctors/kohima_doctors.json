@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Grace Clinic",
+    "address": "Main Road, Opposite MLA Hostel Main Town, Kohima, Nagaland 797001",
+    "phone": "Grace Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.67275,94.110649;dfp"
+  },
+  {
+    "name": "Putuonuo Hospital",
+    "address": "M4F4+794, New Market Road, Kohima, Nagaland 797001",
+    "phone": "Putuonuo Hospital",
+    "hours": "Open 24 hours",
+    "image_url": "/th?id=OLC.D4DMxNZax3MvkQ480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "City clinic",
+    "address": "1st Floor, Mero Complex, N.H. 39, Opposite PHQ, P.R. Hill, Kohima, Nagaland",
+    "phone": "City clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.668583,94.091354;dfp"
+  },
+  {
+    "name": "Children's Clinic",
+    "address": "Ward-1(ONE) High School Junction, Kohima, Nagaland 797001",
+    "phone": "Children's Clinic",
+    "hours": "Open· Closes 18:00",
+    "image_url": "/th?id=OLC.lJc6AB3OhA7PIw480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Reproductive Health & Family Planning Clinic (RHFPC)",
+    "address": "Daklane, Kohima, Nagaland",
+    "phone": "Reproductive Health & Family Planning Clinic (RHFPC)",
+    "hours": "Open· Closes 17:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.671019,94.105011;dfp"
+  },
+  {
+    "name": "Ipuing Health Clinic",
+    "address": "Ward-3, Peren, High School Road, Jalukie Town, Kohima, Nagaland 797110",
+    "phone": "Ipuing Health Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.69145,94.098572;dfp"
+  },
+  {
+    "name": "Paramount Clinic and Lab",
+    "address": "1St Floor, Liegise Building, A, Nyamo Lotha Road, Dimapur, Nagaland 797112",
+    "phone": "Paramount Clinic and Lab",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.653885,94.099335;dfp"
+  },
+  {
+    "name": "Tuccu Health Clinic",
+    "address": "1St Floor, A, Dhopinala Lane 2, Dimapur, Nagaland 797112",
+    "phone": "Tuccu Health Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.653885,94.099335;dfp"
+  },
+  {
+    "name": "Dimapur Children's Clinic",
+    "address": "G.S.Road, West Yard Colony, Marwari Patti, Dimapur, Nagaland",
+    "phone": "Dimapur Children's Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. P. Deb. Homoeo Chamber",
+    "address": "Dhobinala, New Market, Dimapur, Nagaland",
+    "phone": "Dr. P. Deb. Homoeo Chamber",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.901009,93.720306;dfp"
+  },
+  {
+    "name": "Y.G. Child Care Clinic",
+    "address": "Y G Child Care Clinic, NH-29, Chekiye, Dimapur, Nagaland 797112",
+    "phone": "Y.G. Child Care Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=25.654158,94.105614;dfp"
+  },
+  {
+    "name": "Inlongso health clinic",
+    "address": "Bokajan Block, Amarajan, Assam 782460",
+    "phone": "Inlongso health clinic",
+    "hours": "Open· Closes 19:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=26.022024,93.775169;dfp"
+  }
+]

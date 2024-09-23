@@ -46,7 +46,6 @@ const SymptomChecker = () => {
     }
 
     setSymptompsResult(parsedSymptompsResponse);
-    console.log(parsedSymptompsResponse);
 
     const diseases = parsedSymptompsResponse?.disease;
     const remedies = parsedSymptompsResponse?.advices;

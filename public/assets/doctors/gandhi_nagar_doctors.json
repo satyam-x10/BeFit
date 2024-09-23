@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr. Rajiv Harshe",
+    "address": "324, Radhe Square, Reliance Cross Road, Kudasan, Gandhinagar, Gujarat, India, Gandhinagar, Gujarat",
+    "phone": "Dr. Rajiv Harshe",
+    "hours": "Open· Closes 13:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.23292,72.652908;dfp"
+  },
+  {
+    "name": "Dr. Bankim Modi- General & Laparoscopic Surgeon",
+    "address": "Tejas Surgical Hospital, Plot No. 951, Opp. Pathikashram Bus Stand, Sector- 7C, Gandhinagar, Gujarat 382007",
+    "phone": "Dr. Bankim Modi- General & Laparoscopic Surgeon",
+    "hours": "Closed· Opens 16:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.2153,72.640053;dfp"
+  },
+  {
+    "name": "Dr. Jaydip Saxena Clinic",
+    "address": "Sector 11, Suman City Tower, Gandhinagar, Gujarat, India, 382011, Gandhinagar, Madhya Pradesh 382011",
+    "phone": "Dr. Jaydip Saxena Clinic",
+    "hours": "Open· Closes 18:00",
+    "image_url": "/th?id=OLC.haf9BDFhkzG%2fPw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Karthik Mehta Clinic",
+    "address": "Hospital Road, Sector 17, Gandhinagar, Gujarat 382016",
+    "phone": "Dr Karthik Mehta Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.228058,72.653275;dfp"
+  },
+  {
+    "name": "Dr.Pandya's NeuroPanch Ayurveda Hospital",
+    "address": "Gandhinagar, Gujarat 382021",
+    "phone": "Dr.Pandya's NeuroPanch Ayurveda Hospital",
+    "hours": "Open· Closes 20:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.229799,72.666901;dfp"
+  },
+  {
+    "name": "Krishna : The Multispeciality Clinic",
+    "address": "C303 Swagat Rainforest 4 Near Sargasan Cross Road Gandhinagar, Visnagar, Gujarat, Gujarat 384315",
+    "phone": "Krishna : The Multispeciality Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.704855,72.537704;dfp"
+  },
+  {
+    "name": "Dr. Vishalkumar Leuva",
+    "address": "GJ SH 217, Gandhinagar, Gujarat",
+    "phone": "Dr. Vishalkumar Leuva",
+    "hours": "Open· Closes 23:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Prakash Patel",
+    "address": "2nd Floor, B Block, Radhe Signature, Gandhinagar, Gujarat",
+    "phone": "Dr. Prakash Patel",
+    "hours": "Open· Closes 12:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Yashvant Chhatbar",
+    "address": "Sector 17, Gandhinagar, Ahmedabad, Gujarat 382016",
+    "phone": "Dr. Yashvant Chhatbar",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Shuddhi hiims (gandhinagar) ayurveda clinic",
+    "address": "Shop No.203, 204-Second Floor, Shree Ugati Corporate Park, Near Swagat Rain Forest 2nd, Kudasan, Gandhin…",
+    "phone": "Shuddhi hiims (gandhinagar) ayurveda clinic",
+    "hours": "Open· Closes 18:00",
+    "image_url": null
+  },
+  {
+    "name": "Urvi maternity hospital - Dr. Pradip Bhavsar",
+    "address": "144/1, Opp Panchdev Temple, Sector 22, Gandhinagar, Gujarat 382022",
+    "phone": "Urvi maternity hospital - Dr. Pradip Bhavsar",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Vachhani Hospital - Orthopedic And Pediatric Nephrology Center",
+    "address": "3rd Floor, B-Block, Radhe Signature, Opp Sahajanand City Kudasan, Gandhinagar, Gujarat 382421",
+    "phone": "Vachhani Hospital - Orthopedic And Pediatric Nephrology Center",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Sanjivani Homeopathic Clinic",
+    "address": "Sanjivani Homeopathic Clinic, 335/1, Sector 22, Opp Gurukul Tower, Gandhinagar, Gujarat, Gujarat 382022",
+    "phone": "Sanjivani Homeopathic Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.233648,72.652199;dfp"
+  },
+  {
+    "name": "Dr Bhavin Bhatt Skin Specialist Gandhinagar",
+    "address": "Sector 16 Shiv Complex, Near Gh 4, Behind Aavkar Reastaurant, Gandhinagar, Gujarat 382016",
+    "phone": "Dr Bhavin Bhatt Skin Specialist Gandhinagar",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.232628,72.651077;dfp"
+  },
+  {
+    "name": "Dr AMI Shah swar maternity",
+    "address": "385, Sector 8, Gandhinagar, Gujarat 382008",
+    "phone": "Dr AMI Shah swar maternity",
+    "hours": "Open· Closes 12:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.206354,72.646317;dfp"
+  },
+  {
+    "name": "Pain clinic - Dr Rajeev Harshe",
+    "address": "324, Radhe Square, Reliance Cross Road, Kudasan, Opposite NID, Gandhinagar, Gujarat",
+    "phone": "Pain clinic - Dr Rajeev Harshe",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr Amrutbhai M Rajan",
+    "address": "Bhat, Hansol-gnr Highway, Gandhinagar, Gujarat 382428",
+    "phone": "Dr Amrutbhai M Rajan",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.103521,72.635544;dfp"
+  },
+  {
+    "name": "Dr Swati Shah",
+    "address": "Plot No 1 A Bhat Motera Link Road, Gandhinagar, Gujarat 382428",
+    "phone": "Dr Swati Shah",
+    "hours": "Open· Closes 18:00",
+    "image_url": null
+  }
+]

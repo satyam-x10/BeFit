@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Dr. R. Karthikeyan",
+    "address": "1/5, Kuppa Gounder Street, Dharmapuri, Tamil Nadu",
+    "phone": "Dr. R. Karthikeyan",
+    "hours": "Open· Closes 21:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=12.135768,78.166367;dfp"
+  },
+  {
+    "name": "Dr. Arumugam Kannan",
+    "address": "Salem Main Road, Dharmapuri, Tamil Nadu 636705",
+    "phone": "Dr. Arumugam Kannan",
+    "hours": "Open· Closes 15:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=12.114805,78.131149;clcp"
+  },
+  {
+    "name": "Ravichandran Siddha Clinic",
+    "address": "16A, Nethaji Bypass Road, Dharmapuri, Tamil Nadu 636705",
+    "phone": "Ravichandran Siddha Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=12.125668,78.15831;dfp"
+  },
+  {
+    "name": "DR. Abdul Kalam Makkal Esevai Maiyam",
+    "address": "Ground Floor Moovarasan Ganapathi Bommidi Salem Main Road, Opposite Indian OIL Bunk, Dharmapuri, Ta…",
+    "phone": "DR. Abdul Kalam Makkal Esevai Maiyam",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=12.13522,78.160728;dfp"
+  },
+  {
+    "name": "DR.N.Bhoopal Chettiar S.V.M.P.Pooja Kadai",
+    "address": "43/15, Dharmapuri, Bharathiyar Street, Dharmapruri, Salem, Tamil Nadu 636701",
+    "phone": "DR.N.Bhoopal Chettiar S.V.M.P.Pooja Kadai",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=12.127076,78.161728;dfp"
+  },
+  {
+    "name": "Doctors Pahrama",
+    "address": "1, Tubito Complex, Semmanahalli Road, Kambainallur, Karimangalam, Dharmapuri, Tamil Nadu 635202",
+    "phone": "Doctors Pahrama",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=12.129863,78.136192;dfp"
+  },
+  {
+    "name": "Suguna Clinic",
+    "address": "161, Kumarasamy Pettai, Pennagaram Main Road, Dharamapuri, Dharmapuri, Tamil Nadu 636701",
+    "phone": "Suguna Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Devaki Vascular Clinic",
+    "address": "Kaveri Lodge, Nethaji Byepass Road, opp. to Govt Dharmapuri Medical College, Dharmapuri, Tamil Nadu",
+    "phone": "Devaki Vascular Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=12.1257,78.154297;dfp"
+  },
+  {
+    "name": "Dr Perumal Krish Vigyan Kendra",
+    "address": "Elumichengiri Villagemallinayapalli PO, Krishnagiri, Dharmapuri, Tamil Nadu 635120",
+    "phone": "Dr Perumal Krish Vigyan Kendra",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=12.159283,78.163406;dfp"
+  },
+  {
+    "name": "Mani Ortho & Multi Speciality Hospital",
+    "address": "Perumpakkan Street, Near Government Dharmapuri Med, Salem Main Road, Dharmapuri, Tamil Nadu 636701",
+    "phone": "Mani Ortho & Multi Speciality Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=12.111876,78.152313;dfp"
+  },
+  {
+    "name": "Mukilan Clinic",
+    "address": "2\\59A, Kullanur, Bargur, Dharmapuri Main Road, Pochampalli, Krishnagiri, Tamil Nadu 635206",
+    "phone": "Mukilan Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=12.137502,78.162117;dfp"
+  },
+  {
+    "name": "Seva Skin Clinic",
+    "address": "74, Nggo's Colony, Salem Main Road, Oddappatti, Near Sarathy Traders, Dharmapuri, Tamil Nadu, Tamil Nadu …",
+    "phone": "Seva Skin Clinic",
+    "hours": "Closed· Opens 18:00",
+    "image_url": null
+  },
+  {
+    "name": "Sri Ortho Clinic",
+    "address": "1/241, OLD Quarters, Oddapatty, Nallampalli, Royal Nagar, Dharmapuri, Tamil Nadu 636705",
+    "phone": "Sri Ortho Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=12.12636,78.152679;dfp"
+  },
+  {
+    "name": "K J Hospital & K J Ct Scan Centre",
+    "address": "Nedumaran Nagar, Dharmapuri, Tamil Nadu 636701, India, Dharmapuri, Tamil Nadu 636701",
+    "phone": "K J Hospital & K J Ct Scan Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=12.128226,78.157959;dfp"
+  },
+  {
+    "name": "Sri Thirumalai Super Speciality Diagnostic Center",
+    "address": "2, Vedhakara, Street, Vedhakara Street, Pennagaram, Dharmapuri, Tamil Nadu 636810",
+    "phone": "Sri Thirumalai Super Speciality Diagnostic Center",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=12.134807,78.155533;dfp"
+  },
+  {
+    "name": "Mahan Agrangar Acupuncture Clinic",
+    "address": "338, Pennagaram Main Road, Papparapatti, Dharmapuri, Tamil Nadu 636809",
+    "phone": "Mahan Agrangar Acupuncture Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=12.124929,78.134651;dfp"
+  },
+  {
+    "name": "Pkp Diagnostic Center Llp",
+    "address": "No 2, 2b Adhiyaman Bye Pass Road, Dharmapuri, Tamil Nadu 636701",
+    "phone": "Pkp Diagnostic Center Llp",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=12.110074,78.149506;dfp"
+  }
+]

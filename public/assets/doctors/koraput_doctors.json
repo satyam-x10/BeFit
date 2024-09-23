@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Biswas clinic",
+    "address": "RP75+5V3, Koraput, Odisha",
+    "phone": "Biswas clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=18.8132,82.712601;dfp"
+  },
+  {
+    "name": "Databya Ayurvedic Hospital",
+    "address": "Nh43 Jeypore Vizianagaram Road, Koraput, Odisha 765013",
+    "phone": "Databya Ayurvedic Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=18.810621,82.712975;dfp"
+  },
+  {
+    "name": "Om Homoeopathy Clinic",
+    "address": "Jelc Complex, Near Hp Petrol Pump, Odisha 764020, India, Koraput, Odisha 764020",
+    "phone": "Om Homoeopathy Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.IZIXsmH5ZCD%2fEA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Deepak Pathology Clinic",
+    "address": "Amala Kutir Road, Aftab Paris Tower, Puchilata, Koraput, Odisha 764020",
+    "phone": "Deepak Pathology Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=18.81283,82.711151;dfp"
+  },
+  {
+    "name": "Puspalata Diagnostic Center",
+    "address": "Bhandi Road, Chandana Pokhori, Koraput, Odisha 764020",
+    "phone": "Puspalata Diagnostic Center",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=18.808363,82.710571;dfp"
+  },
+  {
+    "name": "Anandam school of Health Charitable Poly Clinic",
+    "address": "Ananand Niketan, Dumuriput, Koraput, Odisha 764021",
+    "phone": "Anandam school of Health Charitable Poly Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.Yl4O35JJ0%2bpesg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Kalupada Seko Bone Setting Clinic",
+    "address": "Lingaraj Nagar, Jeypore, Odisha 764004, India, Koraput, Odisha 764004",
+    "phone": "Kalupada Seko Bone Setting Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=18.877487,82.562653;dfp"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Dr. Abdul Wahab",
+    "address": "Ward No. 1, Near Govt Medical College and Hospital, Rajouri 185135",
+    "phone": "Dr. Abdul Wahab",
+    "hours": "Open· Closes 18:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=33.381596,74.331787;dfp"
+  },
+  {
+    "name": "Dr jamil clinic",
+    "address": "Ward no, J j Ployclinic, 1, Kheora, Rajouri",
+    "phone": "Dr jamil clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=33.390495,74.320267;dfp"
+  },
+  {
+    "name": "NSH - Dr. Nisar Surgical Hospital",
+    "address": "Kheora, Rajauri, Jammu and Kashmir (State) 185131",
+    "phone": "NSH - Dr. Nisar Surgical Hospital",
+    "hours": null,
+    "image_url": "/th?id=OLC.UTkDZ4yoaEdulA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Raza Homeopathic clinic",
+    "address": "Holictic Cure Homeo Clinic, Near Police Line, Rajouri",
+    "phone": "Dr Raza Homeopathic clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=33.368801,74.316902;dfp"
+  },
+  {
+    "name": "Dr wahab Homoeopathic clinic and Hijama (cupping therapy) center",
+    "address": "Ward No 1.Kheora Thanamandi Road Near Distt.Hospital, Rajouri, Rajouri 185131",
+    "phone": "Dr wahab Homoeopathic clinic and Hijama (cupping therapy) center",
+    "hours": "Open· Closes 18:00",
+    "image_url": "/th?id=OLC.ogPkJnxjZG7s%2fQ480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Lal PathLabs – Patient Service Centre",
+    "address": "Opposite Govt. Hospital, Opposite Govt. Hospital, Rajauri, Rajouri",
+    "phone": "Dr Lal PathLabs – Patient Service Centre",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=33.379116,74.305992;dfp"
+  },
+  {
+    "name": "Dr Israr's Dental Hospital",
+    "address": "Gujjar Mandi, Rajouri",
+    "phone": "Dr Israr's Dental Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=33.378052,74.313683;dfp"
+  }
+]

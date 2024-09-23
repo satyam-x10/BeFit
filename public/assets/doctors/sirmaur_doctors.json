@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Anant Clinic",
+    "address": "Main, Jhajjar Rd, Opposite Swaraj Tractor Agency, Jhajjar, Haryana",
+    "phone": "Anant Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.483299,77.133301;dfp"
+  },
+  {
+    "name": "DR. R N Sharma Clinic",
+    "address": "Near Old Bus Stand Rajgarh, Rajgarh, Sirmaur, Himachal Pradesh 173101",
+    "phone": "DR. R N Sharma Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.845116,77.285011;dfp"
+  },
+  {
+    "name": "DR. Saklani Clinic",
+    "address": "Vpo Majra, Near Tempo Stand, Paonta Sahib, Majra, Sirmaur, Himachal Pradesh 173021",
+    "phone": "DR. Saklani Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.472319,77.54982;dfp"
+  },
+  {
+    "name": "Dr. Harsimran Singh Chowdhary",
+    "address": "Ambala, Paonta Sahib, Dehradun Road, Sirmaur, Himachal Pradesh",
+    "phone": "Dr. Harsimran Singh Chowdhary",
+    "hours": "Open· Closes 14:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.440367,77.615059;dfp"
+  },
+  {
+    "name": "Sharma Clinic",
+    "address": "Bansal Hospital, Sector-4, Naraingarh, Haryana 134203",
+    "phone": "Sharma Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.4862,77.129288;dfp"
+  },
+  {
+    "name": "Rama Memorial Clinic (Dr. Jagdish Singh)",
+    "address": "Near PNB Herbertpur Court Road, National Highway, Herbertpur, Uttarakhand",
+    "phone": "Rama Memorial Clinic (Dr. Jagdish Singh)",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.4389,77.735703;dfp"
+  },
+  {
+    "name": "Life Care Homoeopathic Clinic",
+    "address": "Jain Bhawan, Near Vipul Gas Agency, Hospital Road, Solan, Solan, Himachal Pradesh, Himachal Pradesh 17…",
+    "phone": "Life Care Homoeopathic Clinic",
+    "hours": "Open· Closes 13:30",
+    "image_url": null
+  },
+  {
+    "name": "Shuddhi Clinic Shimla",
+    "address": "Sushant Bhavan, 1st Floor, Chota Shimla, Near Co-Operative Bank, Shimla, Himachal Pradesh 171002",
+    "phone": "Shuddhi Clinic Shimla",
+    "hours": "Open· Closes 18:00",
+    "image_url": null
+  },
+  {
+    "name": "Gurunanak Clinic",
+    "address": "Excise Colony, Nh72 Ambala Dehradun Haridwar Road, Narayangarh, Himachal Pradesh 173030",
+    "phone": "Gurunanak Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.497902,77.210701;dfp"
+  },
+  {
+    "name": "Dr. Surinder Kumar",
+    "address": "Plot No 2, Hsiidc Tech Park Near Nada Sahib Gurudwara, Panchkula 134109",
+    "phone": "Dr. Surinder Kumar",
+    "hours": "Closed· Opens 11:30",
+    "image_url": null
+  },
+  {
+    "name": "Amar homoeopathic clinic",
+    "address": "Housing Board Colony Phase 1 Baddi, Baddi, Himachal Pradesh",
+    "phone": "Amar homoeopathic clinic",
+    "hours": "Closed· Opens tomorrow 10:00",
+    "image_url": null
+  },
+  {
+    "name": "Ali Clinic",
+    "address": "Dehradun Road, Vishwakarma Mandir, Paonta Sahib, Himachal Pradesh 173025",
+    "phone": "Ali Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.436653,77.620476;dfp"
+  },
+  {
+    "name": "Dr. Suri's Homoeo clinic",
+    "address": "The Mall Road, Solan, Himachal Pradesh 173212",
+    "phone": "Dr. Suri's Homoeo clinic",
+    "hours": "Open· Closes 19:00",
+    "image_url": null
+  },
+  {
+    "name": "Abbhi Clinic",
+    "address": "Shiv Templebadripur, Paonta Sahib, Himachal Pradesh 173025",
+    "phone": "Abbhi Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Tiwari Clinic",
+    "address": "Dehradun Road, Shri Siddhivinayak Hospital, Paonta Sahib, Himachal Pradesh 173025",
+    "phone": "Tiwari Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.439507,77.616089;dfp"
+  },
+  {
+    "name": "Mangla Clinic",
+    "address": "116/6, Bye Pass Road, Paonta Sahib, Himachal Pradesh 173025",
+    "phone": "Mangla Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.44002,77.616379;dfp"
+  },
+  {
+    "name": "Sharma Homoeo Clinic",
+    "address": "Chail Road, Cover Bhojnalay, Chail, Himachal Pradesh 173217",
+    "phone": "Sharma Homoeo Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.969713,77.197968;dfp"
+  },
+  {
+    "name": "Healing Hands Pediatric And Neonatology Clinic",
+    "address": "Y-Point, Main Road, Paonta Sahib, Himachal Pradesh",
+    "phone": "Healing Hands Pediatric And Neonatology Clinic",
+    "hours": null,
+    "image_url": null
+  }
+]

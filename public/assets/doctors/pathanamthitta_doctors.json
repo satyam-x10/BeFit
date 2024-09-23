@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Muthoot Hospitals Kozhencherry",
+    "address": "College Road, Kozhencherry, Pathanamthitta, Kerala 689641, Pathanamthitta, Kerala 689641",
+    "phone": "Muthoot Hospitals Kozhencherry",
+    "hours": null,
+    "image_url": "/th?id=OLC.ExcZ2FZj5r8tUg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Prasanth's Diabetes Circle",
+    "address": "Consultant IN Internal Medicine AND Diabetes, MGM Muthoot Medical Centre, Pathanamthitta, Kerala",
+    "phone": "Dr Prasanth's Diabetes Circle",
+    "hours": null,
+    "image_url": "/th?id=OLC.qKGQE97hpGSLsw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Alshifa Clinic",
+    "address": "18\\577, Umayanalloor, Mylapure Road, Thrikovilvattom, Kollam, Kerala 691589",
+    "phone": "Alshifa Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.267482,76.79055;dfp"
+  },
+  {
+    "name": "The Doctors Multispeciality Homoeopathic Clinic",
+    "address": "Market, Pathanamthitta, Kerala",
+    "phone": "The Doctors Multispeciality Homoeopathic Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.pPgLCX%2b7PIvVOw480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "People's Clinic",
+    "address": "Near Alukas Jewellery, Pathanamthitta, Kerala 689645, India, Pathanamthitta, Kerala 689645",
+    "phone": "People's Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.266303,76.78347;dfp"
+  },
+  {
+    "name": "Dr. Arun Varghese Jacob",
+    "address": "Thiruvalla-Kumbazha Hwy, Chuttipara, Pathanamthitta, Kerala",
+    "phone": "Dr. Arun Varghese Jacob",
+    "hours": "Open· Closes 13:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.261914,76.789986;dfp"
+  },
+  {
+    "name": "Ayurdhama Ayurvedic Hospital & Research Center",
+    "address": "Hospital Road, Kozhencherry, Kerala",
+    "phone": "Ayurdhama Ayurvedic Hospital & Research Center",
+    "hours": "Open· Closes 18:00",
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,134&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.2744,76.565498;dfp"
+  },
+  {
+    "name": "Dayaadi Ayurveda Hospital",
+    "address": "Mamood, Kozhenchery, Kerala 689691",
+    "phone": "Dayaadi Ayurveda Hospital",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dhanwandhari Ayurveda Hospital",
+    "address": "Ksrtc Cross Road Pathanamthitta, Pathanamthitta, Kerala, Kerala 689645",
+    "phone": "Dhanwandhari Ayurveda Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.267427,76.78904;dfp"
+  },
+  {
+    "name": "Nancy Homoeo Clinic",
+    "address": "Kottayam - Kozhenchery Rd, Mallappally, Kerala",
+    "phone": "Nancy Homoeo Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.260067,76.787003;dfp"
+  },
+  {
+    "name": "Pathanamthitta Government Ayurvedic Hospital",
+    "address": "Thiruvalla-Kumbazha Road, Pathanamthitta, Kerala 689645",
+    "phone": "Pathanamthitta Government Ayurvedic Hospital",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Changethu Ayurveda Hospital",
+    "address": "Kulanada - Omalloor Rd, Kaniyarathupadi, Kerala",
+    "phone": "Changethu Ayurveda Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.267319,76.777832;dfp"
+  },
+  {
+    "name": "St Thomas Homeopathic Clinic",
+    "address": "Thiruvalla-Kumbazha Road, Pathanamthitta, Kerala 689645",
+    "phone": "St Thomas Homeopathic Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.264858,76.789413;dfp"
+  },
+  {
+    "name": "Viswas Clinical Laboratory & Ecg",
+    "address": "Viswas Clinical Thekkemala, Kozhenchery, Kerala 689654",
+    "phone": "Viswas Clinical Laboratory & Ecg",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Rudhra Ayurveda Clinic",
+    "address": "Main Eastern Highway, Kumbazha Bridge, Swamipadi, Kozhenchery, Kerala 689646",
+    "phone": "Rudhra Ayurveda Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.259505,76.809891;dfp"
+  },
+  {
+    "name": "Ayurdan Ayurveda Hospital And Panchakarma Center Pandalam",
+    "address": "Pandalam Palace, Near, Pandalam, Kerala 689501, India, Pathanamthitta, Kerala 689501",
+    "phone": "Ayurdan Ayurveda Hospital And Panchakarma Center Pandalam",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Thrayakattu Skin Clinic",
+    "address": "T B Road, Pathanamthitta, Kerala 689645",
+    "phone": "Thrayakattu Skin Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.265942,76.780869;dfp"
+  },
+  {
+    "name": "Homeo Dispensary",
+    "address": "Pariyaram Vettippuram Road, St Matys Orthodox Church, Karimarathingal, Pathanamthitta, Kerala 689645",
+    "phone": "Homeo Dispensary",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=9.274856,76.780975;dfp"
+  }
+]

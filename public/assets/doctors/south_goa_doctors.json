@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr. Antonio Figueiredo's Clinic",
+    "address": "Shop 3a, Bemvinda Apartments, Isidorio Baptista Rd, Next To Big G, Margao, Goa 403706",
+    "phone": "Dr. Antonio Figueiredo's Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=15.272449,73.962364;dfp"
+  },
+  {
+    "name": "Dr Rudolf Vas, Laparoscopic Surgeon, General Surgeon",
+    "address": "Abade Faria Road, Near Damodar Sal, Margao, Goa - 403601, Margao, Goa",
+    "phone": "Dr Rudolf Vas, Laparoscopic Surgeon, General Surgeon",
+    "hours": null,
+    "image_url": "/th?id=OLC.U1lm6m6AyFO8IA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Joline's Clinic",
+    "address": "Dr. Joline's Clinic, Opp. Jade Blue, Murida, Fatorda, Margao, Goa 403602, Margao, Goa, Goa 403602",
+    "phone": "Dr Joline's Clinic",
+    "hours": "Open· Closes 13:00",
+    "image_url": "/th?id=OLC.hpAQba3Fo8yNsA480x360&w=92&h=134&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Sudaiv Nagzarkar",
+    "address": "Martin Dias Road, Pancharatna Complex, South Goa, Goa",
+    "phone": "Dr. Sudaiv Nagzarkar",
+    "hours": "Open· Closes 13:00",
+    "image_url": "/th?id=OLC.pJ11%2f9Km%2f0%2bB2g480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Sunil Ghode",
+    "address": "Casa Joe Building, Ground Floor, Aquem, Goa 403601",
+    "phone": "Dr. Sunil Ghode",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=15.270867,73.959961;dfp"
+  },
+  {
+    "name": "Dr Damdor Ramnal Lot Likar Clinic",
+    "address": "D/F-6&7 Panchratna Complex, B/H Borkar Superstores, Margao, Goa 403601",
+    "phone": "Dr Damdor Ramnal Lot Likar Clinic",
+    "hours": null,
+    "image_url": "/th?id=OLC.glnbMwfChAh5lA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Subhash Chandra",
+    "address": "5, Hira Niketan Building, Comba, Near Loyala High School, Margao, Goa 403601",
+    "phone": "Dr Subhash Chandra",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr. Desai's Clinic",
+    "address": "2ND Floor St Sebastians Chapel Road, Salcette, Goa 403601",
+    "phone": "Dr. Desai's Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=15.272565,73.962364;dfp"
+  },
+  {
+    "name": "Dr Nicola Coutinho's Homoeopathic Clinic",
+    "address": "No 3 Margao Varca Road, Salcette, Goa 403601",
+    "phone": "Dr Nicola Coutinho's Homoeopathic Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr Kapil Prabhu Desai (ent)",
+    "address": "Office 2h, 2nd Floor, Arjuntree, Comba, Margao, Goa 403601, India, Margao, Goa 403601",
+    "phone": "Dr Kapil Prabhu Desai (ent)",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=15.27295,73.960274;dfp"
+  },
+  {
+    "name": "Dr. Ameya S. Velingker",
+    "address": "G2, Phase II, Ferreira Gardens, South Goa, Goa",
+    "phone": "Dr. Ameya S. Velingker",
+    "hours": "Closed· Opens 17:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr Batra's Homeopathy",
+    "address": "1st Floor, Gurusai Plaza, Isidorio Baptista Road, Pajifond, Margao, Goa 403601",
+    "phone": "Dr Batra's Homeopathy",
+    "hours": "Closed· Opens 11:00",
+    "image_url": null
+  },
+  {
+    "name": "Naik Vertigo and Ent Clinic",
+    "address": "Ug 202, Jmd K Square, Rua De Saudades, Near Krishna Mandir, Pajifond, Margao, Goa, Goa 403601",
+    "phone": "Naik Vertigo and Ent Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Ayurveda Speciality Clinic",
+    "address": "Opposite Soul Vacation Resort, Colva, Goa, Goa 403708",
+    "phone": "Ayurveda Speciality Clinic",
+    "hours": "Open· Closes 21:00",
+    "image_url": null
+  },
+  {
+    "name": "Ashirwad Urology And Laparoscopy Hospital",
+    "address": "Malbhat, Margao, Goa 403601, India, Margao, Goa 403601",
+    "phone": "Ashirwad Urology And Laparoscopy Hospital",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "AIS Clinic - Homeopathy Clinic, Margao, Goa",
+    "address": "G-11, Krishna Plaza, Near Corporation Bank, Vidyanagar, Gogol Margao, Margao, Goa 403601",
+    "phone": "AIS Clinic - Homeopathy Clinic, Margao, Goa",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=15.2712,73.963097;dfp"
+  },
+  {
+    "name": "Dr Sudhirs Ayusiddhi Ayurvedic clinic & Panchakarma center",
+    "address": "Kurtarkar Commercial Arcade, Off 6&8 Ponda Goa, South Goa, Goa 403401",
+    "phone": "Dr Sudhirs Ayusiddhi Ayurvedic clinic & Panchakarma center",
+    "hours": "Open· Closes 19:30",
+    "image_url": null
+  },
+  {
+    "name": "Dr. Jagruti Nadkarni",
+    "address": "B10, Sanchayani Anant Vishwa Housing Society, Margao, South Goa, South Goa 403601",
+    "phone": "Dr. Jagruti Nadkarni",
+    "hours": "Open· Closes 13:00",
+    "image_url": null
+  }
+]

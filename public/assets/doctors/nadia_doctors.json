@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr. Tanoy Bose",
+    "address": "B 13/166, Balaji Medicals, Block B, Kalyani City, Nadia, West Bengal",
+    "phone": "Dr. Tanoy Bose",
+    "hours": "Closed· Opens Sep 27 at 12:00",
+    "image_url": "/th?id=OLC.8K7LpXZc60upvQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Ritam Joarder",
+    "address": "A-9/16(S), Kalyani, Nadia, West Bengal",
+    "phone": "Dr. Ritam Joarder",
+    "hours": "Closed· Opens Sep 28 at 16:00",
+    "image_url": "/th?id=OLC.aeWa8MzYS1yiOQ480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Arindam Pande",
+    "address": "A9x/5 (S A), 24 Purguna, Kalyani Nadia, Nadia, West Bengal",
+    "phone": "Dr. Arindam Pande",
+    "hours": "Closed· Opens tomorrow 12:30",
+    "image_url": "/th?id=OLC.2HnjP2OOABJexA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Soumalya Golder",
+    "address": "Near Shimurali Down Station, Nadia, West Bengal",
+    "phone": "Dr. Soumalya Golder",
+    "hours": "Closed· Opens Sep 29 at 08:30",
+    "image_url": "/th?id=OLC.UTDr3OUaxlKUew480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Sabita Clinic",
+    "address": "141, Samir Biswas, Hemayet Pur, Hanskhali, Jaypur, Krishnagar, Nadia, West Bengal 741102",
+    "phone": "Sabita Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.385456,88.486534;dfp"
+  },
+  {
+    "name": "Dr.nirendranath Patra",
+    "address": "Chunuripara, Krishnagar, Nadia, West Bengal 741101",
+    "phone": "Dr.nirendranath Patra",
+    "hours": null,
+    "image_url": "/th?id=OLC.ZWsoBqn9cdHbZg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr. Soumalya Golder",
+    "address": "Dudhpukur Bazar, (4km From Silinda 20no. Highway), Nadia, West Bengal",
+    "phone": "Dr. Soumalya Golder",
+    "hours": "Closed· Opens tomorrow 09:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr Shantanu Ghosh Homoeo Clinic",
+    "address": "133, Milan Bagan Para, Ramnagar, Ranaghat 1, Ranaghat, Nadia, West Bengal 741201",
+    "phone": "Dr Shantanu Ghosh Homoeo Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.177107,88.600189;dfp"
+  },
+  {
+    "name": "Dr. Purnendu Sen Sarma- Diabetologist and Dermatologist",
+    "address": "Roy Para, Krishna Kunja, KN Roy Ln, Near Manasa Pukur, Krishnanagar, West Bengal",
+    "phone": "Dr. Purnendu Sen Sarma- Diabetologist and Dermatologist",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.393625,88.493019;dfp"
+  },
+  {
+    "name": "JoyRam Clinic | Pharmacy | Best Doctors from Kolkata",
+    "address": "Poramatala Rd, Nabadwip, West Bengal",
+    "phone": "JoyRam Clinic | Pharmacy | Best Doctors from Kolkata",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.423801,88.389038;dfp"
+  },
+  {
+    "name": "Dr Jayanta Pathak Clinic",
+    "address": "Ganpati Mandir, M M Ghosh Road, Hatar Para, Krishnanagar, Krishananagar, West Bengal 741101",
+    "phone": "Dr Jayanta Pathak Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.406755,88.494095;dfp"
+  },
+  {
+    "name": "Dr Pranab Mondal Clinic",
+    "address": "Krishnanagar, Krishananagar, West Bengal 741101",
+    "phone": "Dr Pranab Mondal Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.406895,88.493759;dfp"
+  },
+  {
+    "name": "Dr Sukhendg Viswas Clinic",
+    "address": "Golden Lodge, Ananta Hari Mitra Road, Hatar Para, Krishnanagar, Krishananagar, West Bengal 741101",
+    "phone": "Dr Sukhendg Viswas Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.404402,88.49279;dfp"
+  },
+  {
+    "name": "Dr.Mohabbat Mondal(Khushi polyclinic) Best Consultant physician, Medical College Lecturer department of Medi…",
+    "address": "Ranaband Road, Sreenagar, Chapra, West Bengal",
+    "phone": "Dr.Mohabbat Mondal(Khushi polyclinic) Best Consultant physician, Medical College Lecturer department of Medi…",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.410225,88.498466;dfp"
+  },
+  {
+    "name": "Dr Tarunjit Dutta Clinic",
+    "address": "Sadar Hospital, D L Roy Road, Hatar Para, Krishnanagar, Krishananagar, West Bengal 741101",
+    "phone": "Dr Tarunjit Dutta Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.405001,88.49173;dfp"
+  },
+  {
+    "name": "Homoeo Arogya Clinic",
+    "address": "Bejikhali Lane, Krishnanagar, West Bengal",
+    "phone": "Homoeo Arogya Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.403139,88.492073;dfp"
+  },
+  {
+    "name": "Dr Debashis Saha Psychiatrist",
+    "address": "Daisy Medicine Shop, Cinema House Ln, Krishnanagar, West Bengal",
+    "phone": "Dr Debashis Saha Psychiatrist",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=23.402832,88.492325;dfp"
+  },
+  {
+    "name": "Krishtirupa Sen Sarma- Nutritionist In Barasat",
+    "address": "Krishna Kunj, Obesity & Slimming Management Centre, KN Roy Lane, Roy Para, Krishnanagar, Nadia, West Be…",
+    "phone": "Krishtirupa Sen Sarma- Nutritionist In Barasat",
+    "hours": "Open· Closes 21:00",
+    "image_url": null
+  }
+]

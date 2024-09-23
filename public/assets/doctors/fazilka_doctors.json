@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Dr.Gagan Watts",
+    "address": "Gandhi Chowk, Fazilka 152123",
+    "phone": "Dr.Gagan Watts",
+    "hours": null,
+    "image_url": "/th?id=OLC.bV0A08kA0cDIRA480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Dr Grover Clinic",
+    "address": "Near Bus Terminal, Abadi Hazoor Singh, Fazilka, Punjab 152123",
+    "phone": "Dr Grover Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.408474,74.030296;dfp"
+  },
+  {
+    "name": "Nirola Hospital",
+    "address": "Railway Crossing, Bangla, Abohar, Punjab 152116",
+    "phone": "Nirola Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.409807,74.028549;dfp"
+  },
+  {
+    "name": "Dr Vijay Memorial Hospital",
+    "address": "National Insurance, Salemshah Road, Gandhi Nagar, Abohar, Punjab 152116",
+    "phone": "Dr Vijay Memorial Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.406422,74.022476;dfp"
+  },
+  {
+    "name": "Dr Adhiraj’s Best Ayurveda Clinic & Panchkarma Centre in Punjab",
+    "address": "Bikaneri Road Near Agarsen Chowk, Ferozepur, Punjab 152123",
+    "phone": "Dr Adhiraj’s Best Ayurveda Clinic & Panchkarma Centre in Punjab",
+    "hours": null,
+    "image_url": "/th?id=OLC.u2vyBRR8%2bBYMYg480x360&w=92&h=112&c=8&rs=1&qlt=80&cdv=1&pid=Local"
+  },
+  {
+    "name": "Guru Nanak Clinic",
+    "address": "Multani Chungi, Court Road, Gandhi Nagar, Abohar, Punjab 152116",
+    "phone": "Guru Nanak Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.399317,74.0186;dfp"
+  },
+  {
+    "name": "Maj. Dr. Saleha Batool",
+    "address": "Chungi No.1, Suraj Miani Road 152123",
+    "phone": "Maj. Dr. Saleha Batool",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.40897,74.034813;dfp"
+  },
+  {
+    "name": "Thakkar Homoeo Clinic",
+    "address": "Gowshalla Rd, Baniya Mohalla, Fazilka, Punjab",
+    "phone": "Thakkar Homoeo Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.408701,74.026802;dfp"
+  },
+  {
+    "name": "Dr. Gautam Rekhi Skin, Hair & Laser Specialist",
+    "address": "Multani Chungi Near Dr Sethi Hospital Fazilka, Fazilka, Punjab Region",
+    "phone": "Dr. Gautam Rekhi Skin, Hair & Laser Specialist",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.394413,74.0373;dfp"
+  },
+  {
+    "name": "GurAsees Homoeopathic Clinic",
+    "address": "Dead House Rd, Arya Nagar, Fazilka, Punjab",
+    "phone": "GurAsees Homoeopathic Clinic",
+    "hours": "Open· Closes 20:00",
+    "image_url": null
+  },
+  {
+    "name": "Dr Alok Jha Bpt, Mpt(Orthopedics) Physiotherapist",
+    "address": "Street Number 4, Malout, Punjab",
+    "phone": "Dr Alok Jha Bpt, Mpt(Orthopedics) Physiotherapist",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.405485,74.019257;dfp"
+  },
+  {
+    "name": "DR. Sawaran's Clinic",
+    "address": "Ground Floor, Abhun, Malout Road, Fazilka, Punjab 152123",
+    "phone": "DR. Sawaran's Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.399599,74.0326;dfp"
+  },
+  {
+    "name": "DR. Nazia's Homoeo CARE",
+    "address": "Salem Shah Road, Fazilka 152123",
+    "phone": "DR. Nazia's Homoeo CARE",
+    "hours": "Opens in 13 mins",
+    "image_url": null
+  },
+  {
+    "name": "Ramayana's Diet Clinic",
+    "address": "Block -A, H.No.3, Vijay Colony, Fazilka, Punjab",
+    "phone": "Ramayana's Diet Clinic",
+    "hours": null,
+    "image_url": null
+  },
+  {
+    "name": "Dr Rajan Kakkar Children Hospital",
+    "address": "Baniya Mohalla, Fazilka, Punjab 152123, India, Fazilka, Punjab 152123",
+    "phone": "Dr Rajan Kakkar Children Hospital",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.403,74.025002;dfp"
+  },
+  {
+    "name": "Tarekha Homeopathic Clinic",
+    "address": "Clock Tower, Gandhi Nagar, Fazilka, Punjab 152123",
+    "phone": "Tarekha Homeopathic Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.403786,74.022621;dfp"
+  },
+  {
+    "name": "Watts Dawakhana",
+    "address": "Gandhi Chowk, Gandhi Nagar, Fazilka, Punjab 152123",
+    "phone": "Watts Dawakhana",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.399446,74.027214;dfp"
+  },
+  {
+    "name": "Choudhary Clinic",
+    "address": "NAI Abadi, Mahavir School, Abohar, Street Number 14-15, Fazilka, Punjab 152116",
+    "phone": "Choudhary Clinic",
+    "hours": null,
+    "image_url": "https://www.bing.com/maps/geoplat/REST/v1/Imagery/Map/RoadVibrant?ms=92,112&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-US&ur=in&da=n&logo=n&fmt=png&od=1&shading=hill&pp=30.13311,74.201607;dfp"
+  }
+]
